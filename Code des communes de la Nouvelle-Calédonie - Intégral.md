@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2001-07-05
+Version Consolidée au 2001-07-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -11739,9 +11739,9 @@ _Cite_:
 ###### Article R234-6
 
 Les crédits restants de la quote-part mentionnée à l'article L. 2334-37 du code général des collectivités territoriales sont
-délégués aux représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans la
-collectivité territoriale de Mayotte, proportionnellement à la population des communes et des circonscriptions territoriales
-dont la population n'excède pas 20 000 habitants.
+délégués aux représentants de l'Etat en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et à Mayotte,
+proportionnellement à la population des communes et des circonscriptions territoriales dont la population n'excède pas 20 000
+habitants.
 
 Le représentant de l'Etat attribue ces crédits aux communes mentionnées ci-dessus dans les conditions prévues à l'article R.
 234-7.
@@ -11755,9 +11755,9 @@ _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
