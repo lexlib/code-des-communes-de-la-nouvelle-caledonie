@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -222,7 +222,7 @@ Version Consolidée au 2004-03-10
               - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#219)
             - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#220)
               - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#221)
-              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-37)](#222)
+              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#222)
               - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#223)
               - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#224)
             - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#225)
@@ -13775,7 +13775,10 @@ A cet effet :
 
 4° Il peut faire assermenter certains agents nommés par lui et agréés par le haut-commissaire ;
 
-5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses.
+5° Il est l'ordonnateur de la régie et, à ce titre, prescrit l'exécution des recettes et des dépenses ;
+
+6° Il prend les décisions pour lesquelles il a reçu délégation en vertu des dispositions du c de l'article L. 2221-5-1 du
+code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -13783,9 +13786,13 @@ _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2004-628 du 28 juin 2004 - art. 6 (V) JORF 1er juillet 2004
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2221-5-1 (V)
 
 
 ###### Article R323-23
@@ -14070,31 +14077,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article R323-37
-
-Les fonds de la régie sont déposés au Trésor.
-
-Cependant la régie peut se faire ouvrir des comptes de dépôt à un centre de chèques postaux et à la Caisse des dépôts et
-consignations.
-
-L'ouverture d'un compte de dépôt dans tout autre établissement de crédit est subordonnée à l'autorisation du trésorier-payeur
-général.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Abrogé par_:
-
-  - Décret n°2004-628 du 28 juin 2004 - art. 6 (V) JORF 1er juillet 2004
 
 
 ##### Paragraphe 3 : Budget<a id=223></a>
