@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-04-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -2054,9 +2054,8 @@ _Cité par_:
 
 ###### Article L122-4-1
 
-Les fonctions de maire sont incompatibles avec l'exercice d'un mandat de représentant au Parlement européen ou d'une des
-fonctions électives suivantes : président du gouvernement de la Polynésie française, président d'un conseil régional,
-président d'un conseil général.
+Les fonctions de maire sont incompatibles avec l'exercice d'une des fonctions électives suivantes : président du gouvernement
+de la Polynésie française, président d'un conseil régional, président d'un conseil général.
 
 Les fonctions de maire sont également incompatibles avec celles de membre de la Commission européenne, membre du directoire
 de la Banque centrale européenne ou membre du conseil de la politique monétaire de la Banque de France.
@@ -2071,9 +2070,9 @@ _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2003-327 du 11 avril 2003 - art. 16 () JORF 12 avril 2003
 
 _Cité par_:
 
