@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -41,7 +41,7 @@ Version Consolidée au 2007-02-01
         - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-3)](#38)
       - [TITRE III : POLICE (art. L131-1 à L133-1)](#39)
         - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-14)](#40)
-          - [Section 1 : Pouvoirs généraux du maire en matière de police (art. L131-1 à L131-2-1)](#41)
+          - [Section 1 : Pouvoirs généraux du maire en matière de police (art. L131-1 à L131-2-2)](#41)
           - [Section 2 : Pouvoirs de police du maire portant sur des objets particuliers (art. L131-3 à L131-12)](#42)
           - [Section 3 : Pouvoirs du haut-commissaire en matière de police municipale (art. L131-13 à L131-14)](#43)
         - [Chapitre II : Dispositions particulières (art. L132-1 à L132-6)](#44)
@@ -3937,6 +3937,32 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L122-22 (V)
 
 
+###### Article L131-1-1
+
+Sous réserve des pouvoirs de l'autorité judiciaire et des compétences du représentant de l'Etat, des compétences d'action
+sociale confiées à la Nouvelle-Calédonie et des compétences des collectivités publiques et des établissements et organismes
+intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de la délinquance et en coordonne la
+mise en oeuvre.
+
+Dans les communes de plus de 10 000 habitants, le maire ou son représentant désigné dans les conditions prévues à l'article
+L. 122-11 préside un conseil local de sécurité et de prévention de la délinquance mis en place dans des conditions fixées par
+décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-579 2001-06-29
+
+_Créé par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L122-11 (M)
+
+
 ###### Article L131-2
 
 La police municipale a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. Elle comprend
@@ -4029,6 +4055,25 @@ _Cité par_:
 
   - Code de la sécurité intérieure - art. R766-6 (VD)
   - Code des communes de la Nouvelle-Calédonie - art. L131-13 (V)
+
+
+###### Article L131-2-2
+
+Lorsque des faits sont susceptibles de porter atteinte au bon ordre, à la sûreté, à la sécurité ou à la salubrité publiques,
+le maire ou son représentant peut procéder verbalement à l'endroit de leur auteur au rappel des dispositions qui s'imposent à
+celui-ci pour se conformer à l'ordre et à la tranquillité publics, le cas échéant en le convoquant en mairie.
+
+Le rappel à l'ordre d'un mineur intervient, sauf impossibilité, en présence de ses parents ou de ses représentants légaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2001-579 2001-06-29
+
+_Créé par_:
+
+  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
 
 
 ##### Section 2 : Pouvoirs de police du maire portant sur des objets particuliers<a id=42></a>
@@ -4257,11 +4302,12 @@ _Cite_:
 
 ###### Article L131-13-1
 
-En cas d'urgence, lorsque l'atteinte au bon ordre, à la salubrité, à la tranquillité et à la sécurité publiques l'exige et
-que les moyens dont dispose le haut-commissaire ne permettent plus de poursuivre les objectifs pour lesquels il détient des
-pouvoirs de police, celui-ci peut, par arrêté motivé, pour toutes les communes ou plusieurs ou une seule d'entre elles,
-réquisitionner tout bien et service, requérir toute personne nécessaire au fonctionnement de ce service ou à l'usage de ce
-bien et prescrire toute mesure utile jusqu'à ce que l'atteinte à l'ordre public ait pris fin.
+En cas d'urgence, lorsque l'atteinte, constatée et prévisible, au bon ordre, à la salubrité, à la tranquillité et à la
+sécurité publiques l'exige et que les moyens dont dispose le haut-commissaire ne permettent plus de poursuivre les objectifs
+pour lesquels il détient des pouvoirs de police, celui-ci peut, par arrêté motivé, pour toutes les communes ou plusieurs ou
+une seule d'entre elles, réquisitionner tout bien et service, requérir toute personne nécessaire au fonctionnement de ce
+service ou à l'usage de ce bien et prescrire toute mesure utile jusqu'à ce que l'atteinte à l'ordre public ait pris fin ou
+que les conditions de son maintien soient assurées.
 
 L'arrêté motivé fixe la nature des prestations requises, la durée de la mesure de réquisition ainsi que les modalités de son
 application.
@@ -4297,9 +4343,9 @@ _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 122 () JORF 19 mars 2003
+  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
 
 _Cite_:
 
@@ -4392,15 +4438,19 @@ aux règlements et arrêtés de police municipale.
 
 Ils dressent des procès-verbaux pour constater ces contraventions.
 
+Ils constatent également les contraventions mentionnées au livre VI du code pénal, dont la liste est fixée par décret en
+Conseil d'Etat, dès lors qu'elles ne nécessitent pas de leur part d'actes d'enquête et à l'exclusion de celles réprimant des
+atteintes à l'intégrité des personnes.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
 
 _Cité par_:
 
@@ -4414,21 +4464,34 @@ _Cité par_:
 Les gardes champêtres exercent leurs fonctions dans les conditions prévues aux articles 15, 22 à 25 et 27 du code de
 procédure pénale.
 
+Pour l'exercice des attributions fixées au dernier alinéa de l'article L. 132-2, les gardes champêtres agissent en
+application du 3° de l'article 21 du code de procédure pénale.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2001-579 2001-06-29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L546-6 (VD)
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 15 (V)
-  - CODE DE PROCEDURE PENALE - art. 27 (M)
-  - Code de procédure pénale 15, 22 à 25, 27
+  - Code des communes de la Nouvelle-Calédonie - art. L132-2
+  - Code de procédure pénale
+  - Code de procédure pénale - art. 15
+  - Code de procédure pénale - art. 21
+  - Code de procédure pénale - art. 27
 
 
 ###### Article L132-4
