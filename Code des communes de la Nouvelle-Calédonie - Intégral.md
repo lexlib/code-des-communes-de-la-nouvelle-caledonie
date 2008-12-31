@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2007-07-27
+Version Consolidée au 2009-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -39,7 +39,7 @@ Version Consolidée au 2007-07-27
         - [Chapitre V : Participation des habitants à la vie locale. (art. L125-1 à L125-11)](#36)
           - [Section 1 : Consultation des électeurs (art. L125-1 à L125-9)](#37)
           - [Section 2 : Quartiers et comités consultatifs (art. L125-10 à L125-11)](#38)
-        - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics. (art. L126-1)](#39)
+        - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics. (art. L126-1 à L126-2)](#39)
         - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-3)](#40)
       - [TITRE III : POLICE (art. L131-1 à L133-1)](#41)
         - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-14)](#42)
@@ -147,14 +147,14 @@ Version Consolidée au 2007-07-27
           - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. L411-2 à L411-4)](#144)
   - [Partie réglementaire (art. R111-1 à R411-2)](#145)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. R111-1 à R163-1)](#146)
-      - [TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES (art. R111-1 à R114-5)](#147)
+      - [TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES (art. R111-1 à R114-7)](#147)
         - [Chapitre Ier : Nom des communes (art. R111-1)](#148)
         - [Chapitre II : Limites territoriales, chef-lieu et fusion des communes (art. D112-3 à R112-24)](#149)
           - [Section 1 : Dispositions générales (art. D112-3 à R112-2)](#150)
           - [Section 2 : Fusion de communes (art. D112-4 à R112-14)](#151)
             - [Sous-section 1 : Dispositions communes (art. D112-4 à R112-14)](#152)
           - [Section 3 : Modifications aux limites territoriales des communes (art. R112-16 à R112-24)](#153)
-        - [Chapitre IV : Population des communes (art. R114-1 à R114-5)](#154)
+        - [Chapitre IV : Population des communes (art. R114-1 à R114-7)](#154)
       - [TITRE II : ORGANES DE LA COMMUNE (art. R121-1 à R125-14)](#155)
         - [Chapitre Ier : Conseil municipal (art. R121-1 à R121-33)](#156)
           - [Section 1 : Formation (art. R121-2 à R121-5)](#157)
@@ -4008,6 +4008,40 @@ _Créé par_:
 _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L321-1 (V)
+
+
+###### Article L126-2
+
+Dans les communes de 10 000 habitants et plus, il est créé une commission communale pour l'accessibilité aux personnes
+handicapées composée notamment des représentants de la commune, d'associations d'usagers et d'associations représentant les
+personnes handicapées. 
+
+Cette commission dresse le constat de l'état d'accessibilité du cadre bâti existant, de la voirie, des espaces publics et des
+transports. Elle établit un rapport annuel présenté en conseil municipal et fait toutes propositions utiles de nature à
+améliorer la mise en accessibilité de l'existant. 
+
+Le rapport présenté au conseil municipal est transmis au haut-commissaire de la République, au gouvernement de la Nouvelle-
+Calédonie et au président de l'assemblée de province, ainsi qu'à tous les responsables des bâtiments, installations et lieux
+de travail concernés par le rapport. 
+
+Le maire préside la commission et arrête la liste de ses membres. 
+
+Cette commission organise également un système de recensement de l'offre de logements accessibles aux personnes handicapées. 
+
+Des communes peuvent créer une commission intercommunale. Celle-ci exerce pour l'ensemble des communes concernées les
+missions d'une commission communale. Cette commission intercommunale est présidée par l'un des maires des communes, qui
+arrêtent conjointement la liste de ses membres. 
+
+Lorsque la compétence en matière de transports ou de logement est exercée au sein d'un groupement de communes, la commission
+pour l'accessibilité aux personnes handicapées peut être créée auprès de ce groupement. Elle est alors présidée par le
+président de l'établissement. La création d'une commission intercommunale est obligatoire pour les groupements de communes
+compétents en matière de transports ou de logement, dès lors qu'ils regroupent 10 000 habitants ou plus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2008-859 du 28 août 2008 - art. 11
 
 
 #### Chapitre VII : Responsabilité et protection des élus<a id=40></a>
@@ -11136,6 +11170,38 @@ _Cité par_:
 _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. R114-4 (V)
+
+
+###### Article R114-6
+
+Il est procédé simultanément aux opérations de recensement complémentaire et d'attribution de population fictive prévue aux
+articles R. 114-4 et R. 114-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-637 du 8 juin 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R114-4
+
+
+###### Article R114-7
+
+Les majorations de population fictive sont attribuées uniformément pour deux ans, avec recensement obligatoire à l'expiration
+de ce délai et sans qu'à cette date puisse être laissé à la commune le bénéfice d'une population fictive résiduelle. 
+
+En outre, il ne peut être procédé pour une même commune à l'exécution d'un nouveau recensement complémentaire après
+l'attribution d'une nouvelle population fictive dans l'année qui suit la première attribution et qui précède celle de son
+recensement complémentaire obligatoire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-637 du 8 juin 2009 - art. 3
 
 
 ### TITRE II : ORGANES DE LA COMMUNE<a id=155></a>
