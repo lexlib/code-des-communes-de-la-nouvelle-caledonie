@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -2551,7 +2551,9 @@ Le maire peut également donner, sous sa surveillance et sa responsabilité, par
 
 1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ;
 
-2° Au directeur général des services techniques et au directeur des services techniques des communes.
+2° Au directeur général des services techniques et au directeur des services techniques des communes ;
+
+3° Aux responsables de services communaux.
 
 Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
@@ -2563,18 +2565,14 @@ formes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 11 () JORF 27 juillet 2007
+  - Loi n°2009-526 du 12 mai 2009 - art. 86 (V)
 
 _Cite_:
 
-  - Code électoral - art. L141 (Ab)
-  - Code des communes de la Nouvelle-Calédonie - art. L122-4-1 (M)
+  - Code électoral - art. LO141
+  - Code des communes de la Nouvelle-Calédonie - art. L122-4-1
 
 _Cité par_:
 
