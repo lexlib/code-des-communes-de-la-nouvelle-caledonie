@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2009-10-31
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -154,8 +154,8 @@ Version Consolidée au 2009-10-31
             - [Sous-section 1 : Dispositions communes (art. D112-4 à R112-14)](#151)
           - [Section 3 : Modifications aux limites territoriales des communes (art. R112-16 à R112-24)](#152)
         - [Chapitre IV : Population des communes (art. R114-1 à R114-7)](#153)
-      - [TITRE II : ORGANES DE LA COMMUNE (art. R121-1 à R125-14)](#154)
-        - [Chapitre Ier : Conseil municipal (art. R121-1 à R121-33)](#155)
+      - [TITRE II : ORGANES DE LA COMMUNE (art. D121-34 à R125-14)](#154)
+        - [Chapitre Ier : Conseil municipal (art. D121-34 à R121-33)](#155)
           - [Section 1 : Formation (art. R121-2 à R121-5)](#156)
           - [Section 2 : Fonctionnement (art. R121-6 à R121-9)](#157)
           - [Section 3 : Dispositions applicables aux membres des conseils municipaux (art. R121-10 à R121-11)](#158)
@@ -182,84 +182,86 @@ Version Consolidée au 2009-10-31
       - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#179)
         - [Chapitre III : Syndicat de communes (art. R163-1)](#180)
           - [Section 1 : Création du syndicat (art. R163-1)](#181)
-    - [LIVRE II : FINANCES COMMUNALES (art. D211-3 à R251-1)](#182)
-      - [TITRE Ier : BUDGET (art. D211-3 à R212-6)](#183)
-        - [Chapitre Ier : Dispositions générales (art. D211-3 à R211-2)](#184)
-        - [Chapitre II : Vote et règlement (art. R212-1 à R212-6)](#185)
-      - [TITRE II : DÉPENSES (art. R221-1 à R221-2)](#186)
-      - [TITRE III : RECETTES (art. D233-1 à R236-10)](#187)
-        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#188)
-          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#189)
-            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#190)
-            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#191)
-            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#192)
-            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#193)
-        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-11)](#194)
-          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#195)
-            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#196)
-            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#197)
-            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#198)
-          - [Section 2 : Dotation globale d'équipement (art. R234-5 à R234-10)](#199)
-          - [Section 3 : Dotation de développement rural (art. R234-11)](#200)
-        - [Chapitre V : Subventions (art. D235-1)](#201)
-        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#202)
-          - [Section 1 : Avances (art. R236-1 à R236-7)](#203)
-          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-8)](#204)
-          - [Section 4 : Garanties d'emprunts (art. R236-10)](#205)
-      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#206)
-        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#207)
-          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#208)
-          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#209)
-          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#210)
-      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. R251-1)](#211)
-        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. R251-1)](#212)
-    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#213)
-      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#214)
-        - [Chapitre Ier : Biens communaux (art. R311-1)](#215)
-        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#216)
-          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#217)
-          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#218)
-          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#219)
-        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#220)
-        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#221)
-          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#222)
-        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#223)
-      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#224)
-        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#225)
-          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#226)
-          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#227)
-            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#228)
-            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#229)
-              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#230)
-              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#231)
-              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#232)
-              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#233)
-            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#234)
-              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#235)
-              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#236)
-              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#237)
-              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#238)
-            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#239)
-            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#240)
-          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#241)
-            - [Sous-section 1 : Création (art. R323-55)](#242)
-            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#243)
-              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#244)
-              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#245)
-              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#246)
-              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#247)
-            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#248)
-            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#249)
-            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#250)
-          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#251)
-        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#252)
-      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. R382-1 à R383-5)](#253)
-        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#254)
-        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#255)
-    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1 à R411-2)](#256)
-      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1 à R411-2)](#257)
-        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1 à R411-2)](#258)
-          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1 à R411-2)](#259)
+    - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#182)
+      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#183)
+        - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#184)
+        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#185)
+      - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#186)
+      - [TITRE III : RECETTES (art. D231-1 à R236-10)](#187)
+        - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#188)
+        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#189)
+          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#190)
+            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#191)
+            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#192)
+            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#193)
+            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#194)
+        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-11)](#195)
+          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#196)
+            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#197)
+            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#198)
+            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#199)
+          - [Section 2 : Dotation globale d'équipement (art. R234-5 à R234-10)](#200)
+          - [Section 3 : Dotation de développement rural (art. R234-11)](#201)
+        - [Chapitre V : Subventions (art. D235-1)](#202)
+        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#203)
+          - [Section 1 : Avances (art. R236-1 à R236-7)](#204)
+          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-8)](#205)
+          - [Section 4 : Garanties d'emprunts (art. D236-11 à R236-10)](#206)
+      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#207)
+        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#208)
+          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#209)
+          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#210)
+          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#211)
+      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. D251-2 à R251-1)](#212)
+        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. D251-2 à R251-1)](#213)
+    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#214)
+      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#215)
+        - [Chapitre Ier : Biens communaux (art. R311-1)](#216)
+        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#217)
+          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#218)
+          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#219)
+          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#220)
+        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#221)
+        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#222)
+          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#223)
+        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#224)
+      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#225)
+        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#226)
+          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#227)
+          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#228)
+            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#229)
+            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#230)
+              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#231)
+              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#232)
+              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#233)
+              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#234)
+            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#235)
+              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#236)
+              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#237)
+              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#238)
+              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#239)
+            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#240)
+            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#241)
+          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#242)
+            - [Sous-section 1 : Création (art. R323-55)](#243)
+            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#244)
+              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#245)
+              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#246)
+              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#247)
+              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#248)
+            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#249)
+            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#250)
+            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#251)
+          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#252)
+        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#253)
+      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. D381-1 à R383-5)](#254)
+        - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#255)
+        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#256)
+        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#257)
+    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1 à R411-2)](#258)
+      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1 à R411-2)](#259)
+        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1 à R411-2)](#260)
+          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1 à R411-2)](#261)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION COMMUNALE<a id=2></a>
@@ -11261,6 +11263,109 @@ _Créé par_:
 
 #### Chapitre Ier : Conseil municipal<a id=155></a>
 
+###### Article D121-34
+
+La commune, lorsqu'elle choisit d'effectuer par voie électronique la transmission de tout ou partie des actes mentionnés à
+l'article L. 121-39-1, recourt à un dispositif de télétransmission ayant fait l'objet d'une homologation dans des conditions
+fixées par arrêté du ministre de l'intérieur.
+
+L'homologation est subordonnée au respect des prescriptions contenues dans un cahier des charges annexé à l'arrêté mentionné
+au précédent alinéa. 
+
+Aucun dispositif ne peut être homologué s'il n'assure l'identification et l'authentification de la collectivité territoriale
+émettrice, l'intégrité des flux de données relatives aux actes mentionnés au premier alinéa ainsi que la sécurité et la
+confidentialité de ces données.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 2
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D121-35 (VD)
+  - Code des communes de la Nouvelle-Calédonie - art. D121-37 (VD)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L121-39-1
+
+
+###### Article D121-35
+
+Le cahier des charges mentionné à l'article D. 121-34 définit l'architecture globale de la chaîne de télétransmission des
+actes soumis au contrôle de légalité ainsi que les caractéristiques exigées en vue de l'homologation d'un dispositif de
+télétransmission et relatives : 
+
+a) A son insertion dans l'architecture globale de la chaîne de télétransmission ; 
+
+b) Aux normes des échanges de données ; 
+
+c) A la sécurisation de ces échanges ; 
+
+d) Aux fonctionnalités de traitement de ces données ; 
+
+e) Aux modalités d'exploitation et de gestion des incidents de fonctionnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D121-34
+
+
+###### Article D121-36
+
+Le maire signe avec le haut-commissaire une convention comprenant la référence du dispositif homologué et qui prévoit
+notamment : 
+
+a) La date de raccordement de la commune à la chaîne de télétransmission ; 
+
+b) La nature et les caractéristiques des actes transmis par la voie électronique ; 
+
+c) Les engagements respectifs du maire et du haut-commissaire pour l'organisation et le fonctionnement de la
+télétransmission ; 
+
+d) La possibilité, pour la commune, de renoncer à la transmission par voie électronique et les modalités de cette
+renonciation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 2
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D121-37 (VD)
+
+
+###### Article D121-37
+
+Le haut-commissaire peut suspendre l'application de la convention prévue à l'article D. 121-36 lorsqu'il constate des
+altérations graves du fonctionnement du dispositif de télétransmission ou qu'il est empêché de prendre connaissance des actes
+transmis ou que ce dispositif ne satisfait plus aux conditions d'homologation définies à l'article D. 121-34. 
+
+Toute suspension fait l'objet d'une notification écrite à la commune qui procède, dès lors, à la transmission de ses actes
+sur support papier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 2
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D121-34
+  - Code des communes de la Nouvelle-Calédonie - art. D121-36
+
+
 ###### Article R121-1
 
 Après le maire, les adjoints prennent rang dans l'ordre de leur nomination et les conseillers municipaux dans l'ordre du
@@ -13165,105 +13270,57 @@ _Cite_:
 
 #### Chapitre Ier : Dispositions générales<a id=184></a>
 
-###### Article D211-3
+###### Article D211-1
 
-Le haut-commissaire de la République communique au conseil municipal :
+I. - Le décret prévu au troisième alinéa de l'article L. 211-1 qui divise le budget de la commune en chapitres et articles
+est pris sur le rapport du ministre chargé de l'outre-mer et du ministre chargé du budget. Il définit les chapitres et
+articles compte tenu des dispositions du II ci-après. 
 
-1° Les éléments nécessaires au calcul de la dotation globale de fonctionnement ;
+II. - 1° Pour les communes votant leur budget par nature, la présentation fonctionnelle prévue au premier et au deuxième
+alinéa de l'article L. 212-2-1 s'effectue, pour les communes de 3 500 habitants et plus, au niveau de la fonction et, pour
+les communes de 10 000 habitants et plus, au niveau le plus fin de la nomenclature par fonction. 
 
-2° Les éléments nécessaires au calcul de la dotation globale d'équipement ;
+Pour le budget, la présentation fonctionnelle ainsi définie est croisée avec chacun des chapitres ou articles budgétaires
+selon le niveau de vote retenu par le conseil municipal. 
 
-3° La variation de l'indice des prix de détail entre le 1er janvier et le 31 décembre de l'exercice écoulé ainsi que les
-prévisions pour l'exercice en cours, telles qu'elles figurent dans les tableaux annexés à la loi de finances et telles
-qu'elles sont connues pour la Nouvelle-Calédonie ;
+Pour le compte administratif, cette présentation fonctionnelle est croisée avec chacun des articles budgétaires. 
 
-4° Les éléments nécessaires à la prévision d'évolution des rémunérations du personnel communal et au calcul des charges
-sociales correspondantes ;
+Si le conseil municipal en décide ainsi, les documents budgétaires d'une commune de moins de 3 500 habitants peuvent
+comporter une présentation fonctionnelle conforme aux dispositions ci-dessus. 
 
-5° Le taux d'intérêt indicatif des prêts calculés à la date du 1er février ;
+2° Dans les communes de 10 000 habitants et plus votant leur budget par fonction, la présentation prévue au premier alinéa de
+l'article L. 212-2-1 s'effectue au niveau le plus fin de la nomenclature par fonction pour les opérations et les services
+individualisés. 
 
-6° Le montant des concours versés dans le cadre du fonds intercommunal de péréquation pour le fonctionnement des communes ;
+Pour le budget, la présentation ainsi définie est croisée avec les comptes par nature à deux chiffres. 
 
-7° Les éléments relatifs au produit des centimes additionnels et, le cas échéant, des autres taxes et impositions établies au
-bénéfice des communes.
+Pour le compte administratif, cette présentation est croisée avec le compte le plus détaillé ouvert dans la nomenclature par
+nature. 
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article R211-1
-
-L'arrêté interministériel prévu à l'article L. 211-3 qui divise le budget de la commune en chapitres et articles est pris par
-le ministre chargé de la Nouvelle-Calédonie et le ministre de l'économie et des finances.
+3° La présentation fonctionnelle croisée prévue à l'article L. 212-2-1 n'est pas applicable à un service public communal à
+activité unique érigé en établissement public ou faisant l'objet d'un budget annexe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L211-3 (Ab)
+  - Code des communes de la Nouvelle-Calédonie - art. L211-3
 
 
-###### Article R211-2
+###### Article D211-2
 
-Pour les communes de 3.500 habitants et plus, pour leurs établissements publics administratifs ainsi que, quand ils
-comprennent au moins une commune de 3.500 habitants et plus, pour les établissements publics de coopération intercommunale et
-les syndicats mixtes à caractère administratif composés exclusivement de communes, ou de syndicats de communes, la section
-d'investissement du budget peut comprendre des autorisations de programme et des crédits de paiement relatifs aux
-acquisitions de biens meubles et immeubles et aux travaux en cours à caractère pluriannuel.
-
-Constitue un programme à caractère pluriannuel une opération prévisionnelle ou un ensemble d'opérations de dépenses
-d'équipement se rapportant à une immobilisation ou à un ensemble d'immobilisations déterminées, acquises ou réalisées par la
-commune.
-
-Chaque autorisation de programme comporte la répartition prévisionnelle par exercice des crédits de paiement correspondants
-et une évaluation des ressources envisagées pour y faire face.
-
-Après la clôture de l'exercice et jusqu'à l'adoption du budget suivant ou jusqu'au 31 mars en l'absence d'adoption du budget
-avant cette date, le maire ou le président peut, sur autorisation du conseil municipal ou de l'assemblée délibérante,
-liquider et mandater les dépenses d'investissement faisant l'objet de crédits de paiement, dans la limite prévue par
-l'article L. 263-8 du code des juridictions financières. Les crédits de paiement correspondants sont inscrits au budget lors
-de son adoption. L'autorisation mentionnée au présent alinéa précise le montant et l'affectation des crédits de paiement.
-
-Les autorisations de programme et leurs révisions éventuelles sont proposées par le maire ou le président. Elles sont
-individualisées par le conseil municipal ou l'assemblée délibérante.
-
-Les propositions du maire ou du président sont présentées aux membres du conseil municipal ou de l'assemblée délibérante lors
-du débat d'orientation prévu à l'article L. 212-1.
-
-Le projet de budget est en outre accompagné d'une situation, arrêtée au 1er janvier de l'exercice budgétaire considéré, des
-autorisations de programme ouvertes antérieurement ainsi que des crédits de paiement afférents. Le compte administratif est
-accompagné d'une situation, arrêtée au 31 décembre de cet exercice, des autorisations de programme ouvertes ainsi que des
-crédits de paiement.
+La nomenclature par nature et la nomenclature par fonction ainsi que la présentation des documents budgétaires visées à
+l'article L. 212-2-1 sont fixées par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Cite_:
-
-  - Code des juridictions financières - art. L263-8 (M)
-  - Code des communes de la Nouvelle-Calédonie - art. L212-1 (M)
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
 
 _Cité par_:
 
@@ -13272,8 +13329,459 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. D211-5 (VD)
   - Code des communes de la Nouvelle-Calédonie - art. D211-6 (VD)
 
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L212-2-1
+
+
+###### Article D211-3
+
+Pour les communes et leurs établissements publics à caractère administratif, les chapitres des budgets votés par nature
+correspondent : 
+
+a) Section d'investissement :
+
+- à chacun des comptes à deux chiffres des classes 1 et 2 ouverts à la nomenclature par nature, à l'exception des comptes "
+Report à nouveau ", " Résultat de l'exercice ", " Provisions pour risques et charges ", " Différences sur réalisations
+d'immobilisations ", " Immobilisations affectées, concédées, affermées ou mises à disposition ", " Amortissements des
+immobilisations " et " Provisions pour dépréciation des immobilisations " ;
+
+- à chacun des chapitres globalisés dont la liste et la composition sont fixées par l'arrêté visé à l'article D. 211-2 ;
+
+- à chaque opération votée par l'assemblée délibérante.L'opération correspond à un ensemble d'acquisitions d'immobilisations,
+de travaux sur immobilisations et de frais d'études y afférents, aboutissant à la réalisation d'un ouvrage ou de plusieurs
+ouvrages de même nature. Cette opération peut également comprendre des subventions d'équipement versées ;
+
+- à chacune des opérations pour le compte de tiers, dont la liste et les subdivisions sont déterminées par l'arrêté visé à
+l'article D. 211-2 ;
+
+- au compte " Subventions d'équipement versées " ;
+
+- à la ligne intitulée " Dépenses imprévues " ;
+
+- à la ligne intitulée " Virement de la section de fonctionnement " ;
+
+- à la ligne intitulée " Produits des cessions d'immobilisations ". 
+
+Ces trois derniers chapitres ne comportent que des prévisions sans réalisation. 
+
+b) Section de fonctionnement :
+
+- aux comptes à deux chiffres des classes 6 et 7 ouverts à la nomenclature par nature, à l'exception des comptes faisant
+partie d'un chapitre globalisé ;
+
+- à chacun des chapitres globalisés dont la liste et la composition sont fixées par l'arrêté visé à l'article D. 211-2 ;
+
+- à la ligne intitulée " Dépenses imprévues " ;
+
+- à la ligne intitulée " Virement à la section d'investissement ". 
+
+Ces deux derniers chapitres ne comportent que des prévisions sans réalisation.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R211-2
+
+
+###### Article D211-4
+
+Pour les budgets votés par nature, l'article budgétaire correspond à la subdivision la plus détaillée des nomenclatures
+définies par l'arrêté interministériel visé à l'article D. 211-2, complété, pour les opérations, du numéro d'opération. 
+
+Les chapitres intitulés " Dépenses imprévues ”, " Virement de la section de fonctionnement ”, " Virement à la section
+d'investissement et " Produits des cessions d'immobilisations ” ne comportent pas d'article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R211-2
+
+
+###### Article D211-5
+
+Pour les communes et leurs établissements publics à caractère administratif ayant opté pour le vote par fonction de leur
+budget, les chapitres correspondent : 
+
+a) Section d'investissement : 
+
+― pour les opérations ventilables, à la rubrique 90 " Opérations d'équipement ” complétée par le numéro de l'une des dix
+fonctions de la nomenclature fonctionnelle publiée par l'arrêté visé à l'article D. 211-2 ; 
+
+― pour les opérations non ventilables, aux sous-rubriques à trois chiffres ouvertes à l'intérieur de la rubrique 91 "
+Opérations non ventilées ” dont la liste est fixée par l'arrêté visé à l'article D. 211-2, y compris les " Dépenses imprévues
+” et le " Virement de la section de fonctionnement ” ainsi qu'à la rubrique 95 " Produits des cessions d'immobilisations ”. 
+
+Ces trois derniers chapitres ne comportent que des prévisions sans réalisation : 
+
+― pour les opérations pour le compte de tiers, à chacune des opérations dont la liste est fixée par l'arrêté visé à l'article
+D. 211-2. 
+
+b) Section de fonctionnement : 
+
+― pour les opérations ventilables, à la rubrique 92 " Services individualisés ” complétée par le numéro de l'une des dix
+fonctions de la nomenclature fonctionnelle définie par l'arrêté visé à l'article D. 211-2 ; 
+
+― pour les opérations non ventilables, aux sous-rubriques à trois chiffres ouvertes à l'intérieur de la rubrique 93, "
+Services communs non ventilés ” dont la liste est fixée par l'arrêté interministériel visé à l'article D. 211-2, y compris
+les chapitres " Dépenses imprévues ” et " Virement à la section d'investissement ”. 
+
+Ces deux derniers chapitres ne comportent que des prévisions sans réalisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R211-2
+
+
+###### Article D211-6
+
+Pour les communes et leurs établissements publics à caractère administratif ayant opté pour le vote par fonction de leur
+budget, les articles budgétaires correspondent : 
+
+a) Section d'investissement : 
+
+― pour les opérations ventilables, à la rubrique 90 " Opérations d'équipement ” complétée par la subdivision la plus
+détaillée de la nomenclature fonctionnelle définie par l'arrêté visé à l'article D. 211-2 ainsi que du numéro d'opération, en
+cas de vote par opération.L'opération correspond à un ensemble d'acquisitions d'immobilisations, de travaux sur
+immobilisations et de frais d'études y afférents, aboutissant à la réalisation d'un ouvrage ou de plusieurs ouvrages de même
+nature. Cette opération peut également comprendre des subventions d'équipement versées ; 
+
+La subdivision 01 " Opérations non ventilables ” ouverte dans la fonction 0 " Services généraux des administrations publiques
+locales ” est exclusivement réservée aux opérations d'équipement concernant de manière indifférenciée plusieurs fonctions ; 
+
+― pour les opérations non ventilables, au compte le plus détaillé de la nomenclature par nature, définie par l'arrêté visé à
+l'article D. 211-2, ouvert à l'intérieur du chapitre. 
+
+Les chapitres relatifs aux opérations pour compte de tiers ainsi que les chapitres correspondant aux dépenses imprévues, au
+virement de la section de fonctionnement et aux produits des cessions d'immobilisations ne comportent pas d'article. 
+
+b) Section de fonctionnement : 
+
+― pour les opérations ventilables, à la rubrique 92, complétée par la subdivision la plus détaillée de la nomenclature
+fonctionnelle visée à l'article D. 211-2 ; 
+
+― pour les opérations non ventilables, au compte le plus détaillé de la nomenclature par nature ouvert à l'intérieur du
+chapitre. 
+
+Les chapitres correspondant aux dépenses imprévues et au virement à la section d'investissement ne comportent pas d'article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R211-2
+
+
+###### Article D211-7
+
+En application de l'article L. 211-4, la section d'investissement du budget peut comprendre des autorisations de programme et
+la section de fonctionnement des autorisations d'engagement. 
+
+Chaque autorisation de programme ou d'engagement comporte la répartition prévisionnelle par exercice des crédits de paiement
+correspondants. 
+
+Les autorisations de programme ou d'engagement et leurs révisions éventuelles sont présentées par le maire. Elles sont votées
+par le conseil municipal, par délibération distincte, lors de l'adoption du budget de l'exercice ou des décisions
+modificatives. 
+
+Les autorisations de programme correspondent à des dépenses à caractère pluriannuel se rapportant à une immobilisation ou à
+un ensemble d'immobilisations déterminées, acquises ou réalisées par la commune, ou à des subventions d'équipement versées à
+des tiers.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+
+###### Article D211-8
+
+Le budget de la caisse des écoles est établi en section de fonctionnement et en section d'investissement, tant en recettes
+qu'en dépenses. Il est présenté par nature.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+
+###### Article D211-9
+
+A. ― Le besoin ou l'excédent de financement de la section d'investissement constaté à la clôture de l'exercice est constitué
+du solde d'exécution corrigé des restes à réaliser. 
+
+Le solde d'exécution de la section d'investissement correspond à la différence entre le montant des titres de recettes et le
+montant des mandats de dépenses émis dans l'exercice, y compris, le cas échéant, les réductions et annulations de recettes et
+de dépenses, augmentée ou diminuée du report des exercices antérieurs. 
+
+Les restes à réaliser de la section d'investissement arrêtés à la clôture de l'exercice correspondent aux dépenses engagées
+non mandatées et aux recettes certaines n'ayant pas donné lieu à l'émission d'un titre. 
+
+B. ― Le résultat de la section de fonctionnement correspond à l'excédent ou au déficit de l'exercice. Pour son affectation,
+il est cumulé avec le résultat antérieur reporté à l'exclusion des restes à réaliser. 
+
+Les restes à réaliser de la section de fonctionnement arrêtés à la clôture de l'exercice correspondent aux dépenses engagées
+non mandatées et non rattachées ainsi qu'aux recettes certaines n'ayant pas donné lieu à l'émission d'un titre et non
+rattachées. Ils sont reportés au budget de l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D211-10 (VD)
+
+
+###### Article D211-10
+
+Le résultat cumulé défini au B de l'article D. 211-9 est affecté, lorsqu'il s'agit d'un excédent : 
+
+1° En priorité, en réserves pour la couverture du besoin de financement de la section d'investissement apparu à la clôture de
+l'exercice précédent ; 
+
+2° Pour le solde, en excédent de fonctionnement reporté ou en dotation complémentaire en réserves. 
+
+Lorsqu'il s'agit d'un déficit, il est ajouté aux dépenses de fonctionnement de l'exercice. 
+
+Pour l'affectation en réserves, l'exécution de la décision budgétaire de reprise des résultats, adoptée par l'assemblée
+délibérante, se fait par l'émission d'un titre de recettes. La délibération affectant le résultat excédentaire est produite à
+l'appui de la décision budgétaire de reprise et du compte administratif de l'exercice, pour en justifier les recettes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D211-12 (V)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D211-9
+
+
+###### Article D211-11
+
+En l'absence d'adoption du compte administratif à la date du vote du budget de l'exercice suivant, lorsque le résultat de la
+section de fonctionnement, le besoin de financement ou, le cas échéant, l'excédent de la section d'investissement et la
+prévision d'affectation sont reportés par anticipation, dans les conditions fixées au quatrième alinéa de l'article L. 211-5,
+les inscriptions au budget sont justifiées par la production en annexe d'une fiche de calcul des résultats prévisionnels. 
+
+Cette fiche ainsi qu'un tableau des résultats d'exécution du budget sont établis par l'ordonnateur et visés par le comptable,
+qui les accompagne soit du compte de gestion, s'il est arrêté à cette date, soit d'une balance établie après prise en charge
+du dernier bordereau de titres et de mandats. 
+
+L'ordonnateur produit l'état des restes à réaliser arrêté au 31 décembre de l'exercice clos. Les restes à réaliser de la
+section de fonctionnement sont reportés au budget reprenant les résultats par anticipation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+
+###### Article D211-12
+
+Pour l'application de l'article L. 211-6, lorsque la section d'investissement du budget présente un excédent, peuvent être
+repris en section de fonctionnement : 
+
+― le produit de la cession d'une immobilisation reçue au titre d'un don ou d'un legs, à condition que celui-ci ne soit pas
+expressément affecté à l'investissement ; 
+
+― le produit de la vente d'un placement budgétaire. La reprise de ce produit est limitée à la part du placement financée
+initialement par une recette de la section de fonctionnement. 
+
+En outre, l'excédent de la section d'investissement résultant de la dotation complémentaire en réserves prévue par le 2° de
+l'article D. 211-10 et constaté au compte administratif au titre de deux exercices consécutifs peut être repris en section de
+fonctionnement afin de contribuer à son équilibre. 
+
+Dans tous les cas, la reprise est accompagnée d'une délibération du conseil municipal précisant l'origine de l'excédent et
+les conditions d'évaluation de son montant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D211-10
+
+
+###### Article D211-13
+
+Pour l'application des dispositions prévues au premier alinéa de l'article L. 212-2-1, le conseil municipal délibère, dans
+les communes de 10 000 habitants et plus, sur le vote du budget par nature ou par fonction. 
+
+Par la suite, cette délibération ne peut être modifiée qu'une seule fois, au plus tard à la fin du premier exercice
+budgétaire complet suivant le renouvellement du conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+
+###### Article D211-14
+
+Les crédits de la caisse des écoles sont votés par chapitre et, si le comité en décide ainsi, par article. 
+
+Hors le cas où le conseil d'administration a spécifié que les crédits sont spécialisés par article, le président peut
+effectuer des virements d'articles à articles à l'intérieur du même chapitre. 
+
+Les chapitres et articles du budget de la caisse des écoles sont ceux qui sont définis pour les communes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
+
+###### Article D211-15
+
+Le haut-commissaire de la République communique au conseil municipal : 
+
+1° Les éléments nécessaires au calcul de la dotation globale de fonctionnement ; 
+
+2° Les éléments nécessaires au calcul de la dotation globale d'équipement ; 
+
+3° La variation de l'indice des prix de détail entre le 1er janvier et le 31 décembre de l'exercice écoulé ainsi que les
+prévisions pour l'exercice en cours, telles qu'elles figurent dans les tableaux annexés à la loi de finances et telles
+qu'elles sont connues pour la Nouvelle-Calédonie ; 
+
+4° Les éléments nécessaires à la prévision d'évolution des rémunérations du personnel communal et au calcul des charges
+sociales correspondantes ; 
+
+5° Le taux d'intérêt indicatif des prêts calculés à la date du 1er février ; 
+
+6° Le montant des concours versés dans le cadre du fonds intercommunal de péréquation pour le fonctionnement des communes ; 
+
+7° Les éléments relatifs au produit des centimes additionnels et, le cas échéant, des autres taxes et impositions établies au
+bénéfice des communes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+
 
 #### Chapitre II : Vote et règlement<a id=185></a>
+
+###### Article D212-2
+
+I. - Pour l'application de l'article R. 212-1 : 
+
+a) La population à prendre en compte est la population totale, municipale et comptée à part, telle qu'elle résulte du dernier
+recensement connu à la date de production des documents budgétaires. 
+
+b) Les dépenses réelles de fonctionnement s'entendent de l'ensemble des dépenses de l'exercice budgétaire entraînant des
+mouvements réels. Toutefois, pour l'application du 1°, sont exclues les dépenses correspondant à des travaux en régie
+transférés en section d'investissement. Pour l'application du 8°, sont exclues les dépenses correspondant à des travaux en
+régie et des charges transférées en section d'investissement. 
+
+c) Les recettes réelles de fonctionnement s'entendent de l'ensemble des recettes de fonctionnement de l'exercice entraînant
+des mouvements réels. 
+
+d) Les dépenses d'équipement brut comprennent les acquisitions de biens meubles et immeubles, les travaux en cours, les
+immobilisations incorporelles, les travaux d'investissement en régie et les opérations pour compte de tiers. 
+
+e) Le remboursement annuel de la dette en capital s'entend des remboursements d'emprunts effectués à titre définitif. 
+
+II. - Les données synthétiques figurent en annexe au budget primitif et au compte administratif auxquels elles se rapportent.
+En outre, les données résultant du dernier compte administratif voté à la date de la présentation du budget primitif sont
+reportées sur celui-ci.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 4
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D236-12 (VD)
+  - Code des communes de la Nouvelle-Calédonie - art. R212-3 (VD)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R212-1
+
+
+###### Article D212-2-1
+
+Les états annexés aux documents budgétaires en application de l'avant-dernier alinéa de l'article L. 212-3 sont les
+suivants :
+
+I. - Etats annexés au budget et au compte administratif :
+
+1° Tableaux récapitulant l'état des emprunts et dettes ;
+
+2° Présentation de l'état des provisions ;
+
+3° Présentation des méthodes utilisées pour les amortissements ;
+
+4° Présentation de l'équilibre des opérations financières ;
+
+5° Présentation de l'état des charges transférées en investissement ;
+
+6° Présentation du mode de financement des opérations pour le compte de tiers ;
+
+7° Présentation des engagements donnés et reçus ;
+
+8° Présentation de l'emploi des recettes grevées d'une affectation spéciale ;
+
+9° Etat du personnel ;
+
+10° Liste des organismes de regroupement dont la commune est membre, précisant pour chaque organisme les compétences
+transférées ainsi que les modalités de participation de la commune à son financement, et accompagnée pour chaque organisme
+d'une copie de la balance générale ainsi que des données synthétiques des comptes administratifs ;
+
+11° Liste des établissements ou services créés par la commune ;
+
+12° Tableau retraçant les décisions en matière de taux des centimes additionnels.
+
+II. - Etats annexés au seul compte administratif :
+
+Etat de variation des immobilisations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 5
+
 
 ###### Article R212-1
 
@@ -13323,88 +13831,47 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
 
-###### Article R212-2
-
-I. - Pour l'application de l'article R. 212-1, la population à prendre en compte est la population totale, municipale et
-comptée à part, telle qu'elle résulte du dernier recensement connu à la date de production des documents budgétaires.
-
-Les dépenses réelles de fonctionnement s'entendent du total des dépenses de fonctionnement après déduction des dotations aux
-amortissements et aux provisions, du déficit de fonctionnement reporté, du prélèvement pour dépenses d'investissement, des
-travaux d'investissement en régie et des charges de services communs réparties entre services utilisateurs.
-
-Les recettes réelles de fonctionnement s'entendent du total des recettes de fonctionnement, après déduction des reprises sur
-amortissements et provisions, des réductions de charges, de l'excédent ordinaire reporté, du montant des travaux effectués en
-régie et de la contribution des services utilisateurs aux charges des services communs.
-
-Les dépenses d'équipement brut comprennent les acquisitions de biens meubles et immeubles et les travaux en cours.
-
-L'encours de la dette s'obtient par le cumul des emprunts et dettes à long et moyen terme.
-
-II. - Les données synthétiques figurent en annexe au budget primitif et au compte administratif auxquels elles se rapportent.
-En outre, les données résultant du dernier compte administratif voté à la date de la présentation du budget primitif sont
-reportées sur celui-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Cité par_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. D236-12 (VD)
-  - Code des communes de la Nouvelle-Calédonie - art. R212-3 (VD)
-
-_Cite_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. R212-1 (V)
-
-
 ###### Article R212-3
 
 Pour les établissements publics de coopération intercommunale ou les syndicats mixtes mentionnés à l'article L. 166-5, qui
-comprennent au moins une commune de 3.500 habitants et plus, les données synthétiques à produire sont les suivantes :
+comprennent au moins une commune de 3. 500 habitants et plus, les données synthétiques à produire sont les suivantes : 
 
-1° Dépenses d'exploitation/dépenses réelles de fonctionnement ;
+1° Dépenses d'exploitation / dépenses réelles de fonctionnement ; 
 
-2° Produits de l'exploitation et du domaine/recettes réelles de fonctionnement ;
+2° Produits de l'exploitation et du domaine / recettes réelles de fonctionnement ; 
 
-3° Transferts reçus/recettes réelles de fonctionnement ;
+3° Transferts reçus / recettes réelles de fonctionnement ; 
 
-4° Emprunts réalisés/dépenses d'équipement brut ;
+4° Emprunts réalisés / dépenses d'équipement brut ; 
 
-5° Encours réel de la dette.
+5° Encours réel de la dette. 
 
-Pour l'application du présent article, les définitions données à l'article R. 212-3 sont applicables.
+Pour l'application du présent article, les définitions données à l'article D. 212-2 sont applicables. 
 
 Les dépenses d'exploitation comprennent les dépenses réelles de fonctionnement, déduction faite des intérêts versés et des
-transferts versés. Les produits de l'exploitation s'entendent des recettes provenant de l'activité de l'organisme.
+transferts versés. Les produits de l'exploitation s'entendent des recettes provenant de l'activité de l'organisme. 
 
-Les transferts reçus comprennent les remboursements, subventions de fonctionnement et participations.
+Les transferts reçus comprennent les remboursements, subventions de fonctionnement et participations. 
 
 Les ratios cités au présent article figurent en annexe au budget et au compte administratif de l'établissement public ou de
-l'organisme de coopération auxquels ils se rapportent.
+l'organisme de coopération auxquels ils se rapportent. 
 
 En outre, les données résultant du dernier compte administratif voté à la date de présentation du budget primitif sont
 reprises en annexe à celui-ci.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 6
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L166-5
+  - Code des communes de la Nouvelle-Calédonie - art. R212-2
+
+_Cité par_:
+
   - Code des communes de la Nouvelle-Calédonie - art. R212-3 (V)
 
 
@@ -13412,87 +13879,37 @@ _Cite_:
 
 La liste des concours attribués par la commune aux associations sous forme de prestations en nature et de subventions, telle
 que prévue au 2° du troisième alinéa de l'article L. 212-3, indique le nom de l'association bénéficiaire, la nature de la
-prestation et/ou le montant de la subvention. Elle est jointe au budget primitif et au compte administratif.
-
-Si cette liste n'est pas connue lors de l'élaboration du budget primitif, ces concours font l'objet d'une inscription
-globale. La ventilation de ces crédits fait l'objet d'une délibération de régularisation du conseil municipal.
+prestation et / ou le montant de la subvention. 
 
 Ces dispositions s'appliquent aux établissements publics de coopération intercommunale et aux syndicats mixtes mentionnés à
-l'article L. 166-5, qui comprennent au moins une commune de 3.500 habitants et plus.
+l'article L. 166-5, qui comprennent au moins une commune de 3. 500 habitants et plus.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 7
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
-  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
-
-
-###### Article R212-5
-
-Les tableaux de synthèse mentionnés au 4°. du troisième alinéa de l'article L. 212-3 sont établis conformément aux
-instructions et joints au compte administratif de la commune. Ils comportent notamment les informations suivantes :
-
-1° La liste des organismes de coopération intercommunale dont la commune est membre, avec indication des compétences
-déléguées à chacun d'eux ;
-
-2° Le mode et éventuellement le pourcentage de participation de la commune au financement de chaque organisme de
-coopération ;
-
-3° La copie de la balance générale du compte administratif de l'organisme de coopération afférent au même exercice ou, à
-défaut, à l'exercice précédent ;
-
-4° Les données synthétiques annexées au compte administratif du dernier exercice connu de l'organisme de coopération, telles
-qu'elles sont définies à l'article R. 212-6.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Abrogé par_:
-
-  - Décret n°2009-1602 du 18 décembre 2009 - art. 8
-
-_Cite_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. L212-3
-  - Code des communes de la Nouvelle-Calédonie - art. R212-6
+  - Code des communes de la Nouvelle-Calédonie - art. L166-5
 
 
 ###### Article R212-6
 
-Pour l'application du 5° du troisième alinéa de l'article L. 212-3, le bilan est certifié par un commissaire aux comptes pour
-les organismes soumis à l'obligation de certification des comptes. Pour les organismes non soumis à l'obligation de
-certification des comptes, le bilan est certifié par le président de l'organisme concerné. Ces documents sont joints au
-compte administratif de la commune.
+Pour l'application de l'article L. 212-4, le bilan est certifié par un commissaire aux comptes pour les organismes soumis à
+l'obligation de certification des comptes. Pour les organismes non soumis à l'obligation de certification des comptes, le
+bilan est certifié par le président de l'organisme concerné.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 9
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
+  - Code des communes de la Nouvelle-Calédonie - art. L212-4
 
 _Cité par_:
 
@@ -13500,6 +13917,183 @@ _Cité par_:
 
 
 ### TITRE II : DÉPENSES<a id=186></a>
+
+###### Article D221-3
+
+En application des dispositions de l'article L. 221-2, constituent des dépenses obligatoires pour les communes et les
+groupements de communes dont la population est égale ou supérieure à 3 500 habitants les dotations aux amortissements des
+immobilisations suivantes y compris celles reçues à disposition ou en affectation : 
+
+1° Les biens meubles autres que les collections et œuvres d'art ; 
+
+2° Les biens immeubles productifs de revenus, y compris les immobilisations remises en location ou mises à disposition d'un
+tiers privé contre paiement d'un droit d'usage, et non affectés directement ou indirectement à l'usage du public ou à un
+service public administratif ; 
+
+3° Les immobilisations incorporelles autres que les frais d'études et d'insertion suivis de réalisation. 
+
+Les amortissements ne s'appliquent ni aux immobilisations propriétés de la commune qui sont affectées, concédées, affermées
+ou mises à disposition ni aux terrains et aménagements de terrains hormis les terrains de gisement. 
+
+Les dotations aux amortissements de ces biens sont liquidées sur la base du coût historique de l'immobilisation et de la
+méthode linéaire. Toutefois, une commune peut, par délibération, adopter un mode d'amortissement dégressif ou variable, ou
+réel. 
+
+Les durées d'amortissement des immobilisations sont fixées pour chaque bien ou catégorie de biens par l'assemblée
+délibérante, qui peut se référer à un barème fixé par arrêté du ministre chargé des collectivités locales et du ministre
+chargé du budget, à l'exception toutefois : 
+
+― des frais d'étude et des frais d'insertion non suivis de réalisation qui sont amortis sur une durée maximale de cinq ans ; 
+
+― des frais de recherche et de développement qui sont amortis sur une durée maximale de cinq ans ; 
+
+― des brevets qui sont amortis sur la durée du privilège dont ils bénéficient ou sur leur durée effective d'utilisation si
+elle est plus brève ; 
+
+― des subventions d'équipement versées qui sont amorties sur une durée maximale de cinq ans lorsque le bénéficiaire est une
+personne de droit privé, ou de quinze ans lorsque le bénéficiaire est un organisme public ; 
+
+― des subventions d'équipement versées dans le cadre de programme de logements sociaux ou de financement d'équipements
+publics annexes qui sont amortis sur une durée maximum de quinze ans lorsque le bénéficiaire est un organisme d'aménagement
+ou de construction. 
+
+La délibération relative à la durée d'amortissement est transmise au comptable. 
+
+Tout plan d'amortissement commencé doit être poursuivi jusqu'à son terme, sauf cession, affectation, mise à disposition,
+réforme ou destruction du bien. Le plan d'amortissement ne peut être modifié qu'en cas de changement significatif dans les
+conditions d'utilisation du bien. La commune ou le groupement bénéficiaire de la mise à disposition ou de l'affectation
+poursuit l'amortissement du bien selon le plan d'amortissement initial ou conformément à ses propres règles, définies par le
+présent article. 
+
+Une assemblée délibérante peut fixer un seuil unitaire en deçà duquel les immobilisations de peu de valeur ou dont la
+consommation est très rapide s'amortissent sur un an. La délibération correspondante est transmise au receveur municipal et
+ne peut être modifiée au cours d'un même exercice budgétaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D221-6 (VD)
+
+
+###### Article D221-4
+
+Pour l'application du 20° de l'article L. 221-2, une provision doit être constituée par délibération de l'assemblée
+délibérante dans les cas suivants : 
+
+1° Dès l'ouverture d'un contentieux en première instance contre la commune, une provision est constituée à hauteur du montant
+estimé par la commune de la charge qui pourrait en résulter en fonction du risque financier encouru ; 
+
+2° Dès l'ouverture d'une procédure collective, une provision est constituée pour les garanties d'emprunts, les prêts et
+créances, les avances de trésorerie et les participations en capital accordés par la commune à l'organisme faisant l'objet de
+la procédure collective. Cette provision est constituée à hauteur du risque d'irrécouvrabilité ou de dépréciation de la
+créance ou de la participation, estimé par la commune. La provision pour participation prend également en compte le risque de
+comblement de passif de l'organisme. Pour les garanties d'emprunts, la provision est constituée à hauteur du montant que
+représenterait la mise en jeu de la garantie sur le budget de la commune en fonction du risque financier encouru ; 
+
+3° Lorsque le recouvrement des restes à recouvrer sur compte de tiers est compromis malgré les diligences faites par le
+comptable public, une provision est constituée à hauteur du risque d'irrécouvrabilité estimé par la commune à partir des
+éléments d'information communiqués par le comptable public. 
+
+En dehors de ces cas, la commune peut décider de constituer des provisions dès l'apparition d'un risque avéré. 
+
+La commune peut également décider de constituer des provisions pour dépréciation des immobilisations. 
+
+Pour l'ensemble des provisions prévues aux alinéas précédents, la commune peut décider de constituer la provision sur
+plusieurs exercices précédant la réalisation du risque. 
+
+La provision est ajustée annuellement en fonction de l'évolution du risque. 
+
+Elle donne lieu à reprise en cas de réalisation du risque ou lorsque ce risque n'est plus susceptible de se réaliser. 
+
+Une délibération détermine les conditions de constitution, de reprise et, le cas échéant, de répartition et d'ajustement de
+la provision. 
+
+Le montant de la provision ainsi que son évolution et son emploi sont retracés sur l'état des provisions joint au budget et
+au compte administratif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D221-7 (VD)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L221-2
+
+
+###### Article D221-5
+
+Pour l'application du 12° de l'article L. 231-2, les provisions ne donnent pas lieu à inscription de crédits en section
+d'investissement du budget. 
+
+Toutefois, le conseil municipal peut par une délibération spécifique décider d'inscrire les provisions en recettes de la
+section d'investissement du budget par une opération d'ordre budgétaire. Dans ce cas, la reprise ultérieure de ces provisions
+entraîne l'inscription d'une dépense à la section d'investissement et d'une recette équivalente à la section de
+fonctionnement. 
+
+Le conseil municipal qui fait usage du pouvoir dont il dispose en vertu du deuxième alinéa, puis revient sur cette décision,
+ne peut, au cours du même mandat, faire de nouveau usage des dispositions dudit alinéa. 
+
+Toutefois, en cas de renouvellement du conseil municipal, si le nouveau conseil revient sur la décision antérieure de faire
+application du deuxième alinéa et y procède au plus tard à la fin de l'exercice budgétaire suivant le renouvellement, il peut
+par la suite décider de faire usage des dispositions dudit alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L231-2
+
+
+###### Article D221-6
+
+Pour les caisses des écoles des communes de 3 500 habitants et plus et les caisses des écoles intercommunales comprenant une
+commune de 3 500 habitants ou plus, les dotations aux amortissements des immobilisations, prévues et liquidées dans les
+conditions fixées à l'article D. 221-3, constituent des dépenses obligatoires. 
+
+Pour l'application du présent article, les immobilisations à prendre en compte s'entendent de celles acquises à compter du
+1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D221-3
+
+
+###### Article D221-7
+
+Les dotations aux provisions effectuées dans les conditions définies à l'article D. 221-4 constituent également des dépenses
+obligatoires pour les caisses des écoles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 10
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D221-4
+
 
 ###### Article R221-1
 
@@ -13557,11 +14151,59 @@ _Créé par_:
 
 ### TITRE III : RECETTES<a id=187></a>
 
-#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=188></a>
+#### Chapitre Ier : Dispositions générales.<a id=188></a>
 
-##### Section 2 : Taxe sur la publicité<a id=189></a>
+###### Article D231-1
 
-##### Sous-section 1 : Dispositions générales<a id=190></a>
+La différence constatée entre la valeur de cession d'une immobilisation et sa valeur comptable nette est obligatoirement
+enregistrée à la section d'investissement du budget préalablement à la détermination du résultat de la section de
+fonctionnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 11
+
+
+###### Article D231-2
+
+Le seuil prévu à l'article L. 231-4 est fixé à 500 F CFP.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 11
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L231-4
+
+
+###### Article D231-3
+
+I.-Le seuil prévu au deuxième alinéa du 5° de l'article L. 231-5 est fixé à 3 635 F CFP. 
+
+II.-Le délai mentionné au premier alinéa du 7° de l'article L. 231-5 est de cinquante jours à compter de la date à laquelle
+la demande a été remise ou notifiée à l'huissier par le comptable direct du Trésor.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 11
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L231-5
+
+
+#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=189></a>
+
+##### Section 2 : Taxe sur la publicité<a id=190></a>
+
+##### Sous-section 1 : Dispositions générales<a id=191></a>
 
 ###### Article D233-1
 
@@ -13603,7 +14245,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 2 : Assiette de la taxe et exonérations<a id=191></a>
+##### Sous-section 2 : Assiette de la taxe et exonérations<a id=192></a>
 
 ###### Article D233-4
 
@@ -13652,7 +14294,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L233-4 (V)
 
 
-##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=192></a>
+##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=193></a>
 
 ###### Article D233-6
 
@@ -13857,7 +14499,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R233-7 (V)
 
 
-##### Sous-section 4 : Sanctions applicables<a id=193></a>
+##### Sous-section 4 : Sanctions applicables<a id=194></a>
 
 ###### Article D233-13
 
@@ -13922,11 +14564,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie L233-3, L233-4, L233-5, L233-7, R233-5 à D233-10
 
 
-#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=194></a>
+#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=195></a>
 
-##### Section 1 : Dotation globale de fonctionnement<a id=195></a>
+##### Section 1 : Dotation globale de fonctionnement<a id=196></a>
 
-##### Sous-section 1 : Dispositions générales<a id=196></a>
+##### Sous-section 1 : Dispositions générales<a id=197></a>
 
 ###### Article R234-1
 
@@ -13971,7 +14613,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-2 (M)
 
 
-##### Sous-section 2 : Dotation forfaitaire<a id=197></a>
+##### Sous-section 2 : Dotation forfaitaire<a id=198></a>
 
 ###### Article R234-3
 
@@ -14002,7 +14644,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. D114-6 (Ab)
 
 
-##### Sous-section 3 : Dotation d'aménagement<a id=198></a>
+##### Sous-section 3 : Dotation d'aménagement<a id=199></a>
 
 ###### Article R234-4
 
@@ -14039,7 +14681,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-13 (M)
 
 
-##### Section 2 : Dotation globale d'équipement<a id=199></a>
+##### Section 2 : Dotation globale d'équipement<a id=200></a>
 
 ###### Article R234-5
 
@@ -14216,7 +14858,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Dotation de développement rural<a id=200></a>
+##### Section 3 : Dotation de développement rural<a id=201></a>
 
 ###### Article R234-11
 
@@ -14252,7 +14894,7 @@ _Abrogé par_:
   - Décret n°2011-514 du 10 mai 2011 - art. 2
 
 
-#### Chapitre V : Subventions<a id=201></a>
+#### Chapitre V : Subventions<a id=202></a>
 
 ###### Article D235-1
 
@@ -14277,9 +14919,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L235-1 (V)
 
 
-#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=202></a>
+#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=203></a>
 
-##### Section 1 : Avances<a id=203></a>
+##### Section 1 : Avances<a id=204></a>
 
 ###### Article R236-1
 
@@ -14439,7 +15081,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Recours à l'emprunt<a id=204></a>
+##### Section 2 : Recours à l'emprunt<a id=205></a>
 
 ###### Article D236-9
 
@@ -14482,7 +15124,120 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L236-6 (V)
 
 
-##### Section 4 : Garanties d'emprunts<a id=205></a>
+##### Section 4 : Garanties d'emprunts<a id=206></a>
+
+###### Article D236-11
+
+Le montant net des annuités de la dette mentionné à l'article L. 236-8 est égal à la différence entre le montant total des
+sommes inscrites : 
+
+a) En dépenses au titre du remboursement du capital d'emprunts et du versement des intérêts ainsi que du règlement des dettes
+à long ou moyen terme, sans réception de fonds ; 
+
+b) En recettes au titre du recouvrement des créances à long et moyen terme. 
+
+Ces sommes sont celles qui figurent au budget primitif principal pour l'exercice en cours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D236-13 (VD)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L236-8
+
+
+###### Article D236-12
+
+Les recettes réelles de fonctionnement sont celles définies au quatrième alinéa de l'article D. 212-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D236-13 (VD)
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. R212-2
+
+
+###### Article D236-13
+
+Le pourcentage limite mentionné au deuxième alinéa de l'article L. 236-8, et dont les éléments sont définis aux articles D.
+236-11 et D. 236-12, est fixé à 50 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. D236-11
+  - Code des communes de la Nouvelle-Calédonie - art. D236-12
+  - Code des communes de la Nouvelle-Calédonie - art. L236-8
+
+
+###### Article D236-14
+
+Pour l'application du deuxième alinéa de l'article L. 236-8, le coefficient multiplicateur appliqué aux provisions
+spécifiques constituées par les communes pour couvrir les garanties ou cautions est fixé à 1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L236-8
+
+
+###### Article D236-15
+
+Pour l'application du troisième alinéa de l'article L. 236-8, la proportion maximale des annuités garanties ou cautionnées au
+profit d'un même débiteur, exigible au titre d'un exercice, rapportée au montant total des annuités susceptibles d'être
+garanties ou cautionnées est fixée à 10 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L236-8
+
+
+###### Article D236-16
+
+Pour l'application du quatrième alinéa de l'article L. 236-8, la quotité maximale susceptible d'être garantie par une ou
+plusieurs collectivités sur un même emprunt est fixé à 50 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 12
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L236-8
+
 
 ###### Article R236-10
 
@@ -14504,11 +15259,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R324-2 (V)
 
 
-### TITRE IV : COMPTABILITÉ<a id=206></a>
+### TITRE IV : COMPTABILITÉ<a id=207></a>
 
-#### Chapitre Ier : Comptabilité du maire et du comptable<a id=207></a>
+#### Chapitre Ier : Comptabilité du maire et du comptable<a id=208></a>
 
-##### Section 1 : Dispositions générales<a id=208></a>
+##### Section 1 : Dispositions générales<a id=209></a>
 
 ###### Article D241-2
 
@@ -14528,7 +15283,7 @@ _Créé par_:
 
 ###### Article D241-3
 
-Au début de chaque année, le maire dispose d'un délai de deux mois pour procéder à l'émission des titres de perception et des
+Au début de chaque année, le maire dispose d'un délai d'un mois pour procéder à l'émission des titres de perception et des
 mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
 
 Le comptable dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire.
@@ -14540,13 +15295,9 @@ Ces dispositions ne sont pas applicables aux opérations intéressant uniquement
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 13
 
 _Cité par_:
 
@@ -14609,7 +15360,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Comptabilité du maire<a id=209></a>
+##### Section 2 : Comptabilité du maire<a id=210></a>
 
 ###### Article D241-5
 
@@ -14790,7 +15541,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Comptabilité du comptable<a id=210></a>
+##### Section 3 : Comptabilité du comptable<a id=211></a>
 
 ###### Article D241-15
 
@@ -15123,9 +15874,47 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=211></a>
+### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=212></a>
 
-#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=212></a>
+#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=213></a>
+
+###### Article D251-2
+
+Les chapitres et les articles du budget d'un syndicat de communes sont définis par le décret mentionné à l'article D. 211-1.
+Les dispositions de l'article D. 211-1 relatives à la présentation fonctionnelle et à la présentation par nature sont
+applicables au budget du syndicat de communes, compte tenu des modalités de vote retenues par l'assemblée délibérante et des
+dispositions ci-après. 
+
+Le budget du syndicat de communes comprenant une commune de 10 000 habitants et plus est voté et présenté comme celui d'une
+commune de 10 000 habitants et plus dans les conditions de l'article D. 211-1. 
+
+Lorsqu'il ne comprend aucune commune de 10 000 habitants et plus, il est voté par nature ; si l'assemblée délibérante en
+décide ainsi, il peut comporter une présentation fonctionnelle dans les conditions prévues au dernier alinéa du 1° du II de
+l'article D. 211-1. 
+
+Le budget du syndicat à vocation unique est voté par nature, sans présentation fonctionnelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 14
+
+
+###### Article D251-3
+
+Les chapitres et articles du budget d'un syndicat mixte relevant de l'article L. 166-1 sont définis par le décret mentionné à
+l'article D. 211-1. Le budget est voté dans les conditions prévues au quatrième alinéa de l'article D. 251-2. 
+
+Les dispositions de l'article D. 211-1 définissant les modalités de la présentation fonctionnelle et de la présentation par
+nature sont applicables au syndicat mixte relevant de l'article L. 166-1
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 14
+
 
 ###### Article R251-1
 
@@ -15142,11 +15931,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=213></a>
+## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=214></a>
 
-### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=214></a>
+### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=215></a>
 
-#### Chapitre Ier : Biens communaux<a id=215></a>
+#### Chapitre Ier : Biens communaux<a id=216></a>
 
 ###### Article R311-1
 
@@ -15167,9 +15956,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre II : Dons et legs<a id=216></a>
+#### Chapitre II : Dons et legs<a id=217></a>
 
-##### Section 2 : Acceptation et refus de libéralités<a id=217></a>
+##### Section 2 : Acceptation et refus de libéralités<a id=218></a>
 
 ###### Article R312-1
 
@@ -15191,7 +15980,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L312-3 (V)
 
 
-##### Section 3 : Procédure applicable en matière de libéralités<a id=218></a>
+##### Section 3 : Procédure applicable en matière de libéralités<a id=219></a>
 
 ###### Article R312-2
 
@@ -15237,7 +16026,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=219></a>
+##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=220></a>
 
 ###### Article R312-4
 
@@ -15323,7 +16112,7 @@ _Cité par_:
   - Code des marchés publics - art. 178 (T)
 
 
-#### Chapitre IV : Marchés et délégations de service public<a id=220></a>
+#### Chapitre IV : Marchés et délégations de service public<a id=221></a>
 
 ###### Article R314-1
 
@@ -15387,9 +16176,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VI : Actions judiciaires<a id=221></a>
+#### Chapitre VI : Actions judiciaires<a id=222></a>
 
-##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=222></a>
+##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=223></a>
 
 ###### Article R316-1
 
@@ -15469,7 +16258,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VIII : Dispositions diverses<a id=223></a>
+#### Chapitre VIII : Dispositions diverses<a id=224></a>
 
 ###### Article D318-1
 
@@ -15505,11 +16294,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L318-3 (V)
 
 
-### TITRE II : SERVICES COMMUNAUX<a id=224></a>
+### TITRE II : SERVICES COMMUNAUX<a id=225></a>
 
-#### Chapitre III : Régies municipales<a id=225></a>
+#### Chapitre III : Régies municipales<a id=226></a>
 
-##### Section 1 : Dispositions générales<a id=226></a>
+##### Section 1 : Dispositions générales<a id=227></a>
 
 ###### Article R323-1
 
@@ -15629,7 +16418,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-6 (V)
 
 
-##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=227></a>
+##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=228></a>
 
 ###### Article R323-7
 
@@ -15651,7 +16440,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-8 (M)
 
 
-##### Sous-section 1 : Création de la régie<a id=228></a>
+##### Sous-section 1 : Création de la régie<a id=229></a>
 
 ###### Article R323-8
 
@@ -15695,9 +16484,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-8 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=229></a>
+##### Sous-section 2 : Organisation administrative<a id=230></a>
 
-##### Paragraphe 1er : Dispositions générales<a id=230></a>
+##### Paragraphe 1er : Dispositions générales<a id=231></a>
 
 ###### Article R323-10
 
@@ -15734,7 +16523,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Conseil d'administration<a id=231></a>
+##### Paragraphe 2 : Conseil d'administration<a id=232></a>
 
 ###### Article R323-12
 
@@ -15897,7 +16686,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Directeur<a id=232></a>
+##### Paragraphe 3 : Directeur<a id=233></a>
 
 ###### Article R323-20
 
@@ -15992,7 +16781,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable<a id=233></a>
+##### Paragraphe 4 : Agent comptable<a id=234></a>
 
 ###### Article R323-24
 
@@ -16082,9 +16871,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 3 : Fonctionnement<a id=234></a>
+##### Sous-section 3 : Fonctionnement<a id=235></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=235></a>
+##### Paragraphe 1 : Dispositions générales<a id=236></a>
 
 ###### Article R323-28
 
@@ -16182,7 +16971,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Régime financier<a id=236></a>
+##### Paragraphe 2 : Régime financier<a id=237></a>
 
 ###### Article R323-33
 
@@ -16258,7 +17047,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Budget<a id=237></a>
+##### Paragraphe 3 : Budget<a id=238></a>
 
 ###### Article R323-38
 
@@ -16425,7 +17214,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Comptabilité<a id=238></a>
+##### Paragraphe 4 : Comptabilité<a id=239></a>
 
 ###### Article R323-45
 
@@ -16526,7 +17315,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=239></a>
+##### Sous-section 4 : Fin de la régie<a id=240></a>
 
 ###### Article R323-49
 
@@ -16615,7 +17404,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-51 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=240></a>
+##### Sous-section 5 : Régies intercommunales<a id=241></a>
 
 ###### Article R323-53
 
@@ -16639,7 +17428,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-3 (V)
 
 
-##### Section 3 : Régies dotées de la seule autonomie financière<a id=241></a>
+##### Section 3 : Régies dotées de la seule autonomie financière<a id=242></a>
 
 ###### Article R323-54
 
@@ -16661,7 +17450,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-12 (M)
 
 
-##### Sous-section 1 : Création<a id=242></a>
+##### Sous-section 1 : Création<a id=243></a>
 
 ###### Article R323-55
 
@@ -16684,9 +17473,9 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-92 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=243></a>
+##### Sous-section 2 : Organisation administrative<a id=244></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=244></a>
+##### Paragraphe 1 : Dispositions générales<a id=245></a>
 
 ###### Article R323-56
 
@@ -16763,7 +17552,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-65 (V)
 
 
-##### Paragraphe 2 : Conseil d'exploitation<a id=245></a>
+##### Paragraphe 2 : Conseil d'exploitation<a id=246></a>
 
 ###### Article R323-59
 
@@ -16919,7 +17708,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-58 (V)
 
 
-##### Paragraphe 3 : Directeur<a id=246></a>
+##### Paragraphe 3 : Directeur<a id=247></a>
 
 ###### Article R323-66
 
@@ -17018,7 +17807,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable et régisseur<a id=247></a>
+##### Paragraphe 4 : Agent comptable et régisseur<a id=248></a>
 
 ###### Article R323-71
 
@@ -17071,7 +17860,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 3 : Régime financier<a id=248></a>
+##### Sous-section 3 : Régime financier<a id=249></a>
 
 ###### Article R323-73
 
@@ -17417,7 +18206,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=249></a>
+##### Sous-section 4 : Fin de la régie<a id=250></a>
 
 ###### Article R323-88
 
@@ -17506,7 +18295,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-90 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=250></a>
+##### Sous-section 5 : Régies intercommunales<a id=251></a>
 
 ###### Article R323-92
 
@@ -17647,7 +18436,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-96 (V)
 
 
-##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=251></a>
+##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=252></a>
 
 ###### Article R323-98
 
@@ -17666,7 +18455,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Concessions et affermages<a id=252></a>
+#### Chapitre IV : Concessions et affermages<a id=253></a>
 
 ###### Article R324-1
 
@@ -17793,9 +18582,66 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=253></a>
+### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=254></a>
 
-#### Chapitre II : Aide aux entreprises<a id=254></a>
+#### Chapitre Ier : Dispositions générales.<a id=255></a>
+
+###### Article D381-1
+
+La proportion maximale du capital susceptible d'être détenue par les collectivités territoriales dans les établissements de
+crédit mentionnés au premier alinéa de l'article L. 381-8 est fixée à 50 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 15
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L381-8
+
+
+###### Article D381-2
+
+L'octroi des garanties par les établissements de crédit mentionnés à l'article D. 281-1 est assorti d'une rémunération
+calculée en fonction du risque assuré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 15
+
+
+###### Article D381-3
+
+La quotité de chaque concours financier garantie par l'établissement de crédit soit sur ses fonds propres, soit sur ceux des
+fonds de garantie constitués auprès de lui ne peut excéder 50 %. 
+
+La garantie de l'établissement de crédit cumulée avec celle des collectivités territoriales ne peut excéder 50 % du montant
+total de chaque concours financier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 15
+
+
+###### Article D381-4
+
+Lorsque la garantie accordée par l'établissement de crédit est couverte par un fonds de garantie ayant pour objet la création
+d'entreprise les quotités maximales prévues à l'article D. 381-3 sont portées à 65 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1602 du 18 décembre 2009 - art. 15
+
+
+#### Chapitre II : Aide aux entreprises<a id=256></a>
 
 ###### Article R382-1
 
@@ -17858,7 +18704,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Sociétés d'économie mixte locales<a id=255></a>
+#### Chapitre III : Sociétés d'économie mixte locales<a id=257></a>
 
 ###### Article R383-1
 
@@ -17987,13 +18833,13 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE IV : PERSONNEL COMMUNAL<a id=256></a>
+## LIVRE IV : PERSONNEL COMMUNAL<a id=258></a>
 
-### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=257></a>
+### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=259></a>
 
-#### Chapitre unique : Recrutement, formation et promotion sociale<a id=258></a>
+#### Chapitre unique : Recrutement, formation et promotion sociale<a id=260></a>
 
-##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=259></a>
+##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=261></a>
 
 ###### Article R411-1
 
