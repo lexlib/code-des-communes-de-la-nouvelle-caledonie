@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-4)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -6274,31 +6274,18 @@ _Cité par_:
 
 ###### Article L166-6
 
-Ainsi qu'il est dit à l'article 54 de la loi organique n° 99-209 du 19 mars 1999 :
+Ainsi qu'il est dit à l'article 54 de la loi organique n° 99-209 du 19 mars 1999 : 
 
 " Un syndicat mixte peut être constitué par accord entre la Nouvelle-Calédonie, des provinces, des communes, des syndicats de
-communes, des chambres de commerce et d'industrie, d'agriculture, de métiers et d'autres établissements publics, en vue
-d'activités ou de services présentant une utilité pour chaque personne morale intéressée.
+communes, des      chambres de commerce et d'industrie territoriales, d'agriculture, de métiers et d'autres établissements
+publics, en vue d'activités ou de services présentant une utilité pour chaque personne morale intéressée. 
 
 Le syndicat mixte est un établissement public ; il comprend au moins une collectivité territoriale ou un syndicat de
-communes.
+communes. 
 
 Il est institué par des délibérations concordantes des assemblées et organes délibérants des personnes morales concernées,
 qui en approuvent les statuts ".
 
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°99-209 du 19 mars 1999 - art. 54 (V)
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
 ###### Article L166-7
@@ -9788,22 +9775,13 @@ _Créé par_:
 
 ###### Article L324-3
 
-Les communes, la Nouvelle-Calédonie, les chambres de commerce et d'industrie et les établissements publics peuvent se grouper
-sous forme de syndicats pour l'exploitation, par voie de concession, de services publics présentant un intérêt pour chacune
-des personnes morales en cause.
+Les communes, la Nouvelle-Calédonie, les      chambres de commerce et d'industrie territoriales et les établissements publics
+peuvent se grouper sous forme de syndicats pour l'exploitation, par voie de concession, de services publics présentant un
+intérêt pour chacune des personnes morales en cause. 
 
 Les comptes et budgets des syndicats ainsi constitués entre collectivités et établissements publics sont justiciables de la
 chambre territoriale des comptes.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
 ###### Article L324-4
