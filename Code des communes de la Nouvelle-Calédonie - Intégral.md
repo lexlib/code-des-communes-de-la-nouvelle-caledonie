@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2013-05-29
+Version Consolidée au 2013-11-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 2013-05-29
           - [Section 3 : Attributions des maires et adjoints (art. L122-19 à L122-28)](#26)
           - [Section 4 : Garanties accordées à  l'issue du mandat (art. L122-29 à L122-30)](#27)
         - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. L123-1 à L123-13)](#28)
-          - [Section 1 : Dispositions générales (art. L123-1)](#29)
+          - [Section 1 : Dispositions générales (art. L123-1 à L123-1-1)](#29)
           - [Section 2 : Frais de mission et de représentation (art. L123-2 à L123-3)](#30)
           - [Section 3 : Indemnités de fonctions (art. L123-4 à L123-8)](#31)
           - [Section 4 : Régime de retraite des maires et adjoints (art. L123-9 à L123-13)](#32)
@@ -138,7 +138,7 @@ Version Consolidée au 2013-05-29
       - [TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX (art. L372-1 à L372-4)](#135)
         - [Chapitre II : Assainissement et eaux usées (art. L372-1 à L372-4)](#136)
       - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. L381-1 à L382-1)](#137)
-        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-8)](#138)
+        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-9)](#138)
         - [Chapitre II : Aide aux entreprises (art. L382-1)](#139)
     - [LIVRE IV : PERSONNEL COMMUNAL (art. L411-1 à L411-2)](#140)
       - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. L411-1 à L411-2)](#141)
@@ -3225,6 +3225,20 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L123-1-1
+
+Selon des conditions fixées par une délibération annuelle, le conseil municipal peut mettre un véhicule à disposition de ses
+membres ou des agents de la commune lorsque l'exercice de leurs mandats ou de leurs fonctions le justifie.
+
+Tout autre avantage en nature fait l'objet d'une délibération nominative, qui en précise les modalités d'usage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 19
 
 
 ##### Section 2 : Frais de mission et de représentation<a id=30></a>
@@ -8523,23 +8537,20 @@ _Créé par_:
 ###### Article L311-3
 
 En Nouvelle-Calédonie, la propriété des voies privées ouvertes à la circulation publique dans des ensembles d'habitations
-peut, dans un but d'intérêt général et après enquête publique, être transférée d'office dans le domaine public de la commune
-sur le territoire de laquelle ces voies sont situées. 
+peut, dans un but d'intérêt général et après enquête publique, être transférée d'office sans indemnité dans le domaine public
+de la commune sur le territoire de laquelle ces voies sont situées. 
 
 La décision de l'autorité administrative portant transfert vaut classement dans le domaine public et éteint, par elle-même et
 à sa date, tous droits réels et personnels existant sur les biens transférés. 
 
 Cette décision est prise par délibération du conseil municipal. Si un propriétaire a fait connaître son opposition, cette
-décision est prise par le haut-commissaire à la demande de la commune. 
-
-Le droit des propriétaires se résout en une indemnité qui, à défaut d'accord amiable, est fixée comme en matière
-d'expropriation.
+décision est prise par le haut-commissaire à la demande de la commune.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-537 du 14 mai 2009 - art. 8
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 5
 
 
 #### Chapitre II : Dons et legs<a id=112></a>
@@ -10172,6 +10183,26 @@ _Cité par_:
 _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L381-6
+
+
+###### Article L381-9
+
+Les communes et leurs groupements peuvent créer, dans le cadre des compétences qui leur sont attribuées par la loi, des
+sociétés publiques locales dont ils détiennent la totalité du capital, le cas échéant avec la Nouvelle-Calédonie, les
+provinces et leurs établissements publics. 
+
+Sous réserve de dispositions contraires, l'article 8-1 et le premier alinéa de l'article 8-3 de la loi n° 99-210 du 19 mars
+1999 relative à la Nouvelle-Calédonie sont applicables aux sociétés publiques locales mentionnées au présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°99-210 du 19 mars 1999 - art. 8-1
+
+_Créé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 6 (V)
 
 
 #### Chapitre II : Aide aux entreprises<a id=139></a>
