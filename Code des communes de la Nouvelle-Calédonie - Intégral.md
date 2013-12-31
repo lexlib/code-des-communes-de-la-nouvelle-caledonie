@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2014-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -145,7 +145,7 @@ Version Consolidée au 2013-11-17
         - [Chapitre unique : Recrutement, formation et promotion sociale (art. L411-1 à L411-2)](#142)
           - [Section 1 : Dispositions générales (art. L411-1)](#143)
           - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. L411-2)](#144)
-  - [Partie réglementaire (art. R111-1 à R411-2)](#145)
+  - [Partie réglementaire (art. R111-1 à R411-1)](#145)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. R111-1 à R163-1)](#146)
       - [TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES (art. R111-1 à R114-7)](#147)
         - [Chapitre Ier : Nom des communes (art. R111-1)](#148)
@@ -174,10 +174,10 @@ Version Consolidée au 2013-11-17
           - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. R124-1 à R124-3)](#171)
           - [Section 2 : Dispositions applicables aux maires et adjoints (art. R124-4 à R124-6)](#172)
         - [Chapitre V : Participation des habitants à la vie locale (art. R125-1 à R125-14)](#173)
-      - [TITRE III : POLICE (art. D131-1-1 à R132-3)](#174)
-        - [Chapitre Ier : Dispositions générales (art. D131-1-1 à D131-1-4)](#175)
-        - [Chapitre II : Dispositions particulières (art. R132-1 à R132-3)](#176)
-          - [Section 1 : Police dans les campagnes (art. R132-1 à R132-3)](#177)
+      - [TITRE III : POLICE (art. D131-1-1 à R132-1)](#174)
+        - [Chapitre Ier : Dispositions générales (art. D131-1-1)](#175)
+        - [Chapitre II : Dispositions particulières (art. R132-1)](#176)
+          - [Section 1 : Police dans les campagnes (art. R132-1)](#177)
       - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. R153-1 à R153-2)](#178)
         - [Chapitre III : Communes associées (art. R153-1 à R153-2)](#179)
       - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#180)
@@ -259,10 +259,10 @@ Version Consolidée au 2013-11-17
         - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#256)
         - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#257)
         - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#258)
-    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1 à R411-2)](#259)
-      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1 à R411-2)](#260)
-        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1 à R411-2)](#261)
-          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1 à R411-2)](#262)
+    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1)](#259)
+      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1)](#260)
+        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1)](#261)
+          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1)](#262)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION COMMUNALE<a id=2></a>
@@ -10139,42 +10139,37 @@ _Modifié par_:
 ###### Article L381-8
 
 Par dérogation aux dispositions de l'article L. 381-6, une commune, seule ou avec d'autres collectivités territoriales, peut
-participer au capital d'un établissement de crédit revêtant la forme de société anonyme régie par les dispositions du livre
-II du code de commerce et ayant pour objet exclusif de garantir les concours financiers accordés à des personnes morales de
-droit privé, notamment celles qui exploitent des entreprises nouvellement créées, dès lors qu'une ou plusieurs sociétés
-commerciales, dont au moins un établissement de crédit régi par les dispositions du chapitre Ier du titre Ier du livre V du
-code monétaire et financier, participent également au capital de cet établissement de crédit.
+participer au capital d'un établissement de crédit ou d'une société de financement revêtant la forme de société anonyme régie
+par les dispositions du livre II du code de commerce et ayant pour objet exclusif de garantir les concours financiers
+accordés à des personnes morales de droit privé, notamment celles qui exploitent des entreprises nouvellement créées, dès
+lors qu'une ou plusieurs sociétés commerciales, dont au moins un établissement de crédit ou une société de financement régi
+par les dispositions du chapitre Ier du titre Ier du livre V du code monétaire et financier, participent également au capital
+de cet établissement de crédit ou de cette société de financement. 
 
 La commune peut participer par versement de subventions à la constitution de fonds de garantie auprès de l'établissement de
-crédit mentionné à l'alinéa précédent. La commune passe avec l'établissement de crédit une convention déterminant notamment
-l'objet, le montant et le fonctionnement du fonds de garantie ainsi que les conditions de restitution des subventions versées
-en cas de modification ou de cessation d'activité de ce fonds.
+crédit ou de la société de financement mentionné à l'alinéa précédent. La commune passe avec l'établissement de crédit ou la
+société de financement une convention déterminant notamment l'objet, le montant et le fonctionnement du fonds de garantie
+ainsi que les conditions de restitution des subventions versées en cas de modification ou de cessation d'activité de ce
+fonds. 
 
-La participation des communes au conseil d'administration de cet établissement constitué sous forme de société anonyme est
-réglée comme suit :
+La participation des communes au conseil d'administration de cet établissement ou de cette société constitué sous forme de
+société anonyme est réglée comme suit : 
 
 1° Dans le cas où une seule commune est actionnaire de cette société anonyme, elle dispose d'un siège au conseil
-d'administration de cette société ;
+d'administration de cette société ; 
 
 2° Lorsque plusieurs communes sont actionnaires de cette société anonyme, le nombre de sièges dont elles disposent au conseil
-d'administration tient compte du capital détenu sans que ce nombre puisse être inférieur à un siège ni supérieur à six.
+d'administration tient compte du capital détenu sans que ce nombre puisse être inférieur à un siège ni supérieur à six. 
 
-Un décret détermine la proportion maximale de capital de l'établissement de crédit susceptible d'être détenue par les
-collectivités territoriales, ainsi que les modalités d'octroi des garanties et notamment la quotité garantie par
-l'établissement.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+Un décret détermine la proportion maximale de capital de l'établissement de crédit ou de la société de financement
+susceptible d'être détenue par les collectivités territoriales, ainsi que les modalités d'octroi des garanties et notamment
+la quotité garantie par l'établissement ou la société.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 21
 
 _Cité par_:
 
@@ -12857,86 +12852,8 @@ _Créé par_:
 
 ###### Article D131-1-1
 
-Le conseil local de sécurité et de prévention de la délinquance constitue le cadre de concertation sur les priorités de la
-lutte contre l'insécurité et de la prévention de la délinquance dans la commune.
-
-Il favorise l'échange d'informations entre les responsables des institutions et organismes publics et privés concernés, et
-peut définir des objectifs communs pour la préservation de la sécurité et de la tranquillité publiques.
-
-Il assure l'animation et le suivi du contrat local de sécurité lorsque le maire et le haut-commissaire de la République,
-après consultation du procureur de la République et avis du conseil, ont estimé que l'intensité des problèmes de délinquance
-sur le territoire de la commune justifiait sa conclusion.
-
-A défaut du dispositif contractuel précité, le conseil local peut proposer des actions de prévention ponctuelles dont il
-assure le suivi et l'évaluation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. D156-9 (VD)
-
-
-###### Article D131-1-2
-
-Présidé par le maire ou son représentant, le conseil local de sécurité et de prévention de la délinquance comprend :
-
-- le haut-commissaire de la République et le procureur de la République, ou leurs représentants ;
-
-- le président du gouvernement de la Nouvelle-Calédonie, ou son représentant ;
-
-- des représentants des services de l'Etat désignés par le haut-commissaire de la République ;
-
-- des représentants d'associations, établissements ou organismes oeuvrant notamment dans les domaines de la prévention, de la
-sécurité, de l'aide aux victimes, du logement, des transports collectifs de l'action sociale ou des activités économiques,
-désignés par le président du conseil local de sécurité après accord des responsables des organismes dont ils relèvent.
-
-En tant que de besoin et selon les particularités locales, les maires des communes et les présidents des établissements
-publics de coopération intercommunale intéressés ainsi que des personnes qualifiées peuvent être associés aux travaux du
-conseil.
-
-La composition du conseil local de sécurité et de prévention de la délinquance est fixée par arrêté du maire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. D156-10 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-
-###### Article D131-1-3
-
-Le conseil local de sécurité et de prévention de la délinquance se réunit à l'initiative de son président en formation
-plénière au moins une fois par an. Il se réunit de droit à la demande du haut-commissaire de la République ou de la majorité
-de ses membres.
-
-Il se réunit en formation restreinte, en tant que de besoin ou à la demande du haut-commissaire de la République, dans les
-conditions prévues par son règlement intérieur.
-
-Il détermine les conditions de fonctionnement des groupes de travail et d'échanges d'informations à vocation thématique ou
-territoriale qu'il peut créer en son sein.
-
-Son secrétariat est assuré sous l'autorité de son président.
+Le conseil local de sécurité et de prévention de la délinquance est régi par le chapitre VI du titre V du livre Ier du code
+de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -12944,41 +12861,9 @@ _Codifié par_:
 
   - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. D156-11 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-
-###### Article D131-1-4
-
-Le conseil local de sécurité et de prévention de la délinquance est informé au moins une fois par an par le haut-commissaire
-de la République ou son représentant des caractéristiques et de l'évolution de la délinquance dans la commune.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 du 29 juin 2001
-
-_Créé par_:
-
-  - Décret n°2007-1126 du 23 juillet 2007 - art. 5 () JORF 25 juillet 2007
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. D156-12 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
 #### Chapitre II : Dispositions particulières<a id=176></a>
@@ -12987,71 +12872,17 @@ _Abrogé par_:
 
 ###### Article R132-1
 
-Toute commune peut avoir un ou plusieurs gardes champêtres.
-
-Plusieurs communes peuvent avoir un même garde champêtre en commun.
+Les gardes champêtres sont régis par le chapitre VI du titre IV du livre V du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article R132-2
-
-Dans l'exercice de leurs fonctions, les gardes champêtres peuvent être armés. Ils ont, sur le bras, une plaque de métal où
-sont inscrits ces mots : " La Loi " ainsi que le nom de la municipalité et celui du garde.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 _Codifié par_:
 
   - Décret n°2001-579 du 29 juin 2001
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de la sécurité intérieure - art. R546-1 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-
-###### Article R132-3
-
-Les gardes chargés de la conservation des bois peuvent exercer, en sus de leurs fonctions, les attributions dévolues aux
-gardes champêtres par l'article L. 132-2.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Codifié par_:
-
-  - Décret n°2001-579 du 29 juin 2001
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. R546-2 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
-
-_Cite_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. L132-2
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
 ### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=178></a>
@@ -18769,40 +18600,16 @@ _Créé par_:
 
 ###### Article R411-1
 
-Les gardes champêtres doivent être âgés d'au moins vingt et un ans et être de bonnes vie et moeurs.
+Les gardes champêtres sont régis par le chapitre VI du titre IV du livre V du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-
-###### Article R411-2
-
-Les gardes champêtres et les agents de la police municipale peuvent recevoir un diplôme donnant droit au port de la médaille
-d'honneur de la police.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. R546-3 (VD)
-
-_Abrogé par_:
-
-  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
