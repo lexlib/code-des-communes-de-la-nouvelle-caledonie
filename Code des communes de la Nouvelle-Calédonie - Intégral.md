@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2014-03-23
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -13824,26 +13824,27 @@ _Codifié par_:
 
 Ne peuvent donner lieu à attribution d'indemnités que les travaux et déplacements que la commune ou l'établissement public
 communal ou intercommunal supportant la dépense n'est pas en mesure de faire exécuter par ses propres agents et qui n'entrent
-pas dans les attributions réglementaires des services de l'Etat. Des indemnités pourront être attribuées notamment pour :
+pas dans les attributions réglementaires des services de l'Etat. Des indemnités pourront être attribuées notamment pour : 
 
-1° Les contrôles effectués par des agents des corps techniques de l'Etat ainsi que par des archivistes ;
+1° Les contrôles effectués par des agents des corps techniques de l'Etat ainsi que par des archivistes ; 
 
-2° Les missions de surveillance et d'encadrement effectuées par des personnels des établissements scolaires ;
+2° Les missions de surveillance et d'encadrement effectuées par des personnels des établissements scolaires ; 
 
 3° Les participations à des jurys d'examen et de concours et les missions d'enseignement confiées à des agents des services
-extérieurs de l'Etat ou des établissements publics de l'Etat ;
+extérieurs de l'Etat ou des établissements publics de l'Etat ; 
 
-4° L'aide technique apportée aux communes et à leurs établissements publics par les agents des services extérieurs du Trésor.
+4° L'aide technique apportée aux communes et à leurs établissements publics par les     agents des services déconcentrés de
+la direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ### TITRE III : RECETTES<a id=188></a>
@@ -13883,13 +13884,13 @@ _Cite_:
 I.-Le seuil prévu au deuxième alinéa du 5° de l'article L. 231-5 est fixé à 3 635 F CFP. 
 
 II.-Le délai mentionné au premier alinéa du 7° de l'article L. 231-5 est de cinquante jours à compter de la date à laquelle
-la demande a été remise ou notifiée à l'huissier par le comptable direct du Trésor.
+la demande a été remise ou notifiée à l'huissier par le   comptable de la direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1602 du 18 décembre 2009 - art. 11
+  - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 _Cite_:
 
@@ -14611,11 +14612,12 @@ _Cité par_:
 
 ###### Article R234-12-3
 
-Le calcul des sommes dues aux bénéficiaires est transmis par les services du haut-commissaire au trésorier-payeur général
-chargé du paiement de la rémunération principale des bénéficiaires de l'indemnité. Ce dernier notifie les opérations
-effectuées au comptable public qui procède aux opérations de contrôle définies au B de l'article 12 du décret n° 62-1587 du
-29 décembre 1962 portant règlement général sur la comptabilité publique, à l'exception du contrôle du caractère libératoire
-du règlement qui incombe au trésorier-payeur général.
+Le calcul des sommes dues aux bénéficiaires est transmis par les services du haut-commissaire au   directeur chargé de la
+direction des finances publiques de la Nouvelle-Calédonie chargé du paiement de la rémunération principale des bénéficiaires
+de l'indemnité. Ce dernier notifie les opérations effectuées au comptable public qui procède aux opérations de contrôle
+définies au B de l'article 12 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+publique, à l'exception du contrôle du caractère libératoire du règlement qui incombe au   directeur chargé de la direction
+des finances publiques de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -14623,9 +14625,9 @@ _Cite_:
 
   - Décret n°62-1587 du 29 décembre 1962 - art. 12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-602 du 3 juin 2010 - art. 1
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ###### Article R234-12-4
@@ -14799,7 +14801,8 @@ Les pièces mentionnées à l'article précédent comprennent notamment :
 
 6° La copie des délibérations du conseil municipal ou des organes de gestion ; 
 
-7° L'avis motivé du trésorier-payeur général ou du        contrôleur budgétaire.
+7° L'avis motivé du   directeur chargé de la direction des finances publiques de la Nouvelle-Calédonie ou du contrôleur
+budgétaire.
 
 **Liens relatifs à cet article**
 
@@ -14809,15 +14812,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ###### Article R236-7
 
 Le ministre de l'économie et des finances peut déléguer ses pouvoirs au haut-commissaire pour l'attribution des avances
-sollicitées par les communes et établissements publics communaux.
+sollicitées par les communes et établissements publics communaux. 
 
-Les décisions du haut-commissaire sont prises sur la proposition du trésorier-payeur général.
+Les décisions du haut-commissaire sont prises sur la proposition du   directeur chargé de la direction des finances publiques
+de la Nouvelle-Calédonie. 
 
 Les modalités et limites de la délégation sont fixées par arrêté du ministre de l'économie et des finances.
 
@@ -14825,11 +14829,11 @@ Les modalités et limites de la délégation sont fixées par arrêté du minist
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ##### Section 2 : Recours à l'emprunt<a id=206></a>
@@ -15035,12 +15039,12 @@ _Créé par_:
 ###### Article D241-3
 
 Au début de chaque année, le maire dispose d'un délai d'un mois pour procéder à l'émission des titres de perception et des
-mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes.
+mandats correspondant aux droits acquis et aux services faits pendant l'année ou les années précédentes. 
 
-Le comptable dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire.
+Le comptable dispose du même délai pour comptabiliser les titres de perception et les mandats émis par le maire. 
 
 En cas de circonstances particulières, ce délai peut être prorogé d'une durée n'excédant pas un mois par décision du
-commissaire délégué prise sur avis du trésorier-payeur général.
+commissaire délégué prise sur avis du   directeur chargé de la direction des finances publiques de la Nouvelle-Calédonie. 
 
 Ces dispositions ne sont pas applicables aux opérations intéressant uniquement la section d'investissement du budget.
 
@@ -15048,7 +15052,7 @@ Ces dispositions ne sont pas applicables aux opérations intéressant uniquement
 
 _Modifié par_:
 
-  - Décret n°2009-1602 du 18 décembre 2009 - art. 13
+  - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 _Cité par_:
 
@@ -15296,17 +15300,17 @@ _Créé par_:
 
 ###### Article D241-15
 
-Les fonctions de comptable de la commune sont exercées par un comptable direct du Trésor.
+Les fonctions de comptable de la commune sont exercées par un   comptable de la direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 
 ###### Article D241-16
@@ -15612,17 +15616,18 @@ _Créé par_:
 ###### Article D241-30
 
 Le comptable de la commune est assujetti, pour l'exécution des règlements concernant sa responsabilité et les formes de la
-comptabilité communale, à la surveillance du trésorier-payeur général.
+comptabilité communale, à la surveillance du   directeur chargé de la direction des finances publiques de la Nouvelle-
+Calédonie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 
 ### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=213></a>
@@ -15820,17 +15825,17 @@ _Créé par_:
 ###### Article R312-6
 
 Les avis ou documents destinés au comptable de la commune ou de l'établissement public communal sont adressés par
-l'intermédiaire du trésorier-payeur général dont dépend ce comptable.
+l'intermédiaire du   directeur des finances publiques dont dépend ce comptable.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ###### Article R312-7
@@ -16536,9 +16541,10 @@ _Créé par_:
 
 ###### Article R323-24
 
-Les fonctions d'agent comptable, chef des services de la comptabilité, sont confiées soit à un comptable direct du Trésor,
-soit à un comptable spécial. Le comptable spécial est nommé par le haut-commissaire sur proposition du conseil
-d'administration, après avis du trésorier-payeur général. Il ne peut être remplacé ou révoqué que dans les mêmes formes.
+Les fonctions d'agent comptable, chef des services de la comptabilité, sont confiées soit à un comptable de la direction
+générale des finances publiques, soit à un comptable spécial. Le comptable spécial est nommé par le haut-commissaire sur
+proposition du conseil d'administration, après avis du directeur chargé de la direction des finances publiques de la
+Nouvelle-Calédonie. Il ne peut être remplacé ou révoqué que dans les mêmes formes. 
 
 L'agent comptable peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs agents qu'il constitue ses fondés de
 pouvoir par une procuration régulière.
@@ -16547,11 +16553,11 @@ pouvoir par une procuration régulière.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ###### Article R323-25
@@ -16605,22 +16611,22 @@ _Modifié par_:
 
 ###### Article R323-27
 
-L'agent comptable de la régie est soumis au contrôle de l'inspection générale des finances et du trésorier-payeur général ou
-du receveur particulier des finances.
+L'agent comptable de la régie est soumis au contrôle de l'inspection générale des finances et du directeur chargé de la
+direction des finances publiques de la Nouvelle-Calédonie.
 
 Le haut-commissaire reçoit en communication les rapports de contrôle des membres de l'inspection générale des finances, du
-trésorier-payeur général ou du receveur particulier des finances. Il peut faire contrôler les opérations et les écritures de
-la régie par un délégué qu'il désigne à cet effet.
+directeur chargé de la direction des finances publiques de la Nouvelle-Calédonie. Il peut faire contrôler les opérations et
+les écritures de la régie par un délégué qu'il désigne à cet effet.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ##### Sous-section 3 : Fonctionnement<a id=236></a>
@@ -17563,19 +17569,19 @@ _Créé par_:
 
 ###### Article R323-71
 
-Les fonctions d'agent comptable de la régie sont remplies par le comptable de la commune.
+Les fonctions d'agent comptable de la régie sont remplies par le comptable de la commune. 
 
 Toutefois, lorsque les recettes annuelles d'exploitation excèdent 75 419,89 euros, ces fonctions peuvent être confiées à un
-comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du trésorier-payeur
-général.
+comptable spécial par délibération du conseil municipal prise après avis du conseil d'exploitation et du   directeur chargé
+de la direction des finances publiques de la Nouvelle-Calédonie. 
 
-L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire.
+L'agent qui remplit les fonctions de comptable spécial est nommé par le haut-commissaire sur proposition du maire. 
 
 Il est soumis, sous sa responsabilité personnelle et pécuniaire, à l'ensemble des obligations qui incombent aux comptables
-publics en vertu du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+publics en vertu du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-Le comptable spécial est soumis à la surveillance du comptable de la commune et du trésorier-payeur général, ainsi qu'au
-contrôle de l'inspection générale des finances.
+Le comptable spécial est soumis à la surveillance du comptable de la commune et du   directeur chargé de la direction des
+finances publiques de la Nouvelle-Calédonie, ainsi qu'au contrôle de l'inspection générale des finances. 
 
 Les comptes du comptable spécial sont rendus dans les mêmes formes et délais et jugés dans les mêmes conditions que ceux du
 comptable de la commune.
@@ -17592,7 +17598,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
+  - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
 ###### Article R323-72
