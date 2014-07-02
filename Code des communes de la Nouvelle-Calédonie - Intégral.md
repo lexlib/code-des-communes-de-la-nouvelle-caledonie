@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -138,7 +138,7 @@ Version Consolidée au 2014-05-30
       - [TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX (art. L372-1 à L372-4)](#135)
         - [Chapitre II : Assainissement et eaux usées (art. L372-1 à L372-4)](#136)
       - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. L381-1 à L382-1)](#137)
-        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-9)](#138)
+        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-10)](#138)
         - [Chapitre II : Aide aux entreprises (art. L382-1)](#139)
     - [LIVRE IV : PERSONNEL COMMUNAL (art. L411-1 à L411-2)](#140)
       - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. L411-1 à L411-2)](#141)
@@ -10207,6 +10207,25 @@ _Cite_:
 _Créé par_:
 
   - Loi n°2013-1029 du 15 novembre 2013 - art. 6 (V)
+
+
+###### Article L381-10
+
+Les communes et leurs groupements peuvent créer, dans le cadre des compétences qui leur sont attribuées par la loi, des
+sociétés d'économie mixte à opération unique. 
+
+Sous réserve de dispositions contraires, les articles L. 1541-1 à L. 1541-3 du code général des collectivités territoriales
+sont applicables aux sociétés d'économie mixte à opération unique mentionnées au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-744 du 1er juillet 2014 - art. 4
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1541-3
 
 
 #### Chapitre II : Aide aux entreprises<a id=139></a>
