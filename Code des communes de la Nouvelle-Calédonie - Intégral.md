@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-06-25
+Version Consolidée au 2015-08-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-1)](#2)
@@ -36,233 +36,234 @@ Version Consolidée au 2015-06-25
         - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. L124-1 à L124-8)](#33)
           - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. L124-1 à L124-4)](#34)
           - [Section 2 : Dispositions applicables aux maires et adjoints (art. L124-5 à L124-8)](#35)
-        - [Chapitre V : Participation des habitants à la vie locale. (art. L125-1 à L125-11)](#36)
+        - [Chapitre V : Participation des habitants à la vie locale. (art. L125-1 à L125-12)](#36)
           - [Section 1 : Consultation des électeurs (art. L125-1 à L125-9)](#37)
           - [Section 2 : Quartiers et comités consultatifs (art. L125-10 à L125-11)](#38)
-        - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics. (art. L126-1 à L126-2)](#39)
-        - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-3)](#40)
-      - [TITRE III : POLICE (art. L131-1 à L132-6)](#41)
-        - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-14)](#42)
-          - [Section 1 : Pouvoirs généraux du maire en matière de police (art. L131-1 à L131-2-2)](#43)
-          - [Section 2 : Pouvoirs de police du maire portant sur des objets particuliers (art. L131-3 à L131-12)](#44)
-          - [Section 3 : Pouvoirs du haut-commissaire en matière de police municipale (art. L131-13 à L131-14)](#45)
-        - [Chapitre II : Dispositions particulières (art. L132-1 à L132-6)](#46)
-          - [Section 1 : Police dans les campagnes (art. L132-1 à L132-1-1)](#47)
-          - [Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat (art. L132-5 à L132-6)](#48)
-      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. L151-1 à L153-8)](#49)
-        - [Chapitre Ier : Section de communes (art. L151-1 à L151-14)](#50)
-          - [Section 1 : Dispositions générales (art. L151-1 à L151-5)](#51)
-          - [Section 2 : Commission syndicale de la section (art. L151-6 à L151-14)](#52)
-        - [Chapitre III : Communes associées (art. L153-1 à L153-8)](#53)
-      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. L161-1 à L169-1)](#54)
-        - [Chapitre Ier : Ententes et conférences intercommunales (art. L161-1 à L161-2)](#55)
-        - [Chapitre II : Biens et droits indivis entre plusieurs communes (art. L162-1 à L162-3)](#56)
-        - [Chapitre III : Syndicat de communes (art. L163-1 à L163-18)](#57)
-          - [Section 1 : Création du syndicat (art. L163-1 à L163-2)](#58)
-          - [Section 2 : Administration et fonctionnement du syndicat (art. L163-3 à L163-14-3)](#59)
-          - [Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat (art. L163-15 à L163-17)](#60)
-          - [Section 4 : Durée du syndicat (art. L163-18)](#61)
-        - [Chapitre VI : Syndicats mixtes (art. L166-1 à L166-7)](#62)
-          - [Section 1 : Syndicats mixtes auxquels ne participent pas la Nouvelle-Calédonie ou les provinces (art. L166-1 à L166-5)](#63)
-          - [Section 2 : Syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces (art. L166-6 à L166-7)](#64)
-        - [Chapitre IX : Dispositions communes (art. L169-1)](#65)
-    - [LIVRE II : FINANCES COMMUNALES (art. L211-1 à L251-7)](#66)
-      - [TITRE Ier : BUDGET (art. L211-1 à L212-4)](#67)
-        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-7)](#68)
-        - [Chapitre II : Vote et règlement (art. L212-1 à L212-4)](#69)
-      - [TITRE II : DÉPENSES (art. L221-1 à L221-9)](#70)
-      - [TITRE III : RECETTES (art. L231-1 à L236-11)](#71)
-        - [Chapitre Ier : Dispositions générales (art. L231-1 à L231-5)](#72)
-          - [Section 1 : Catégories de recettes (art. L231-1 à L231-2)](#73)
-            - [Sous-section 1 : Recettes de la section de fonctionnement (art. L231-1)](#74)
-            - [Sous-section 2 : Recettes de la section d'investissement (art. L231-2)](#75)
-          - [Section 2 : Répartition et recouvrement de certaines taxes (art. L231-3 à L231-4)](#76)
-          - [Section 2 : Répartition et recouvrement de certaines taxes (art. L231-5)](#77)
-        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. L233-1 à L233-32)](#78)
-          - [Section 1 : Taxe sur l'électricité (art. L233-1 à L233-2)](#79)
-          - [Section 2 : Taxe sur la publicité (art. L233-3 à L233-13)](#80)
-            - [Sous-section 1 : Dispositions générales (art. L233-3)](#81)
-            - [Sous-section 2 : Assiette de la taxe et exonérations (art. L233-4 à L233-7)](#82)
-            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. L233-8 à L233-9)](#83)
-            - [Sous-section 4 : Sanctions applicables (art. L233-10 à L233-13)](#84)
-          - [Section 3 : Taxes particulières aux stations (art. L233-14 à L233-26)](#85)
-            - [Sous-section 1 : Taxe de séjour (art. L233-14 à L233-24)](#86)
-              - [Paragraphe 1 : Dispositions générales. (art. L233-14 à L233-16)](#87)
-              - [Paragraphe 2 : Tarifs de la taxe de séjour et exonérations. (art. L233-17 à L233-21)](#88)
-              - [Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités. (art. L233-22 à L233-23)](#89)
-              - [Paragraphe 4 : Dispositions particulières aux communes groupées en syndicat. (art. L233-24)](#90)
-            - [Sous-section 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations (art. L233-25 à L233-26)](#91)
-          - [Section 4 : Taxe de trottoirs et de pavage (art. L233-27 à L233-30)](#92)
-            - [Sous-section 1 : Taxe de trottoirs (art. L233-27 à L233-30)](#93)
-          - [Section 5 : Autres redevances pour services rendus (art. L233-31 à L233-32)](#94)
-            - [Sous-section 1 : Redevance d'enlèvement des ordures ménagères (art. L233-31)](#95)
-            - [Sous-section 2 : Redevance d'assainissement (art. L233-32)](#96)
-        - [Chapitre V : Subventions (art. L235-1)](#97)
-        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. L236-1 à L236-11)](#98)
-          - [Section 1 : Avances (art. L236-1 à L236-3)](#99)
-          - [Section 2 : Recours à l'emprunt (art. L236-4 à L236-7-2)](#100)
-          - [Section 3 : Garanties d'emprunt (art. L236-8 à L236-11)](#101)
-      - [TITRE IV : COMPTABILITÉ (art. L241-1 à L241-5)](#102)
-        - [Chapitre Ier : Comptabilité du maire et du comptable (art. L241-1 à L241-5)](#103)
-          - [Section 1 : Dispositions générales (art. L241-1)](#104)
-          - [Section 2 : Comptabilité du maire (art. L241-2 à L241-3-1)](#105)
-          - [Section 3 : Comptabilité du comptable (art. L241-4 à L241-5)](#106)
-      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. L251-1 à L251-7)](#107)
-        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. L251-1 à L251-7)](#108)
-    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. L311-1 à L382-1)](#109)
-      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. L311-1 à L318-4)](#110)
-        - [Chapitre Ier : Biens communaux (art. L311-1 à L311-3)](#111)
-        - [Chapitre II : Dons et legs (art. L312-1 à L312-4)](#112)
-          - [Section 1 : Dispositions générales (art. L312-1 à L312-4)](#113)
-        - [Chapitre III : Adjudications publiques en matière de biens communaux (art. L313-1)](#114)
-        - [Chapitre IV : Marchés et délégations de service public (art. L314-1 à L314-2)](#115)
-        - [Chapitre V : Travaux communaux (art. L315-1)](#116)
-        - [Chapitre VI : Actions judiciaires (art. L316-1 à L316-11)](#117)
-          - [Section 1 : Dispositions générales (art. L316-1 à L316-4)](#118)
-          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. L316-5 à L316-8)](#119)
-          - [Section 3 : Actions intentées contre la commune (art. L316-9 à L316-11)](#120)
-        - [Chapitre VIII : Dispositions diverses (art. L318-1 à L318-4)](#121)
-      - [TITRE II : SERVICES COMMUNAUX (art. L321-1 à L324-5)](#122)
-        - [Chapitre Ier : Dispositions générales applicables aux services communaux (art. L321-1 à L321-2)](#123)
-        - [Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages (art. L322-1 à L322-3)](#124)
-        - [Chapitre III : Régies municipales (art. L323-1 à L323-18)](#125)
-          - [Section 1 : Dispositions générales (art. L323-1 à L323-7)](#126)
-          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. L323-8)](#127)
-          - [Section 3 : Régies dotées de la seule autonomie financière (art. L323-9 à L323-12)](#128)
-          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. L323-13 à L323-18)](#129)
-        - [Chapitre IV : Concessions et affermages (art. L324-1 à L324-5)](#130)
-      - [TITRE V : SERVICES D'INCENDIE ET DE SECOURS (art. L352-1 à L352-4)](#131)
-        - [Chapitre II : Réserves communales de sécurité civile (art. L352-1 à L352-4)](#132)
-      - [TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES (art. L362-1)](#133)
-        - [Chapitre II : Opérations funéraires (art. L362-1)](#134)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX (art. L372-1 à L372-4)](#135)
-        - [Chapitre II : Assainissement et eaux usées (art. L372-1 à L372-4)](#136)
-      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. L381-1 à L382-1)](#137)
-        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-10)](#138)
-        - [Chapitre II : Aide aux entreprises (art. L382-1)](#139)
-    - [LIVRE IV : PERSONNEL COMMUNAL (art. L411-1 à L411-2)](#140)
-      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. L411-1 à L411-2)](#141)
-        - [Chapitre unique : Recrutement, formation et promotion sociale (art. L411-1 à L411-2)](#142)
-          - [Section 1 : Dispositions générales (art. L411-1)](#143)
-          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. L411-2)](#144)
-  - [Partie réglementaire (art. R111-1 à R411-1)](#145)
-    - [LIVRE Ier : ORGANISATION COMMUNALE (art. R111-1 à R163-1)](#146)
-      - [TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES (art. R111-1 à R114-7)](#147)
-        - [Chapitre Ier : Nom des communes (art. R111-1)](#148)
-        - [Chapitre II : Limites territoriales, chef-lieu et fusion des communes (art. D112-3 à R112-24)](#149)
-          - [Section 1 : Dispositions générales (art. D112-3 à R112-2)](#150)
-          - [Section 2 : Fusion de communes (art. D112-4 à R112-14)](#151)
-            - [Sous-section 1 : Dispositions communes (art. D112-4 à R112-14)](#152)
-          - [Section 3 : Modifications aux limites territoriales des communes (art. R112-16 à R112-24)](#153)
-        - [Chapitre IV : Population des communes (art. R114-1 à R114-7)](#154)
-      - [TITRE II : ORGANES DE LA COMMUNE (art. D121-34 à R125-14)](#155)
-        - [Chapitre Ier : Conseil municipal (art. D121-34 à R121-33)](#156)
-          - [Section 1 : Formation (art. R121-2 à R121-5)](#157)
-          - [Section 2 : Fonctionnement (art. R121-6 à R121-9)](#158)
-          - [Section 3 : Dispositions applicables aux membres des conseils municipaux (art. R121-10 à R121-11)](#159)
-          - [Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat (art. R121-12 à R121-23)](#160)
-          - [Section 7 : Droit à la formation (art. R121-24 à R121-33)](#161)
-            - [Sous-section 1 : Dispositions générales (art. R121-24 à R121-25)](#162)
-            - [Sous-section 2 : Dispositions applicables aux élus salariés (art. R121-26 à R121-29)](#163)
-            - [Sous-section 3 : Dispositions applicables aux élus fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs (art. R121-30 à R121-33)](#164)
-        - [Chapitre II : Maires et adjoints (art. D122-2 à R122-10)](#165)
-          - [Section 2 : Désignation et statut des maires et adjoints (art. D122-2 à R122-7)](#166)
-          - [Section 3 : Attributions des maires et adjoints (art. R122-8 à R122-10)](#167)
-        - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. D123-1 à D123-5)](#168)
-          - [Section 4 : Régime de retraite des maires et adjoints (art. D123-1 à D123-5)](#169)
-        - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R124-1 à R124-6)](#170)
-          - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. R124-1 à R124-3)](#171)
-          - [Section 2 : Dispositions applicables aux maires et adjoints (art. R124-4 à R124-6)](#172)
-        - [Chapitre V : Participation des habitants à la vie locale (art. R125-1 à R125-14)](#173)
-      - [TITRE III : POLICE (art. D131-1-1 à R132-1)](#174)
-        - [Chapitre Ier : Dispositions générales (art. D131-1-1)](#175)
-        - [Chapitre II : Dispositions particulières (art. R132-1)](#176)
-          - [Section 1 : Police dans les campagnes (art. R132-1)](#177)
-      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. R153-1 à R153-2)](#178)
-        - [Chapitre III : Communes associées (art. R153-1 à R153-2)](#179)
-      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#180)
-        - [Chapitre III : Syndicat de communes (art. R163-1)](#181)
-          - [Section 1 : Création du syndicat (art. R163-1)](#182)
-    - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#183)
-      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#184)
-        - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#185)
-        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#186)
-      - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#187)
-      - [TITRE III : RECETTES (art. D231-1 à R236-10)](#188)
-        - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#189)
-        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#190)
-          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#191)
-            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#192)
-            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#193)
-            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#194)
-            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#195)
-        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-12-4)](#196)
-          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#197)
-            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#198)
-            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#199)
-            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#200)
-          - [Section 2 : Dotation d'équipement des territoires ruraux (art. R234-5 à R234-10)](#201)
-          - [Section 4 : Dotation spéciale pour le logement des instituteurs (art. R234-12 à R234-12-4)](#202)
-        - [Chapitre V : Subventions (art. D235-1)](#203)
-        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#204)
-          - [Section 1 : Avances (art. R236-1 à R236-7)](#205)
-          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-9-2)](#206)
-          - [Section 4 : Garanties d'emprunts (art. D236-11 à R236-10)](#207)
-      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#208)
-        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#209)
-          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#210)
-          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#211)
-          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#212)
-      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. D251-2 à R251-1)](#213)
-        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. D251-2 à R251-1)](#214)
-    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#215)
-      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#216)
-        - [Chapitre Ier : Biens communaux (art. R311-1)](#217)
-        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#218)
-          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#219)
-          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#220)
-          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#221)
-        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#222)
-        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#223)
-          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#224)
-        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#225)
-      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#226)
-        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#227)
-          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#228)
-          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#229)
-            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#230)
-            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#231)
-              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#232)
-              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#233)
-              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#234)
-              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#235)
-            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#236)
-              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#237)
-              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#238)
-              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#239)
-              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#240)
-            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#241)
-            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#242)
-          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#243)
-            - [Sous-section 1 : Création (art. R323-55)](#244)
-            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#245)
-              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#246)
-              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#247)
-              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#248)
-              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#249)
-            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#250)
-            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#251)
-            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#252)
-          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#253)
-        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#254)
-      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. D381-1 à R383-5)](#255)
-        - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#256)
-        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#257)
-        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#258)
-    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1)](#259)
-      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1)](#260)
-        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1)](#261)
-          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1)](#262)
+          - [Section 3 : Transparence des données des communes (art. L125-12)](#39)
+        - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics. (art. L126-1 à L126-2)](#40)
+        - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-3)](#41)
+      - [TITRE III : POLICE (art. L131-1 à L132-6)](#42)
+        - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-14)](#43)
+          - [Section 1 : Pouvoirs généraux du maire en matière de police (art. L131-1 à L131-2-2)](#44)
+          - [Section 2 : Pouvoirs de police du maire portant sur des objets particuliers (art. L131-3 à L131-12)](#45)
+          - [Section 3 : Pouvoirs du haut-commissaire en matière de police municipale (art. L131-13 à L131-14)](#46)
+        - [Chapitre II : Dispositions particulières (art. L132-1 à L132-6)](#47)
+          - [Section 1 : Police dans les campagnes (art. L132-1 à L132-1-1)](#48)
+          - [Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat (art. L132-5 à L132-6)](#49)
+      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. L151-1 à L153-8)](#50)
+        - [Chapitre Ier : Section de communes (art. L151-1 à L151-14)](#51)
+          - [Section 1 : Dispositions générales (art. L151-1 à L151-5)](#52)
+          - [Section 2 : Commission syndicale de la section (art. L151-6 à L151-14)](#53)
+        - [Chapitre III : Communes associées (art. L153-1 à L153-8)](#54)
+      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. L161-1 à L169-1)](#55)
+        - [Chapitre Ier : Ententes et conférences intercommunales (art. L161-1 à L161-2)](#56)
+        - [Chapitre II : Biens et droits indivis entre plusieurs communes (art. L162-1 à L162-3)](#57)
+        - [Chapitre III : Syndicat de communes (art. L163-1 à L163-18)](#58)
+          - [Section 1 : Création du syndicat (art. L163-1 à L163-2)](#59)
+          - [Section 2 : Administration et fonctionnement du syndicat (art. L163-3 à L163-14-3)](#60)
+          - [Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat (art. L163-15 à L163-17)](#61)
+          - [Section 4 : Durée du syndicat (art. L163-18)](#62)
+        - [Chapitre VI : Syndicats mixtes (art. L166-1 à L166-7)](#63)
+          - [Section 1 : Syndicats mixtes auxquels ne participent pas la Nouvelle-Calédonie ou les provinces (art. L166-1 à L166-5)](#64)
+          - [Section 2 : Syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces (art. L166-6 à L166-7)](#65)
+        - [Chapitre IX : Dispositions communes (art. L169-1)](#66)
+    - [LIVRE II : FINANCES COMMUNALES (art. L211-1 à L251-7)](#67)
+      - [TITRE Ier : BUDGET (art. L211-1 à L212-4)](#68)
+        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-7)](#69)
+        - [Chapitre II : Vote et règlement (art. L212-1 à L212-4)](#70)
+      - [TITRE II : DÉPENSES (art. L221-1 à L221-9)](#71)
+      - [TITRE III : RECETTES (art. L231-1 à L236-11)](#72)
+        - [Chapitre Ier : Dispositions générales (art. L231-1 à L231-5)](#73)
+          - [Section 1 : Catégories de recettes (art. L231-1 à L231-2)](#74)
+            - [Sous-section 1 : Recettes de la section de fonctionnement (art. L231-1)](#75)
+            - [Sous-section 2 : Recettes de la section d'investissement (art. L231-2)](#76)
+          - [Section 2 : Répartition et recouvrement de certaines taxes (art. L231-3 à L231-4)](#77)
+          - [Section 2 : Répartition et recouvrement de certaines taxes (art. L231-5)](#78)
+        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. L233-1 à L233-32)](#79)
+          - [Section 1 : Taxe sur l'électricité (art. L233-1 à L233-2)](#80)
+          - [Section 2 : Taxe sur la publicité (art. L233-3 à L233-13)](#81)
+            - [Sous-section 1 : Dispositions générales (art. L233-3)](#82)
+            - [Sous-section 2 : Assiette de la taxe et exonérations (art. L233-4 à L233-7)](#83)
+            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. L233-8 à L233-9)](#84)
+            - [Sous-section 4 : Sanctions applicables (art. L233-10 à L233-13)](#85)
+          - [Section 3 : Taxes particulières aux stations (art. L233-14 à L233-26)](#86)
+            - [Sous-section 1 : Taxe de séjour (art. L233-14 à L233-24)](#87)
+              - [Paragraphe 1 : Dispositions générales. (art. L233-14 à L233-16)](#88)
+              - [Paragraphe 2 : Tarifs de la taxe de séjour et exonérations. (art. L233-17 à L233-21)](#89)
+              - [Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités. (art. L233-22 à L233-23)](#90)
+              - [Paragraphe 4 : Dispositions particulières aux communes groupées en syndicat. (art. L233-24)](#91)
+            - [Sous-section 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations (art. L233-25 à L233-26)](#92)
+          - [Section 4 : Taxe de trottoirs et de pavage (art. L233-27 à L233-30)](#93)
+            - [Sous-section 1 : Taxe de trottoirs (art. L233-27 à L233-30)](#94)
+          - [Section 5 : Autres redevances pour services rendus (art. L233-31 à L233-32)](#95)
+            - [Sous-section 1 : Redevance d'enlèvement des ordures ménagères (art. L233-31)](#96)
+            - [Sous-section 2 : Redevance d'assainissement (art. L233-32)](#97)
+        - [Chapitre V : Subventions (art. L235-1)](#98)
+        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. L236-1 à L236-11)](#99)
+          - [Section 1 : Avances (art. L236-1 à L236-3)](#100)
+          - [Section 2 : Recours à l'emprunt (art. L236-4 à L236-7-2)](#101)
+          - [Section 3 : Garanties d'emprunt (art. L236-8 à L236-11)](#102)
+      - [TITRE IV : COMPTABILITÉ (art. L241-1 à L241-5)](#103)
+        - [Chapitre Ier : Comptabilité du maire et du comptable (art. L241-1 à L241-5)](#104)
+          - [Section 1 : Dispositions générales (art. L241-1)](#105)
+          - [Section 2 : Comptabilité du maire (art. L241-2 à L241-3-1)](#106)
+          - [Section 3 : Comptabilité du comptable (art. L241-4 à L241-5)](#107)
+      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. L251-1 à L251-7)](#108)
+        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. L251-1 à L251-7)](#109)
+    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. L311-1 à L382-1)](#110)
+      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. L311-1 à L318-4)](#111)
+        - [Chapitre Ier : Biens communaux (art. L311-1 à L311-3)](#112)
+        - [Chapitre II : Dons et legs (art. L312-1 à L312-4)](#113)
+          - [Section 1 : Dispositions générales (art. L312-1 à L312-4)](#114)
+        - [Chapitre III : Adjudications publiques en matière de biens communaux (art. L313-1)](#115)
+        - [Chapitre IV : Marchés et délégations de service public (art. L314-1 à L314-2)](#116)
+        - [Chapitre V : Travaux communaux (art. L315-1)](#117)
+        - [Chapitre VI : Actions judiciaires (art. L316-1 à L316-11)](#118)
+          - [Section 1 : Dispositions générales (art. L316-1 à L316-4)](#119)
+          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. L316-5 à L316-8)](#120)
+          - [Section 3 : Actions intentées contre la commune (art. L316-9 à L316-11)](#121)
+        - [Chapitre VIII : Dispositions diverses (art. L318-1 à L318-4)](#122)
+      - [TITRE II : SERVICES COMMUNAUX (art. L321-1 à L324-5)](#123)
+        - [Chapitre Ier : Dispositions générales applicables aux services communaux (art. L321-1 à L321-2)](#124)
+        - [Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages (art. L322-1 à L322-3)](#125)
+        - [Chapitre III : Régies municipales (art. L323-1 à L323-18)](#126)
+          - [Section 1 : Dispositions générales (art. L323-1 à L323-7)](#127)
+          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. L323-8)](#128)
+          - [Section 3 : Régies dotées de la seule autonomie financière (art. L323-9 à L323-12)](#129)
+          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. L323-13 à L323-18)](#130)
+        - [Chapitre IV : Concessions et affermages (art. L324-1 à L324-5)](#131)
+      - [TITRE V : SERVICES D'INCENDIE ET DE SECOURS (art. L352-1 à L352-4)](#132)
+        - [Chapitre II : Réserves communales de sécurité civile (art. L352-1 à L352-4)](#133)
+      - [TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES (art. L362-1)](#134)
+        - [Chapitre II : Opérations funéraires (art. L362-1)](#135)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX (art. L372-1 à L372-4)](#136)
+        - [Chapitre II : Assainissement et eaux usées (art. L372-1 à L372-4)](#137)
+      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. L381-1 à L382-1)](#138)
+        - [Chapitre Ier : Dispositions générales (art. L381-1 à L381-10)](#139)
+        - [Chapitre II : Aide aux entreprises (art. L382-1)](#140)
+    - [LIVRE IV : PERSONNEL COMMUNAL (art. L411-1 à L411-2)](#141)
+      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. L411-1 à L411-2)](#142)
+        - [Chapitre unique : Recrutement, formation et promotion sociale (art. L411-1 à L411-2)](#143)
+          - [Section 1 : Dispositions générales (art. L411-1)](#144)
+          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. L411-2)](#145)
+  - [Partie réglementaire (art. R111-1 à R411-1)](#146)
+    - [LIVRE Ier : ORGANISATION COMMUNALE (art. R111-1 à R163-1)](#147)
+      - [TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES (art. R111-1 à R114-7)](#148)
+        - [Chapitre Ier : Nom des communes (art. R111-1)](#149)
+        - [Chapitre II : Limites territoriales, chef-lieu et fusion des communes (art. D112-3 à R112-24)](#150)
+          - [Section 1 : Dispositions générales (art. D112-3 à R112-2)](#151)
+          - [Section 2 : Fusion de communes (art. D112-4 à R112-14)](#152)
+            - [Sous-section 1 : Dispositions communes (art. D112-4 à R112-14)](#153)
+          - [Section 3 : Modifications aux limites territoriales des communes (art. R112-16 à R112-24)](#154)
+        - [Chapitre IV : Population des communes (art. R114-1 à R114-7)](#155)
+      - [TITRE II : ORGANES DE LA COMMUNE (art. D121-34 à R125-14)](#156)
+        - [Chapitre Ier : Conseil municipal (art. D121-34 à R121-33)](#157)
+          - [Section 1 : Formation (art. R121-2 à R121-5)](#158)
+          - [Section 2 : Fonctionnement (art. R121-6 à R121-9)](#159)
+          - [Section 3 : Dispositions applicables aux membres des conseils municipaux (art. R121-10 à R121-11)](#160)
+          - [Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat (art. R121-12 à R121-23)](#161)
+          - [Section 7 : Droit à la formation (art. R121-24 à R121-33)](#162)
+            - [Sous-section 1 : Dispositions générales (art. R121-24 à R121-25)](#163)
+            - [Sous-section 2 : Dispositions applicables aux élus salariés (art. R121-26 à R121-29)](#164)
+            - [Sous-section 3 : Dispositions applicables aux élus fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs (art. R121-30 à R121-33)](#165)
+        - [Chapitre II : Maires et adjoints (art. D122-2 à R122-10)](#166)
+          - [Section 2 : Désignation et statut des maires et adjoints (art. D122-2 à R122-7)](#167)
+          - [Section 3 : Attributions des maires et adjoints (art. R122-8 à R122-10)](#168)
+        - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. D123-1 à D123-5)](#169)
+          - [Section 4 : Régime de retraite des maires et adjoints (art. D123-1 à D123-5)](#170)
+        - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R124-1 à R124-6)](#171)
+          - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. R124-1 à R124-3)](#172)
+          - [Section 2 : Dispositions applicables aux maires et adjoints (art. R124-4 à R124-6)](#173)
+        - [Chapitre V : Participation des habitants à la vie locale (art. R125-1 à R125-14)](#174)
+      - [TITRE III : POLICE (art. D131-1-1 à R132-1)](#175)
+        - [Chapitre Ier : Dispositions générales (art. D131-1-1)](#176)
+        - [Chapitre II : Dispositions particulières (art. R132-1)](#177)
+          - [Section 1 : Police dans les campagnes (art. R132-1)](#178)
+      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. R153-1 à R153-2)](#179)
+        - [Chapitre III : Communes associées (art. R153-1 à R153-2)](#180)
+      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#181)
+        - [Chapitre III : Syndicat de communes (art. R163-1)](#182)
+          - [Section 1 : Création du syndicat (art. R163-1)](#183)
+    - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#184)
+      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#185)
+        - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#186)
+        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#187)
+      - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#188)
+      - [TITRE III : RECETTES (art. D231-1 à R236-10)](#189)
+        - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#190)
+        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#191)
+          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#192)
+            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#193)
+            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#194)
+            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#195)
+            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#196)
+        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-12-4)](#197)
+          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#198)
+            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#199)
+            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#200)
+            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#201)
+          - [Section 2 : Dotation d'équipement des territoires ruraux (art. R234-5 à R234-10)](#202)
+          - [Section 4 : Dotation spéciale pour le logement des instituteurs (art. R234-12 à R234-12-4)](#203)
+        - [Chapitre V : Subventions (art. D235-1)](#204)
+        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#205)
+          - [Section 1 : Avances (art. R236-1 à R236-7)](#206)
+          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-9-2)](#207)
+          - [Section 4 : Garanties d'emprunts (art. D236-11 à R236-10)](#208)
+      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#209)
+        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#210)
+          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#211)
+          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#212)
+          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#213)
+      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. D251-2 à R251-1)](#214)
+        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. D251-2 à R251-1)](#215)
+    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#216)
+      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#217)
+        - [Chapitre Ier : Biens communaux (art. R311-1)](#218)
+        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#219)
+          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#220)
+          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#221)
+          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#222)
+        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#223)
+        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#224)
+          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#225)
+        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#226)
+      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#227)
+        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#228)
+          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#229)
+          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#230)
+            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#231)
+            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#232)
+              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#233)
+              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#234)
+              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#235)
+              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#236)
+            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#237)
+              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#238)
+              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#239)
+              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#240)
+              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#241)
+            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#242)
+            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#243)
+          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#244)
+            - [Sous-section 1 : Création (art. R323-55)](#245)
+            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#246)
+              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#247)
+              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#248)
+              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#249)
+              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#250)
+            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#251)
+            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#252)
+            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#253)
+          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#254)
+        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#255)
+      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. D381-1 à R383-5)](#256)
+        - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#257)
+        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#258)
+        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#259)
+    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1)](#260)
+      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1)](#261)
+        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1)](#262)
+          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1)](#263)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION COMMUNALE<a id=2></a>
@@ -4069,7 +4070,31 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 17
 
 
-#### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.<a id=39></a>
+##### Section 3 : Transparence des données des communes<a id=39></a>
+
+###### Article L125-12
+
+Les communes de plus de 3 500 habitants ainsi que les établissements publics de coopération intercommunale à fiscalité propre
+auxquels elles appartiennent rendent accessibles en ligne les informations publiques mentionnées à l'article 10 de la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal, lorsque ces informations se rapportent à leur territoire et
+sont disponibles sous forme électronique. 
+
+Ces informations publiques sont offertes à la réutilisation dans les conditions prévues au chapitre II du titre Ier de la
+même loi.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-753 du 17 juillet 1978 - art. 10 (V)
+
+_Créé par_:
+
+  - Loi n°2015-991 du 7 août 2015 - art. 106 (V)
+
+
+#### Chapitre VI : Participation des habitants et des usagers à la vie des services publics.<a id=40></a>
 
 ###### Article L126-1
 
@@ -4154,7 +4179,7 @@ _Créé par_:
   - Ordonnance n°2008-859 du 28 août 2008 - art. 11
 
 
-#### Chapitre VII : Responsabilité et protection des élus<a id=40></a>
+#### Chapitre VII : Responsabilité et protection des élus<a id=41></a>
 
 ###### Article L127-1
 
@@ -4245,11 +4270,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L127-1 (V)
 
 
-### TITRE III : POLICE<a id=41></a>
+### TITRE III : POLICE<a id=42></a>
 
-#### Chapitre Ier : Dispositions générales<a id=42></a>
+#### Chapitre Ier : Dispositions générales<a id=43></a>
 
-##### Section 1 : Pouvoirs généraux du maire en matière de police<a id=43></a>
+##### Section 1 : Pouvoirs généraux du maire en matière de police<a id=44></a>
 
 ###### Article L131-1
 
@@ -4411,7 +4436,7 @@ _Créé par_:
   - Loi n°2007-297 du 5 mars 2007 - art. 81 () JORF 7 mars 2007
 
 
-##### Section 2 : Pouvoirs de police du maire portant sur des objets particuliers<a id=44></a>
+##### Section 2 : Pouvoirs de police du maire portant sur des objets particuliers<a id=45></a>
 
 ###### Article L131-3
 
@@ -4608,7 +4633,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Pouvoirs du haut-commissaire en matière de police municipale<a id=45></a>
+##### Section 3 : Pouvoirs du haut-commissaire en matière de police municipale<a id=46></a>
 
 ###### Article L131-13
 
@@ -4716,9 +4741,9 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L121-39-1 (V)
 
 
-#### Chapitre II : Dispositions particulières<a id=46></a>
+#### Chapitre II : Dispositions particulières<a id=47></a>
 
-##### Section 1 : Police dans les campagnes<a id=47></a>
+##### Section 1 : Police dans les campagnes<a id=48></a>
 
 ###### Article L132-1
 
@@ -4774,7 +4799,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L132-2 (Ab)
 
 
-##### Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat<a id=48></a>
+##### Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat<a id=49></a>
 
 ###### Article L132-5
 
@@ -4818,11 +4843,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=49></a>
+### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=50></a>
 
-#### Chapitre Ier : Section de communes<a id=50></a>
+#### Chapitre Ier : Section de communes<a id=51></a>
 
-##### Section 1 : Dispositions générales<a id=51></a>
+##### Section 1 : Dispositions générales<a id=52></a>
 
 ###### Article L151-1
 
@@ -4938,7 +4963,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L112-5
 
 
-##### Section 2 : Commission syndicale de la section<a id=52></a>
+##### Section 2 : Commission syndicale de la section<a id=53></a>
 
 ###### Article L151-6
 
@@ -5188,7 +5213,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L316-11 (V)
 
 
-#### Chapitre III : Communes associées<a id=53></a>
+#### Chapitre III : Communes associées<a id=54></a>
 
 ###### Article L153-1
 
@@ -5371,9 +5396,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L112-2 (M)
 
 
-### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=54></a>
+### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=55></a>
 
-#### Chapitre Ier : Ententes et conférences intercommunales<a id=55></a>
+#### Chapitre Ier : Ententes et conférences intercommunales<a id=56></a>
 
 ###### Article L161-1
 
@@ -5415,7 +5440,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre II : Biens et droits indivis entre plusieurs communes<a id=56></a>
+#### Chapitre II : Biens et droits indivis entre plusieurs communes<a id=57></a>
 
 ###### Article L162-1
 
@@ -5492,9 +5517,9 @@ _Cite_:
   - Code des juridictions financières - art. L263-21
 
 
-#### Chapitre III : Syndicat de communes<a id=57></a>
+#### Chapitre III : Syndicat de communes<a id=58></a>
 
-##### Section 1 : Création du syndicat<a id=58></a>
+##### Section 1 : Création du syndicat<a id=59></a>
 
 ###### Article L163-1
 
@@ -5548,7 +5573,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R163-1 (V)
 
 
-##### Section 2 : Administration et fonctionnement du syndicat<a id=59></a>
+##### Section 2 : Administration et fonctionnement du syndicat<a id=60></a>
 
 ###### Article L163-3
 
@@ -5938,7 +5963,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L163-14-2 (V)
 
 
-##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat<a id=60></a>
+##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat<a id=61></a>
 
 ###### Article L163-15
 
@@ -6017,7 +6042,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L163-15 (V)
 
 
-##### Section 4 : Durée du syndicat<a id=61></a>
+##### Section 4 : Durée du syndicat<a id=62></a>
 
 ###### Article L163-18
 
@@ -6046,9 +6071,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VI : Syndicats mixtes<a id=62></a>
+#### Chapitre VI : Syndicats mixtes<a id=63></a>
 
-##### Section 1 : Syndicats mixtes auxquels ne participent pas la Nouvelle-Calédonie ou les provinces<a id=63></a>
+##### Section 1 : Syndicats mixtes auxquels ne participent pas la Nouvelle-Calédonie ou les provinces<a id=64></a>
 
 ###### Article L166-1
 
@@ -6169,7 +6194,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R212-4 (VD)
 
 
-##### Section 2 : Syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces<a id=64></a>
+##### Section 2 : Syndicats mixtes auxquels participent la Nouvelle-Calédonie ou les provinces<a id=65></a>
 
 ###### Article L166-6
 
@@ -6210,7 +6235,7 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 22
 
 
-#### Chapitre IX : Dispositions communes<a id=65></a>
+#### Chapitre IX : Dispositions communes<a id=66></a>
 
 ###### Article L169-1
 
@@ -6228,11 +6253,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE II : FINANCES COMMUNALES<a id=66></a>
+## LIVRE II : FINANCES COMMUNALES<a id=67></a>
 
-### TITRE Ier : BUDGET<a id=67></a>
+### TITRE Ier : BUDGET<a id=68></a>
 
-#### Chapitre Ier : Dispositions générales<a id=68></a>
+#### Chapitre Ier : Dispositions générales<a id=69></a>
 
 ###### Article L211-1
 
@@ -6424,7 +6449,7 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 25
 
 
-#### Chapitre II : Vote et règlement<a id=69></a>
+#### Chapitre II : Vote et règlement<a id=70></a>
 
 ###### Article L212-1
 
@@ -6632,7 +6657,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R212-6 (VD)
 
 
-### TITRE II : DÉPENSES<a id=70></a>
+### TITRE II : DÉPENSES<a id=71></a>
 
 ###### Article L221-1
 
@@ -6902,13 +6927,13 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
-### TITRE III : RECETTES<a id=71></a>
+### TITRE III : RECETTES<a id=72></a>
 
-#### Chapitre Ier : Dispositions générales<a id=72></a>
+#### Chapitre Ier : Dispositions générales<a id=73></a>
 
-##### Section 1 : Catégories de recettes<a id=73></a>
+##### Section 1 : Catégories de recettes<a id=74></a>
 
-##### Sous-section 1 : Recettes de la section de fonctionnement<a id=74></a>
+##### Sous-section 1 : Recettes de la section de fonctionnement<a id=75></a>
 
 ###### Article L231-1
 
@@ -6963,7 +6988,7 @@ _Nouveaux textes_:
   - Code des communes de la Nouvelle-Calédonie - art. L231-3 (V)
 
 
-##### Sous-section 2 : Recettes de la section d'investissement<a id=75></a>
+##### Sous-section 2 : Recettes de la section d'investissement<a id=76></a>
 
 ###### Article L231-2
 
@@ -7029,7 +7054,7 @@ _Nouveaux textes_:
   - Code des communes de la Nouvelle-Calédonie - art. L231-4 (V)
 
 
-##### Section 2 : Répartition et recouvrement de certaines taxes<a id=76></a>
+##### Section 2 : Répartition et recouvrement de certaines taxes<a id=77></a>
 
 ###### Article L231-3
 
@@ -7082,7 +7107,7 @@ _Anciens textes_:
   - Code des communes de la Nouvelle-Calédonie - art. L231-2 (T)
 
 
-##### Section 2 : Répartition et recouvrement de certaines taxes<a id=77></a>
+##### Section 2 : Répartition et recouvrement de certaines taxes<a id=78></a>
 
 ###### Article L231-5
 
@@ -7195,9 +7220,9 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L311-12 (V)
 
 
-#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=78></a>
+#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=79></a>
 
-##### Section 1 : Taxe sur l'électricité<a id=79></a>
+##### Section 1 : Taxe sur l'électricité<a id=80></a>
 
 ###### Article L233-1
 
@@ -7248,9 +7273,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Taxe sur la publicité<a id=80></a>
+##### Section 2 : Taxe sur la publicité<a id=81></a>
 
-##### Sous-section 1 : Dispositions générales<a id=81></a>
+##### Sous-section 1 : Dispositions générales<a id=82></a>
 
 ###### Article L233-3
 
@@ -7275,7 +7300,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R233-12 (V)
 
 
-##### Sous-section 2 : Assiette de la taxe et exonérations<a id=82></a>
+##### Sous-section 2 : Assiette de la taxe et exonérations<a id=83></a>
 
 ###### Article L233-4
 
@@ -7393,7 +7418,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R233-12 (V)
 
 
-##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=83></a>
+##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=84></a>
 
 ###### Article L233-8
 
@@ -7448,7 +7473,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L233-12 (V)
 
 
-##### Sous-section 4 : Sanctions applicables<a id=84></a>
+##### Sous-section 4 : Sanctions applicables<a id=85></a>
 
 ###### Article L233-10
 
@@ -7531,11 +7556,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Taxes particulières aux stations<a id=85></a>
+##### Section 3 : Taxes particulières aux stations<a id=86></a>
 
-##### Sous-section 1 : Taxe de séjour<a id=86></a>
+##### Sous-section 1 : Taxe de séjour<a id=87></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=87></a>
+##### Paragraphe 1 : Dispositions générales.<a id=88></a>
 
 ###### Article L233-14
 
@@ -7592,7 +7617,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Tarifs de la taxe de séjour et exonérations.<a id=88></a>
+##### Paragraphe 2 : Tarifs de la taxe de séjour et exonérations.<a id=89></a>
 
 ###### Article L233-17
 
@@ -7681,7 +7706,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités.<a id=89></a>
+##### Paragraphe 3 : Recouvrement de la taxe de séjour et pénalités.<a id=90></a>
 
 ###### Article L233-22
 
@@ -7720,7 +7745,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Dispositions particulières aux communes groupées en syndicat.<a id=90></a>
+##### Paragraphe 4 : Dispositions particulières aux communes groupées en syndicat.<a id=91></a>
 
 ###### Article L233-24
 
@@ -7738,7 +7763,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations<a id=91></a>
+##### Sous-section 2 : Taxe sur les entreprises spécialement intéressées à la prospérité des stations<a id=92></a>
 
 ###### Article L233-25
 
@@ -7774,9 +7799,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Taxe de trottoirs et de pavage<a id=92></a>
+##### Section 4 : Taxe de trottoirs et de pavage<a id=93></a>
 
-##### Sous-section 1 : Taxe de trottoirs<a id=93></a>
+##### Sous-section 1 : Taxe de trottoirs<a id=94></a>
 
 ###### Article L233-27
 
@@ -7847,9 +7872,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 5 : Autres redevances pour services rendus<a id=94></a>
+##### Section 5 : Autres redevances pour services rendus<a id=95></a>
 
-##### Sous-section 1 : Redevance d'enlèvement des ordures ménagères<a id=95></a>
+##### Sous-section 1 : Redevance d'enlèvement des ordures ménagères<a id=96></a>
 
 ###### Article L233-31
 
@@ -7876,7 +7901,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 2 : Redevance d'assainissement<a id=96></a>
+##### Sous-section 2 : Redevance d'assainissement<a id=97></a>
 
 ###### Article L233-32
 
@@ -7898,7 +7923,7 @@ _Cite_:
   - Code de la santé publique - art. L1331-1 (V)
 
 
-#### Chapitre V : Subventions<a id=97></a>
+#### Chapitre V : Subventions<a id=98></a>
 
 ###### Article L235-1
 
@@ -7920,9 +7945,9 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. D235-1 (V)
 
 
-#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=98></a>
+#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=99></a>
 
-##### Section 1 : Avances<a id=99></a>
+##### Section 1 : Avances<a id=100></a>
 
 ###### Article L236-1
 
@@ -7989,7 +8014,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Recours à l'emprunt<a id=100></a>
+##### Section 2 : Recours à l'emprunt<a id=101></a>
 
 ###### Article L236-4
 
@@ -8144,7 +8169,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1611-3-2
 
 
-##### Section 3 : Garanties d'emprunt<a id=101></a>
+##### Section 3 : Garanties d'emprunt<a id=102></a>
 
 ###### Article L236-8
 
@@ -8272,11 +8297,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L236-9
 
 
-### TITRE IV : COMPTABILITÉ<a id=102></a>
+### TITRE IV : COMPTABILITÉ<a id=103></a>
 
-#### Chapitre Ier : Comptabilité du maire et du comptable<a id=103></a>
+#### Chapitre Ier : Comptabilité du maire et du comptable<a id=104></a>
 
-##### Section 1 : Dispositions générales<a id=104></a>
+##### Section 1 : Dispositions générales<a id=105></a>
 
 ###### Article L241-1
 
@@ -8299,7 +8324,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
 
-##### Section 2 : Comptabilité du maire<a id=105></a>
+##### Section 2 : Comptabilité du maire<a id=106></a>
 
 ###### Article L241-2
 
@@ -8360,7 +8385,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L241-3 (V)
 
 
-##### Section 3 : Comptabilité du comptable<a id=106></a>
+##### Section 3 : Comptabilité du comptable<a id=107></a>
 
 ###### Article L241-4
 
@@ -8400,9 +8425,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=107></a>
+### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=108></a>
 
-#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=108></a>
+#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=109></a>
 
 ###### Article L251-1
 
@@ -8543,11 +8568,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=109></a>
+## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=110></a>
 
-### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=110></a>
+### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=111></a>
 
-#### Chapitre Ier : Biens communaux<a id=111></a>
+#### Chapitre Ier : Biens communaux<a id=112></a>
 
 ###### Article L311-1
 
@@ -8606,9 +8631,9 @@ _Modifié par_:
   - Loi n°2013-1029 du 15 novembre 2013 - art. 5
 
 
-#### Chapitre II : Dons et legs<a id=112></a>
+#### Chapitre II : Dons et legs<a id=113></a>
 
-##### Section 1 : Dispositions générales<a id=113></a>
+##### Section 1 : Dispositions générales<a id=114></a>
 
 ###### Article L312-1
 
@@ -8698,7 +8723,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Adjudications publiques en matière de biens communaux<a id=114></a>
+#### Chapitre III : Adjudications publiques en matière de biens communaux<a id=115></a>
 
 ###### Article L313-1
 
@@ -8721,7 +8746,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Marchés et délégations de service public<a id=115></a>
+#### Chapitre IV : Marchés et délégations de service public<a id=116></a>
 
 ###### Article L314-1
 
@@ -8787,7 +8812,7 @@ _Cite_:
   - Code pénal
 
 
-#### Chapitre V : Travaux communaux<a id=116></a>
+#### Chapitre V : Travaux communaux<a id=117></a>
 
 ###### Article L315-1
 
@@ -8805,9 +8830,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VI : Actions judiciaires<a id=117></a>
+#### Chapitre VI : Actions judiciaires<a id=118></a>
 
-##### Section 1 : Dispositions générales<a id=118></a>
+##### Section 1 : Dispositions générales<a id=119></a>
 
 ###### Article L316-1
 
@@ -8885,7 +8910,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=119></a>
+##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=120></a>
 
 ###### Article L316-5
 
@@ -8964,7 +8989,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Actions intentées contre la commune<a id=120></a>
+##### Section 3 : Actions intentées contre la commune<a id=121></a>
 
 ###### Article L316-9
 
@@ -9030,7 +9055,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L151-14 (V)
 
 
-#### Chapitre VIII : Dispositions diverses<a id=121></a>
+#### Chapitre VIII : Dispositions diverses<a id=122></a>
 
 ###### Article L318-1
 
@@ -9109,9 +9134,9 @@ _Créé par_:
   - Ordonnance n°2005-432 du 6 mai 2005 - art. 26 () JORF 7 mai 2005
 
 
-### TITRE II : SERVICES COMMUNAUX<a id=122></a>
+### TITRE II : SERVICES COMMUNAUX<a id=123></a>
 
-#### Chapitre Ier : Dispositions générales applicables aux services communaux<a id=123></a>
+#### Chapitre Ier : Dispositions générales applicables aux services communaux<a id=124></a>
 
 ###### Article L321-1
 
@@ -9164,7 +9189,7 @@ _Créé par_:
   - Ordonnance n°2009-536 du 14 mai 2009 - art. 17
 
 
-#### Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages<a id=124></a>
+#### Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages<a id=125></a>
 
 ###### Article L322-1
 
@@ -9259,9 +9284,9 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 37
 
 
-#### Chapitre III : Régies municipales<a id=125></a>
+#### Chapitre III : Régies municipales<a id=126></a>
 
-##### Section 1 : Dispositions générales<a id=126></a>
+##### Section 1 : Dispositions générales<a id=127></a>
 
 ###### Article L323-1
 
@@ -9442,7 +9467,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-89 (V)
 
 
-##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=127></a>
+##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=128></a>
 
 ###### Article L323-8
 
@@ -9468,7 +9493,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-7 (V)
 
 
-##### Section 3 : Régies dotées de la seule autonomie financière<a id=128></a>
+##### Section 3 : Régies dotées de la seule autonomie financière<a id=129></a>
 
 ###### Article L323-9
 
@@ -9578,7 +9603,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-54 (V)
 
 
-##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=129></a>
+##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=130></a>
 
 ###### Article L323-13
 
@@ -9683,7 +9708,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Concessions et affermages<a id=130></a>
+#### Chapitre IV : Concessions et affermages<a id=131></a>
 
 ###### Article L324-1
 
@@ -9773,9 +9798,9 @@ _Cite_:
   - Code de commerce. - art. L122-1 (M)
 
 
-### TITRE V : SERVICES D'INCENDIE ET DE SECOURS<a id=131></a>
+### TITRE V : SERVICES D'INCENDIE ET DE SECOURS<a id=132></a>
 
-#### Chapitre II : Réserves communales de sécurité civile<a id=132></a>
+#### Chapitre II : Réserves communales de sécurité civile<a id=133></a>
 
 ###### Article L352-1
 
@@ -9889,9 +9914,9 @@ _Créé par_:
   - Ordonnance n°2006-172 du 15 février 2006 - art. 24 () JORF 17 février 2006
 
 
-### TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES<a id=133></a>
+### TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES<a id=134></a>
 
-#### Chapitre II : Opérations funéraires<a id=134></a>
+#### Chapitre II : Opérations funéraires<a id=135></a>
 
 ###### Article L362-1
 
@@ -9916,9 +9941,9 @@ _Cite_:
   - Code civil - art. 87
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX<a id=135></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX<a id=136></a>
 
-#### Chapitre II : Assainissement et eaux usées<a id=136></a>
+#### Chapitre II : Assainissement et eaux usées<a id=137></a>
 
 ###### Article L372-1
 
@@ -10007,9 +10032,9 @@ _Cite_:
   - Code de la santé publique - art. L1331-8 (M)
 
 
-### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=137></a>
+### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=138></a>
 
-#### Chapitre Ier : Dispositions générales<a id=138></a>
+#### Chapitre Ier : Dispositions générales<a id=139></a>
 
 ###### Article L381-1
 
@@ -10272,7 +10297,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L1541-3
 
 
-#### Chapitre II : Aide aux entreprises<a id=139></a>
+#### Chapitre II : Aide aux entreprises<a id=140></a>
 
 ###### Article L382-1
 
@@ -10299,13 +10324,13 @@ _Modifié par_:
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
 
 
-## LIVRE IV : PERSONNEL COMMUNAL<a id=140></a>
+## LIVRE IV : PERSONNEL COMMUNAL<a id=141></a>
 
-### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=141></a>
+### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=142></a>
 
-#### Chapitre unique : Recrutement, formation et promotion sociale<a id=142></a>
+#### Chapitre unique : Recrutement, formation et promotion sociale<a id=143></a>
 
-##### Section 1 : Dispositions générales<a id=143></a>
+##### Section 1 : Dispositions générales<a id=144></a>
 
 ###### Article L411-1
 
@@ -10322,7 +10347,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=144></a>
+##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=145></a>
 
 ###### Article L411-2
 
@@ -10344,13 +10369,13 @@ _Cite_:
   - Code de la sécurité intérieure - art. L546-1 (V)
 
 
-# Partie réglementaire<a id=145></a>
+# Partie réglementaire<a id=146></a>
 
-## LIVRE Ier : ORGANISATION COMMUNALE<a id=146></a>
+## LIVRE Ier : ORGANISATION COMMUNALE<a id=147></a>
 
-### TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES<a id=147></a>
+### TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES<a id=148></a>
 
-#### Chapitre Ier : Nom des communes<a id=148></a>
+#### Chapitre Ier : Nom des communes<a id=149></a>
 
 ###### Article R111-1
 
@@ -10372,9 +10397,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L111-1 (V)
 
 
-#### Chapitre II : Limites territoriales, chef-lieu et fusion des communes<a id=149></a>
+#### Chapitre II : Limites territoriales, chef-lieu et fusion des communes<a id=150></a>
 
-##### Section 1 : Dispositions générales<a id=150></a>
+##### Section 1 : Dispositions générales<a id=151></a>
 
 ###### Article D112-3
 
@@ -10422,9 +10447,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Fusion de communes<a id=151></a>
+##### Section 2 : Fusion de communes<a id=152></a>
 
-##### Sous-section 1 : Dispositions communes<a id=152></a>
+##### Sous-section 1 : Dispositions communes<a id=153></a>
 
 ###### Article D112-4
 
@@ -10697,7 +10722,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L112-3 (V)
 
 
-##### Section 3 : Modifications aux limites territoriales des communes<a id=153></a>
+##### Section 3 : Modifications aux limites territoriales des communes<a id=154></a>
 
 ###### Article R112-16
 
@@ -10921,7 +10946,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R112-19 (V)
 
 
-#### Chapitre IV : Population des communes<a id=154></a>
+#### Chapitre IV : Population des communes<a id=155></a>
 
 ###### Article R114-1
 
@@ -11193,9 +11218,9 @@ _Créé par_:
   - Décret n°2009-637 du 8 juin 2009 - art. 3
 
 
-### TITRE II : ORGANES DE LA COMMUNE<a id=155></a>
+### TITRE II : ORGANES DE LA COMMUNE<a id=156></a>
 
-#### Chapitre Ier : Conseil municipal<a id=156></a>
+#### Chapitre Ier : Conseil municipal<a id=157></a>
 
 ###### Article D121-34
 
@@ -11316,7 +11341,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 1 : Formation<a id=157></a>
+##### Section 1 : Formation<a id=158></a>
 
 ###### Article R121-2
 
@@ -11402,7 +11427,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. D114-2 (Ab)
 
 
-##### Section 2 : Fonctionnement<a id=158></a>
+##### Section 2 : Fonctionnement<a id=159></a>
 
 ###### Article R121-6
 
@@ -11489,7 +11514,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L121-17 (V)
 
 
-##### Section 3 : Dispositions applicables aux membres des conseils municipaux<a id=159></a>
+##### Section 3 : Dispositions applicables aux membres des conseils municipaux<a id=160></a>
 
 ###### Article R121-10
 
@@ -11549,7 +11574,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L121-23 (V)
 
 
-##### Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat<a id=160></a>
+##### Section 5 : Garanties accordées aux membres des conseils municipaux dans l'exercice de leur mandat<a id=161></a>
 
 ###### Article R121-12
 
@@ -11854,9 +11879,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L166-5 (V)
 
 
-##### Section 7 : Droit à la formation<a id=161></a>
+##### Section 7 : Droit à la formation<a id=162></a>
 
-##### Sous-section 1 : Dispositions générales<a id=162></a>
+##### Sous-section 1 : Dispositions générales<a id=163></a>
 
 ###### Article R121-24
 
@@ -11901,7 +11926,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L121-38 (M)
 
 
-##### Sous-section 2 : Dispositions applicables aux élus salariés<a id=163></a>
+##### Sous-section 2 : Dispositions applicables aux élus salariés<a id=164></a>
 
 ###### Article R121-26
 
@@ -11982,7 +12007,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 3 : Dispositions applicables aux élus fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs<a id=164></a>
+##### Sous-section 3 : Dispositions applicables aux élus fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs<a id=165></a>
 
 ###### Article R121-30
 
@@ -12082,9 +12107,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie R121-30 à R121-32
 
 
-#### Chapitre II : Maires et adjoints<a id=165></a>
+#### Chapitre II : Maires et adjoints<a id=166></a>
 
-##### Section 2 : Désignation et statut des maires et adjoints<a id=166></a>
+##### Section 2 : Désignation et statut des maires et adjoints<a id=167></a>
 
 ###### Article D122-2
 
@@ -12214,7 +12239,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Attributions des maires et adjoints<a id=167></a>
+##### Section 3 : Attributions des maires et adjoints<a id=168></a>
 
 ###### Article R122-8
 
@@ -12299,9 +12324,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=168></a>
+#### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=169></a>
 
-##### Section 4 : Régime de retraite des maires et adjoints<a id=169></a>
+##### Section 4 : Régime de retraite des maires et adjoints<a id=170></a>
 
 ###### Article D123-1
 
@@ -12425,9 +12450,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=170></a>
+#### Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=171></a>
 
-##### Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux<a id=171></a>
+##### Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux<a id=172></a>
 
 ###### Article R124-1
 
@@ -12498,7 +12523,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L124-4 (V)
 
 
-##### Section 2 : Dispositions applicables aux maires et adjoints<a id=172></a>
+##### Section 2 : Dispositions applicables aux maires et adjoints<a id=173></a>
 
 ###### Article R124-4
 
@@ -12562,7 +12587,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L124-6 (V)
 
 
-#### Chapitre V : Participation des habitants à la vie locale<a id=173></a>
+#### Chapitre V : Participation des habitants à la vie locale<a id=174></a>
 
 ###### Article R125-1
 
@@ -12928,9 +12953,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE III : POLICE<a id=174></a>
+### TITRE III : POLICE<a id=175></a>
 
-#### Chapitre Ier : Dispositions générales<a id=175></a>
+#### Chapitre Ier : Dispositions générales<a id=176></a>
 
 ###### Article D131-1-1
 
@@ -12948,9 +12973,9 @@ _Modifié par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
-#### Chapitre II : Dispositions particulières<a id=176></a>
+#### Chapitre II : Dispositions particulières<a id=177></a>
 
-##### Section 1 : Police dans les campagnes<a id=177></a>
+##### Section 1 : Police dans les campagnes<a id=178></a>
 
 ###### Article R132-1
 
@@ -12967,9 +12992,9 @@ _Modifié par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
-### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=178></a>
+### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=179></a>
 
-#### Chapitre III : Communes associées<a id=179></a>
+#### Chapitre III : Communes associées<a id=180></a>
 
 ###### Article R153-1
 
@@ -13016,11 +13041,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L153-5 (V)
 
 
-### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=180></a>
+### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=181></a>
 
-#### Chapitre III : Syndicat de communes<a id=181></a>
+#### Chapitre III : Syndicat de communes<a id=182></a>
 
-##### Section 1 : Création du syndicat<a id=182></a>
+##### Section 1 : Création du syndicat<a id=183></a>
 
 ###### Article R163-1
 
@@ -13041,11 +13066,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L163-2 (V)
 
 
-## LIVRE II : FINANCES COMMUNALES<a id=183></a>
+## LIVRE II : FINANCES COMMUNALES<a id=184></a>
 
-### TITRE Ier : BUDGET<a id=184></a>
+### TITRE Ier : BUDGET<a id=185></a>
 
-#### Chapitre Ier : Dispositions générales<a id=185></a>
+#### Chapitre Ier : Dispositions générales<a id=186></a>
 
 ###### Article D211-1
 
@@ -13474,7 +13499,7 @@ _Créé par_:
   - Décret n°2009-1602 du 18 décembre 2009 - art. 3
 
 
-#### Chapitre II : Vote et règlement<a id=186></a>
+#### Chapitre II : Vote et règlement<a id=187></a>
 
 ###### Article D212-2
 
@@ -13693,7 +13718,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R212-5 (Ab)
 
 
-### TITRE II : DÉPENSES<a id=187></a>
+### TITRE II : DÉPENSES<a id=188></a>
 
 ###### Article D221-3
 
@@ -13929,9 +13954,9 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-### TITRE III : RECETTES<a id=188></a>
+### TITRE III : RECETTES<a id=189></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=189></a>
+#### Chapitre Ier : Dispositions générales.<a id=190></a>
 
 ###### Article D231-1
 
@@ -13979,11 +14004,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L231-5
 
 
-#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=190></a>
+#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=191></a>
 
-##### Section 2 : Taxe sur la publicité<a id=191></a>
+##### Section 2 : Taxe sur la publicité<a id=192></a>
 
-##### Sous-section 1 : Dispositions générales<a id=192></a>
+##### Sous-section 1 : Dispositions générales<a id=193></a>
 
 ###### Article D233-1
 
@@ -14025,7 +14050,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 2 : Assiette de la taxe et exonérations<a id=193></a>
+##### Sous-section 2 : Assiette de la taxe et exonérations<a id=194></a>
 
 ###### Article D233-4
 
@@ -14074,7 +14099,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L233-4 (V)
 
 
-##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=194></a>
+##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=195></a>
 
 ###### Article D233-6
 
@@ -14279,7 +14304,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R233-7 (V)
 
 
-##### Sous-section 4 : Sanctions applicables<a id=195></a>
+##### Sous-section 4 : Sanctions applicables<a id=196></a>
 
 ###### Article D233-13
 
@@ -14344,11 +14369,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie L233-3, L233-4, L233-5, L233-7, R233-5 à D233-10
 
 
-#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=196></a>
+#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=197></a>
 
-##### Section 1 : Dotation globale de fonctionnement<a id=197></a>
+##### Section 1 : Dotation globale de fonctionnement<a id=198></a>
 
-##### Sous-section 1 : Dispositions générales<a id=198></a>
+##### Sous-section 1 : Dispositions générales<a id=199></a>
 
 ###### Article R234-1
 
@@ -14393,7 +14418,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-2 (M)
 
 
-##### Sous-section 2 : Dotation forfaitaire<a id=199></a>
+##### Sous-section 2 : Dotation forfaitaire<a id=200></a>
 
 ###### Article R234-3
 
@@ -14424,7 +14449,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. D114-6 (Ab)
 
 
-##### Sous-section 3 : Dotation d'aménagement<a id=200></a>
+##### Sous-section 3 : Dotation d'aménagement<a id=201></a>
 
 ###### Article R234-4
 
@@ -14461,7 +14486,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-13 (M)
 
 
-##### Section 2 : Dotation d'équipement des territoires ruraux<a id=201></a>
+##### Section 2 : Dotation d'équipement des territoires ruraux<a id=202></a>
 
 ###### Article R234-5
 
@@ -14637,7 +14662,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Dotation spéciale pour le logement des instituteurs<a id=202></a>
+##### Section 4 : Dotation spéciale pour le logement des instituteurs<a id=203></a>
 
 ###### Article R234-12
 
@@ -14729,7 +14754,7 @@ _Créé par_:
   - Décret n°2010-602 du 3 juin 2010 - art. 1
 
 
-#### Chapitre V : Subventions<a id=203></a>
+#### Chapitre V : Subventions<a id=204></a>
 
 ###### Article D235-1
 
@@ -14754,9 +14779,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L235-1 (V)
 
 
-#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=204></a>
+#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=205></a>
 
-##### Section 1 : Avances<a id=205></a>
+##### Section 1 : Avances<a id=206></a>
 
 ###### Article R236-1
 
@@ -14918,7 +14943,7 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-##### Section 2 : Recours à l'emprunt<a id=206></a>
+##### Section 2 : Recours à l'emprunt<a id=207></a>
 
 ###### Article D236-9
 
@@ -15018,7 +15043,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R236-9-1
 
 
-##### Section 4 : Garanties d'emprunts<a id=207></a>
+##### Section 4 : Garanties d'emprunts<a id=208></a>
 
 ###### Article D236-11
 
@@ -15153,11 +15178,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R324-2 (V)
 
 
-### TITRE IV : COMPTABILITÉ<a id=208></a>
+### TITRE IV : COMPTABILITÉ<a id=209></a>
 
-#### Chapitre Ier : Comptabilité du maire et du comptable<a id=209></a>
+#### Chapitre Ier : Comptabilité du maire et du comptable<a id=210></a>
 
-##### Section 1 : Dispositions générales<a id=210></a>
+##### Section 1 : Dispositions générales<a id=211></a>
 
 ###### Article D241-2
 
@@ -15254,7 +15279,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Comptabilité du maire<a id=211></a>
+##### Section 2 : Comptabilité du maire<a id=212></a>
 
 ###### Article D241-5
 
@@ -15435,7 +15460,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Comptabilité du comptable<a id=212></a>
+##### Section 3 : Comptabilité du comptable<a id=213></a>
 
 ###### Article D241-15
 
@@ -15769,9 +15794,9 @@ _Modifié par_:
   - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=213></a>
+### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=214></a>
 
-#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=214></a>
+#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=215></a>
 
 ###### Article D251-2
 
@@ -15826,11 +15851,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=215></a>
+## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=216></a>
 
-### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=216></a>
+### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=217></a>
 
-#### Chapitre Ier : Biens communaux<a id=217></a>
+#### Chapitre Ier : Biens communaux<a id=218></a>
 
 ###### Article R311-1
 
@@ -15851,9 +15876,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre II : Dons et legs<a id=218></a>
+#### Chapitre II : Dons et legs<a id=219></a>
 
-##### Section 2 : Acceptation et refus de libéralités<a id=219></a>
+##### Section 2 : Acceptation et refus de libéralités<a id=220></a>
 
 ###### Article R312-1
 
@@ -15875,7 +15900,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L312-3 (V)
 
 
-##### Section 3 : Procédure applicable en matière de libéralités<a id=220></a>
+##### Section 3 : Procédure applicable en matière de libéralités<a id=221></a>
 
 ###### Article R312-2
 
@@ -15921,7 +15946,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=221></a>
+##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=222></a>
 
 ###### Article R312-4
 
@@ -16007,7 +16032,7 @@ _Cité par_:
   - Code des marchés publics - art. 178 (T)
 
 
-#### Chapitre IV : Marchés et délégations de service public<a id=222></a>
+#### Chapitre IV : Marchés et délégations de service public<a id=223></a>
 
 ###### Article R314-1
 
@@ -16071,9 +16096,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VI : Actions judiciaires<a id=223></a>
+#### Chapitre VI : Actions judiciaires<a id=224></a>
 
-##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=224></a>
+##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=225></a>
 
 ###### Article R316-1
 
@@ -16153,7 +16178,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VIII : Dispositions diverses<a id=225></a>
+#### Chapitre VIII : Dispositions diverses<a id=226></a>
 
 ###### Article D318-1
 
@@ -16189,11 +16214,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L318-3 (V)
 
 
-### TITRE II : SERVICES COMMUNAUX<a id=226></a>
+### TITRE II : SERVICES COMMUNAUX<a id=227></a>
 
-#### Chapitre III : Régies municipales<a id=227></a>
+#### Chapitre III : Régies municipales<a id=228></a>
 
-##### Section 1 : Dispositions générales<a id=228></a>
+##### Section 1 : Dispositions générales<a id=229></a>
 
 ###### Article R323-1
 
@@ -16313,7 +16338,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-6 (V)
 
 
-##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=229></a>
+##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=230></a>
 
 ###### Article R323-7
 
@@ -16335,7 +16360,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-8 (M)
 
 
-##### Sous-section 1 : Création de la régie<a id=230></a>
+##### Sous-section 1 : Création de la régie<a id=231></a>
 
 ###### Article R323-8
 
@@ -16379,9 +16404,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-8 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=231></a>
+##### Sous-section 2 : Organisation administrative<a id=232></a>
 
-##### Paragraphe 1er : Dispositions générales<a id=232></a>
+##### Paragraphe 1er : Dispositions générales<a id=233></a>
 
 ###### Article R323-10
 
@@ -16418,7 +16443,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Conseil d'administration<a id=233></a>
+##### Paragraphe 2 : Conseil d'administration<a id=234></a>
 
 ###### Article R323-12
 
@@ -16581,7 +16606,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Directeur<a id=234></a>
+##### Paragraphe 3 : Directeur<a id=235></a>
 
 ###### Article R323-20
 
@@ -16676,7 +16701,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable<a id=235></a>
+##### Paragraphe 4 : Agent comptable<a id=236></a>
 
 ###### Article R323-24
 
@@ -16768,9 +16793,9 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-##### Sous-section 3 : Fonctionnement<a id=236></a>
+##### Sous-section 3 : Fonctionnement<a id=237></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=237></a>
+##### Paragraphe 1 : Dispositions générales<a id=238></a>
 
 ###### Article R323-28
 
@@ -16868,7 +16893,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Régime financier<a id=238></a>
+##### Paragraphe 2 : Régime financier<a id=239></a>
 
 ###### Article R323-33
 
@@ -16944,7 +16969,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Budget<a id=239></a>
+##### Paragraphe 3 : Budget<a id=240></a>
 
 ###### Article R323-38
 
@@ -17111,7 +17136,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Comptabilité<a id=240></a>
+##### Paragraphe 4 : Comptabilité<a id=241></a>
 
 ###### Article R323-45
 
@@ -17212,7 +17237,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=241></a>
+##### Sous-section 4 : Fin de la régie<a id=242></a>
 
 ###### Article R323-49
 
@@ -17301,7 +17326,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-51 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=242></a>
+##### Sous-section 5 : Régies intercommunales<a id=243></a>
 
 ###### Article R323-53
 
@@ -17325,7 +17350,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-3 (V)
 
 
-##### Section 3 : Régies dotées de la seule autonomie financière<a id=243></a>
+##### Section 3 : Régies dotées de la seule autonomie financière<a id=244></a>
 
 ###### Article R323-54
 
@@ -17347,7 +17372,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-12 (M)
 
 
-##### Sous-section 1 : Création<a id=244></a>
+##### Sous-section 1 : Création<a id=245></a>
 
 ###### Article R323-55
 
@@ -17370,9 +17395,9 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-92 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=245></a>
+##### Sous-section 2 : Organisation administrative<a id=246></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=246></a>
+##### Paragraphe 1 : Dispositions générales<a id=247></a>
 
 ###### Article R323-56
 
@@ -17449,7 +17474,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-65 (V)
 
 
-##### Paragraphe 2 : Conseil d'exploitation<a id=247></a>
+##### Paragraphe 2 : Conseil d'exploitation<a id=248></a>
 
 ###### Article R323-59
 
@@ -17605,7 +17630,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-58 (V)
 
 
-##### Paragraphe 3 : Directeur<a id=248></a>
+##### Paragraphe 3 : Directeur<a id=249></a>
 
 ###### Article R323-66
 
@@ -17704,7 +17729,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable et régisseur<a id=249></a>
+##### Paragraphe 4 : Agent comptable et régisseur<a id=250></a>
 
 ###### Article R323-71
 
@@ -17762,7 +17787,7 @@ _Modifié par_:
   - Décret n°2012-829 du 27 juin 2012 - art. 21
 
 
-##### Sous-section 3 : Régime financier<a id=250></a>
+##### Sous-section 3 : Régime financier<a id=251></a>
 
 ###### Article R323-73
 
@@ -18108,7 +18133,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=251></a>
+##### Sous-section 4 : Fin de la régie<a id=252></a>
 
 ###### Article R323-88
 
@@ -18197,7 +18222,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-90 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=252></a>
+##### Sous-section 5 : Régies intercommunales<a id=253></a>
 
 ###### Article R323-92
 
@@ -18338,7 +18363,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-96 (V)
 
 
-##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=253></a>
+##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=254></a>
 
 ###### Article R323-98
 
@@ -18357,7 +18382,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Concessions et affermages<a id=254></a>
+#### Chapitre IV : Concessions et affermages<a id=255></a>
 
 ###### Article R324-1
 
@@ -18484,9 +18509,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=255></a>
+### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=256></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=256></a>
+#### Chapitre Ier : Dispositions générales.<a id=257></a>
 
 ###### Article D381-1
 
@@ -18543,7 +18568,7 @@ _Créé par_:
   - Décret n°2009-1602 du 18 décembre 2009 - art. 15
 
 
-#### Chapitre II : Aide aux entreprises<a id=257></a>
+#### Chapitre II : Aide aux entreprises<a id=258></a>
 
 ###### Article R382-1
 
@@ -18606,7 +18631,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Sociétés d'économie mixte locales<a id=258></a>
+#### Chapitre III : Sociétés d'économie mixte locales<a id=259></a>
 
 ###### Article R383-1
 
@@ -18735,13 +18760,13 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE IV : PERSONNEL COMMUNAL<a id=259></a>
+## LIVRE IV : PERSONNEL COMMUNAL<a id=260></a>
 
-### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=260></a>
+### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=261></a>
 
-#### Chapitre unique : Recrutement, formation et promotion sociale<a id=261></a>
+#### Chapitre unique : Recrutement, formation et promotion sociale<a id=262></a>
 
-##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=262></a>
+##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=263></a>
 
 ###### Article R411-1
 
