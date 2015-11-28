@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -13453,14 +13453,19 @@ En outre, l'excédent de la section d'investissement résultant de la dotation c
 l'article D. 211-10 et constaté au compte administratif au titre de deux exercices consécutifs peut être repris en section de
 fonctionnement afin de contribuer à son équilibre. 
 
+Lorsque les conditions prévues aux alinéas précédents ne sont pas réunies, et en raison de circonstances exceptionnelles et
+motivées, la collectivité peut solliciter une décision conjointe des ministres chargés du budget et des collectivités
+locales, qui peut porter sur un ou plusieurs exercices, afin de reprendre l'excédent prévisionnel de la section
+d'investissement en section de fonctionnement dès le vote du budget primitif.
+
 Dans tous les cas, la reprise est accompagnée d'une délibération du conseil municipal précisant l'origine de l'excédent et
 les conditions d'évaluation de son montant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1602 du 18 décembre 2009 - art. 3
+  - Décret n°2015-1546 du 27 novembre 2015 - art. 7
 
 _Cite_:
 
