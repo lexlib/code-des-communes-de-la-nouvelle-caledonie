@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2015-11-29
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -166,104 +166,105 @@ Version Consolidée au 2015-11-29
             - [Sous-section 1 : Dispositions générales (art. R121-24 à R121-25)](#163)
             - [Sous-section 2 : Dispositions applicables aux élus salariés (art. R121-26 à R121-29)](#164)
             - [Sous-section 3 : Dispositions applicables aux élus fonctionnaires de l'Etat et des collectivités territoriales, ou agents contractuels de l'Etat, des collectivités territoriales et de leurs établissements publics administratifs (art. R121-30 à R121-33)](#165)
-        - [Chapitre II : Maires et adjoints (art. D122-2 à R122-10)](#166)
+        - [Chapitre II : Maires et adjoints (art. D122-2 à D122-16)](#166)
           - [Section 2 : Désignation et statut des maires et adjoints (art. D122-2 à R122-7)](#167)
           - [Section 3 : Attributions des maires et adjoints (art. R122-8 à R122-10)](#168)
-        - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. D123-1 à D123-5)](#169)
-          - [Section 4 : Régime de retraite des maires et adjoints (art. D123-1 à D123-5)](#170)
-        - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R124-1 à R124-6)](#171)
-          - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. R124-1 à R124-3)](#172)
-          - [Section 2 : Dispositions applicables aux maires et adjoints (art. R124-4 à R124-6)](#173)
-        - [Chapitre V : Participation des habitants à la vie locale (art. R125-1 à R125-14)](#174)
-      - [TITRE III : POLICE (art. D131-1-1 à R132-1)](#175)
-        - [Chapitre Ier : Dispositions générales (art. D131-1-1)](#176)
-        - [Chapitre II : Dispositions particulières (art. R132-1)](#177)
-          - [Section 1 : Police dans les campagnes (art. R132-1)](#178)
-      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. R153-1 à R153-2)](#179)
-        - [Chapitre III : Communes associées (art. R153-1 à R153-2)](#180)
-      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#181)
-        - [Chapitre III : Syndicat de communes (art. R163-1)](#182)
-          - [Section 1 : Création du syndicat (art. R163-1)](#183)
-    - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#184)
-      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#185)
-        - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#186)
-        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#187)
-      - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#188)
-      - [TITRE III : RECETTES (art. D231-1 à R236-10)](#189)
-        - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#190)
-        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#191)
-          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#192)
-            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#193)
-            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#194)
-            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#195)
-            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#196)
-        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-12-4)](#197)
-          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#198)
-            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#199)
-            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#200)
-            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#201)
-          - [Section 2 : Dotation d'équipement des territoires ruraux (art. R234-5 à R234-10)](#202)
-          - [Section 4 : Dotation spéciale pour le logement des instituteurs (art. R234-12 à R234-12-4)](#203)
-        - [Chapitre V : Subventions (art. D235-1)](#204)
-        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#205)
-          - [Section 1 : Avances (art. R236-1 à R236-7)](#206)
-          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-9-2)](#207)
-          - [Section 4 : Garanties d'emprunts (art. D236-11 à R236-10)](#208)
-      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#209)
-        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#210)
-          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#211)
-          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#212)
-          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#213)
-      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. D251-2 à R251-1)](#214)
-        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. D251-2 à R251-1)](#215)
-    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#216)
-      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#217)
-        - [Chapitre Ier : Biens communaux (art. R311-1)](#218)
-        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#219)
-          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#220)
-          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#221)
-          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#222)
-        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#223)
-        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#224)
-          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#225)
-        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#226)
-      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#227)
-        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#228)
-          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#229)
-          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#230)
-            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#231)
-            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#232)
-              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#233)
-              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#234)
-              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#235)
-              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#236)
-            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#237)
-              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#238)
-              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#239)
-              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#240)
-              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#241)
-            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#242)
-            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#243)
-          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#244)
-            - [Sous-section 1 : Création (art. R323-55)](#245)
-            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#246)
-              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#247)
-              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#248)
-              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#249)
-              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#250)
-            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#251)
-            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#252)
-            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#253)
-          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#254)
-        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#255)
-      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. D381-1 à R383-5)](#256)
-        - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#257)
-        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#258)
-        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#259)
-    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1)](#260)
-      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1)](#261)
-        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1)](#262)
-          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1)](#263)
+          - [Section 4 : Garanties accordées à l'issue du mandat (art. D122-11 à D122-16)](#169)
+        - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. D123-1 à D123-5)](#170)
+          - [Section 4 : Régime de retraite des maires et adjoints (art. D123-1 à D123-5)](#171)
+        - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. R124-1 à R124-6)](#172)
+          - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. R124-1 à R124-3)](#173)
+          - [Section 2 : Dispositions applicables aux maires et adjoints (art. R124-4 à R124-6)](#174)
+        - [Chapitre V : Participation des habitants à la vie locale (art. R125-1 à R125-14)](#175)
+      - [TITRE III : POLICE (art. D131-1-1 à R132-1)](#176)
+        - [Chapitre Ier : Dispositions générales (art. D131-1-1)](#177)
+        - [Chapitre II : Dispositions particulières (art. R132-1)](#178)
+          - [Section 1 : Police dans les campagnes (art. R132-1)](#179)
+      - [TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS (art. R153-1 à R153-2)](#180)
+        - [Chapitre III : Communes associées (art. R153-1 à R153-2)](#181)
+      - [TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES (art. R163-1)](#182)
+        - [Chapitre III : Syndicat de communes (art. R163-1)](#183)
+          - [Section 1 : Création du syndicat (art. R163-1)](#184)
+    - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#185)
+      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#186)
+        - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#187)
+        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#188)
+      - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#189)
+      - [TITRE III : RECETTES (art. D231-1 à R236-10)](#190)
+        - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#191)
+        - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts (art. D233-1 à R233-12)](#192)
+          - [Section 2 : Taxe sur la publicité (art. D233-1 à R233-12)](#193)
+            - [Sous-section 1 : Dispositions générales (art. D233-1 à D233-2)](#194)
+            - [Sous-section 2 : Assiette de la taxe et exonérations (art. D233-4 à R233-3)](#195)
+            - [Sous-section 3 : Paiement et recouvrement de la taxe (art. D233-6 à R233-9)](#196)
+            - [Sous-section 4 : Sanctions applicables (art. D233-13 à R233-12)](#197)
+        - [Chapitre IV : Dotation globale de fonctionnement et autres dotations (art. R234-1 à R234-12-4)](#198)
+          - [Section 1 : Dotation globale de fonctionnement (art. R234-1 à R234-4)](#199)
+            - [Sous-section 1 : Dispositions générales (art. R234-1 à R234-2)](#200)
+            - [Sous-section 2 : Dotation forfaitaire (art. R234-3)](#201)
+            - [Sous-section 3 : Dotation d'aménagement (art. R234-4)](#202)
+          - [Section 2 : Dotation d'équipement des territoires ruraux (art. R234-5 à R234-10)](#203)
+          - [Section 4 : Dotation spéciale pour le logement des instituteurs (art. R234-12 à R234-12-4)](#204)
+        - [Chapitre V : Subventions (art. D235-1)](#205)
+        - [Chapitre VI : Avances, emprunts et garanties d'emprunts (art. R236-1 à R236-10)](#206)
+          - [Section 1 : Avances (art. R236-1 à R236-7)](#207)
+          - [Section 2 : Recours à l'emprunt (art. D236-9 à R236-9-2)](#208)
+          - [Section 4 : Garanties d'emprunts (art. D236-11 à R236-10)](#209)
+      - [TITRE IV : COMPTABILITÉ (art. D241-2 à D241-30)](#210)
+        - [Chapitre Ier : Comptabilité du maire et du comptable (art. D241-2 à D241-30)](#211)
+          - [Section 1 : Dispositions générales (art. D241-2 à R241-4)](#212)
+          - [Section 2 : Comptabilité du maire (art. D241-5 à D241-14)](#213)
+          - [Section 3 : Comptabilité du comptable (art. D241-15 à D241-30)](#214)
+      - [TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX (art. D251-2 à R251-1)](#215)
+        - [Chapitre unique : Dispositions applicables au syndicat de communes (art. D251-2 à R251-1)](#216)
+    - [LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX (art. R311-1 à R383-5)](#217)
+      - [TITRE Ier : ADMINISTRATION DE LA COMMUNE (art. R311-1 à D318-1)](#218)
+        - [Chapitre Ier : Biens communaux (art. R311-1)](#219)
+        - [Chapitre II : Dons et legs (art. R312-1 à R312-7)](#220)
+          - [Section 2 : Acceptation et refus de libéralités (art. R312-1)](#221)
+          - [Section 3 : Procédure applicable en matière de libéralités (art. R312-2 à R312-3)](#222)
+          - [Section 4 : Contrôle de l'administration des biens légués ou donnés (art. R312-4 à R312-7)](#223)
+        - [Chapitre IV : Marchés et délégations de service public (art. R314-1 à R314-3)](#224)
+        - [Chapitre VI : Actions judiciaires (art. R316-1 à R316-4)](#225)
+          - [Section 2 : Exercice, par un contribuable, des actions appartenant à la commune (art. R316-1 à R316-4)](#226)
+        - [Chapitre VIII : Dispositions diverses (art. D318-1)](#227)
+      - [TITRE II : SERVICES COMMUNAUX (art. R323-1 à R324-6)](#228)
+        - [Chapitre III : Régies municipales (art. R323-1 à R323-98)](#229)
+          - [Section 1 : Dispositions générales (art. R323-1 à R323-6)](#230)
+          - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. R323-7 à R323-53)](#231)
+            - [Sous-section 1 : Création de la régie (art. R323-8 à R323-9)](#232)
+            - [Sous-section 2 : Organisation administrative (art. R323-10 à R323-27)](#233)
+              - [Paragraphe 1er : Dispositions générales (art. R323-10 à R323-11)](#234)
+              - [Paragraphe 2 : Conseil d'administration (art. R323-12 à R323-19)](#235)
+              - [Paragraphe 3 : Directeur (art. R323-20 à R323-23)](#236)
+              - [Paragraphe 4 : Agent comptable (art. R323-24 à R323-27)](#237)
+            - [Sous-section 3 : Fonctionnement (art. R323-28 à R323-48)](#238)
+              - [Paragraphe 1 : Dispositions générales (art. R323-28 à R323-32)](#239)
+              - [Paragraphe 2 : Régime financier (art. R323-33 à R323-36)](#240)
+              - [Paragraphe 3 : Budget (art. R323-38 à R323-44)](#241)
+              - [Paragraphe 4 : Comptabilité (art. R323-45 à R323-48)](#242)
+            - [Sous-section 4 : Fin de la régie (art. R323-49 à R323-52)](#243)
+            - [Sous-section 5 : Régies intercommunales (art. R323-53)](#244)
+          - [Section 3 : Régies dotées de la seule autonomie financière (art. R323-54 à R323-97)](#245)
+            - [Sous-section 1 : Création (art. R323-55)](#246)
+            - [Sous-section 2 : Organisation administrative (art. R323-56 à R323-72)](#247)
+              - [Paragraphe 1 : Dispositions générales (art. R323-56 à R323-58)](#248)
+              - [Paragraphe 2 : Conseil d'exploitation (art. R323-59 à R323-65)](#249)
+              - [Paragraphe 3 : Directeur (art. R323-66 à R323-70)](#250)
+              - [Paragraphe 4 : Agent comptable et régisseur (art. R323-71 à R323-72)](#251)
+            - [Sous-section 3 : Régime financier (art. R323-73 à R323-87)](#252)
+            - [Sous-section 4 : Fin de la régie (art. R323-88 à R323-91)](#253)
+            - [Sous-section 5 : Régies intercommunales (art. R323-92 à R323-97)](#254)
+          - [Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité (art. R323-98)](#255)
+        - [Chapitre IV : Concessions et affermages (art. R324-1 à R324-6)](#256)
+      - [TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES (art. D381-1 à R383-5)](#257)
+        - [Chapitre Ier : Dispositions générales. (art. D381-1 à D381-4)](#258)
+        - [Chapitre II : Aide aux entreprises (art. R382-1 à R382-3)](#259)
+        - [Chapitre III : Sociétés d'économie mixte locales (art. R383-1 à R383-5)](#260)
+    - [LIVRE IV : PERSONNEL COMMUNAL (art. R411-1)](#261)
+      - [TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET (art. R411-1)](#262)
+        - [Chapitre unique : Recrutement, formation et promotion sociale (art. R411-1)](#263)
+          - [Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale (art. R411-1)](#264)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : ORGANISATION COMMUNALE<a id=2></a>
@@ -640,6 +641,22 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L121-1-1
+
+Les membres des conseils municipaux exercent leur mandat dans le respect des principes déontologiques consacrés par la charte
+de l'élu local prévue à l'article L. 1111-1-1 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1111-1-1
+
+
 ##### Section 1 : Formation<a id=13></a>
 
 ###### Article L121-2
@@ -777,20 +794,29 @@ _Cite_:
 
 ###### Article L121-8
 
-Les conseils municipaux se réunissent au moins une fois par trimestre.
+Les conseils municipaux se réunissent au moins une fois par trimestre. 
 
 Lors du renouvellement général des conseils municipaux, la première réunion se tient de plein droit au plus tôt le vendredi
-et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet.
+et au plus tard le dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet. 
+
+Lors de la première réunion du conseil municipal, immédiatement après l'élection du maire et des adjoints, le maire donne
+lecture de la charte de l'élu local prévue à l'article L. 1111-1-1 du code général des collectivités territoriales. Le maire
+remet aux conseillers municipaux une copie de la charte de l'élu local, des sections 5 à 7 du présent chapitre et des
+chapitres III et VII du présent titre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1111-1-1 (V)
 
 
 ###### Article L121-9
@@ -1533,38 +1559,41 @@ _Cité par_:
 
 ###### Article L121-30
 
-I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 121-28, les
+I.-Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 121-28, les
 maires, les adjoints et, dans les villes de 3 500 habitants au moins, les conseillers municipaux ont droit à un crédit
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
-la représentent et à la préparation des réunions des instances où ils siègent.
+la représentent et à la préparation des réunions des instances où ils siègent. 
 
-II. - Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail.
+II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail. 
 
-Il est égal :
+Il est égal : 
 
 1° A l'équivalent de quatre fois la durée hebdomadaire légale du travail pour les maires des communes d'au moins 10 000
-habitants et les adjoints au maire des communes d'au moins 30 000 habitants ;
+habitants et les adjoints au maire des communes d'au moins 30 000 habitants ; 
 
 2° A l'équivalent de trois fois la durée hebdomadaire légale du travail pour les maires des communes de moins de 10 000
-habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ;
+habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ; 
 
 3° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de
-100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
+100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ; 
 
-4° A l'équivalent d'une fois la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
-habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les conseillers
-municipaux des communes de 3 500 à 9 999 habitants.
+4° A l'équivalent d'une fois la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 30 000 à
+99 999 habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les
+conseillers municipaux des communes de 3 500 à 9 999 habitants ; 
 
-Les heures non utilisées pendant un trimestre ne sont pas reportables.
+5° A l'équivalent de 20 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de moins de
+3 500 habitants. 
+
+Les heures non utilisées pendant un trimestre ne sont pas reportables. 
 
 Lorsqu'un adjoint ou un conseiller supplée le maire dans les conditions fixées par l'article L. 122-13, il bénéficie, pendant
-la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article.
+la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article. 
 
 Les conseillers municipaux qui bénéficient d'une délégation de fonction du maire ont droit au crédit d'heures prévu pour les
-adjoints au 1° ou au 2°.
+adjoints au 1° ou au 2°. 
 
-III. - En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de
-travail prévue pour l'emploi considéré.
+III.-En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de travail
+prévue pour l'emploi considéré. 
 
 L'employeur est tenu d'accorder aux élus concernés, sur demande de ceux-ci, l'autorisation d'utiliser le crédit d'heures
 prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
@@ -1573,16 +1602,16 @@ prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (M)
-  - Code des communes de la Nouvelle-Calédonie - art. L122-13 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L121-28
+  - Code des communes de la Nouvelle-Calédonie - art. L122-13
 
 _Cité par_:
 
@@ -1684,8 +1713,8 @@ _Cite_:
 
 ###### Article L121-33-1
 
-A l'issue de son mandat, tout maire ou, dans les communes de 20 000 habitants au moins, tout adjoint qui, pour l'exercice de
-son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle.
+A l'issue de son mandat, tout maire ou, dans les communes de 10 000 habitants au moins, tout adjoint qui, pour l'exercice de
+son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle. 
 
 Lorsque l'intéressé demande à bénéficier du congé de formation prévu par la législation et la réglementation applicable en
 Nouvelle-Calédonie, le temps passé au titre du mandat local est assimilé aux durées d'activité exigées pour l'accès à ces
@@ -1695,11 +1724,11 @@ congés.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 6 () JORF 7 mai 2005
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ##### Section 6 : Garanties accordées aux membres des conseils municipaux dans leur activité professionnelle<a id=20></a>
@@ -1762,37 +1791,40 @@ _Cite_:
 
 ###### Article L121-36
 
-Les maires des communes de 3 500 habitants au moins, les adjoints au maire des communes de 20 000 habitants au moins qui,
-pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, des
-dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail relatives aux droits des salariés élus membres de
-l'Assemblée nationale et du Sénat.
+Les maires des communes de 3 500 habitants au moins, les adjoints au maire des communes de 10 000 habitants au moins qui,
+pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, d'une
+suspension de leur contrat de travail jusqu'à l'expiration de leur mandat. 
+
+Le droit à réintégration est maintenu aux élus mentionnés au premier alinéa du présent article jusqu'à l'expiration de deux
+mandats consécutifs. 
 
 A la fin de leur mandat, les élus bénéficient à leur demande d'un stage de remise à niveau organisé dans l'entreprise, compte
-tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées.
+tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées. 
 
-Les fonctionnaires sont placés, sur leur demande, en position de détachement.
+Les fonctionnaires sont placés, sur leur demande, en position de détachement pour exercer les mandats mentionnés au premier
+alinéa.
+
+Lorsqu'ils n'ont pas cessé d'exercer leur activité professionnelle, les élus mentionnés au premier alinéa du présent article
+sont considérés comme des salariés protégés au sens de la réglementation applicable en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
-
-_Cite_:
-
-  - Code du travail - art. L122-24-2 (M)
-  - Code du travail - art. L122-24-3 (M)
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ##### Section 7 : Droit à la formation<a id=21></a>
 
 ###### Article L121-37
 
-Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions.
+Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions. Dans les communes de 3 500 habitants
+et plus, une formation est obligatoirement organisée au cours de la première année de mandat pour les élus ayant reçu une
+délégation. 
 
 Dans les trois mois suivant son renouvellement, le conseil municipal délibère sur l'exercice du droit à la formation de ses
 membres. Il détermine les orientations et les crédits ouverts à ce titre.
@@ -1804,11 +1836,51 @@ donne lieu à un débat annuel sur la formation des membres du conseil municipal
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 8 () JORF 7 mai 2005
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+
+###### Article L121-37-1
+
+Les membres du conseil municipal bénéficient chaque année d'un droit individuel à la formation d'une durée de vingt heures,
+cumulable sur toute la durée du mandat et financé par une cotisation obligatoire, dont le taux ne peut être inférieur à 1 %,
+assise sur leurs indemnités et collectée par un organisme collecteur national.
+
+La mise en œuvre du droit individuel à la formation relève de l'initiative de chacun des élus et peut concerner des
+formations sans lien avec l'exercice du mandat. Ces formations peuvent notamment contribuer à l'acquisition des compétences
+nécessaires à la réinsertion professionnelle à l'issue du mandat.
+
+Un décret en Conseil d'Etat détermine les modalités de mise en œuvre du droit individuel à la formation, notamment les
+conditions de la collecte de la cotisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+_Cité par_:
+
+  - Loi n°2016-341 du 23 mars 2016 - art. 1
+  - Décret n°2016-870 du 29 juin 2016 - art. 1
+  - Décret n°2016-870 du 29 juin 2016 - art. 10 (V)
+  - Décret n°2016-870 du 29 juin 2016 - art. 2
+  - Décret n°2016-870 du 29 juin 2016 - art. 3
+  - Décret n°2016-870 du 29 juin 2016 - art. 4
+  - Décret n°2016-870 du 29 juin 2016 - art. 5
+  - Décret n°2016-870 du 29 juin 2016 - art. 8
+  - Décret n°2016-870 du 29 juin 2016 - art. 9 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L121-37-2 (V)
+  - Code général des collectivités territoriales - art. L1621-3 (M)
+  - Code général des collectivités territoriales - art. R1621-4 (V)
+  - Code général des collectivités territoriales - art. R2123-22-1-B (V)
+  - Code général des collectivités territoriales - art. R3123-19-2 (V)
+  - Code général des collectivités territoriales - art. R4135-19-2 (V)
+  - Code général des collectivités territoriales - art. R7125-25-2 (V)
+  - Code général des collectivités territoriales - art. R7227-25-2 (V)
 
 
 ###### Article L121-38
@@ -1858,28 +1930,24 @@ Les pertes de revenu subies par l'élu du fait de l'exercice de son droit à la 
 compensées par la commune dans la limite de dix-huit jours par élu pour la durée du mandat et d'une fois et demie la valeur
 horaire du salaire minimum garanti par heure.
 
-Le montant des dépenses de formation ne peut excéder 20 % du montant total des indemnités de fonction qui peuvent être
-allouées aux élus de la commune.
+Le montant prévisionnel des dépenses de formation ne peut être inférieur à 2 % du montant total des indemnités de fonction
+qui peuvent être allouées aux membres du conseil municipal en application de la section 3 du chapitre III du présent titre.
+Le montant réel des dépenses de formation ne peut excéder 20 % du même montant. Les crédits relatifs aux dépenses de
+formation qui n'ont pas été consommés à la clôture de l'exercice au titre duquel ils ont été inscrits sont affectés en
+totalité au budget de l'exercice suivant. Ils ne peuvent être reportés au-delà de l'année au cours de laquelle intervient le
+renouvellement de l'assemblée délibérante.
 
 Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 _Cité par_:
 
@@ -3153,7 +3221,7 @@ _Créé par_:
 ###### Article L122-29
 
 A l'occasion du renouvellement général des membres du conseil municipal, tout maire d'une commune de 1 000 habitants au moins
-ou tout adjoint dans une commune de 20 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui, pour
+ou tout adjoint dans une commune de 10 000 habitants au moins ayant reçu délégation de fonction de celui-ci qui, pour
 l'exercice de son mandat, avait cessé d'exercer son activité professionnelle perçoit, sur sa demande, une allocation
 différentielle de fin de mandat s'il se trouve dans l'une des conditions suivantes :
 
@@ -3161,35 +3229,33 @@ différentielle de fin de mandat s'il se trouve dans l'une des conditions suivan
 applicables en Nouvelle-Calédonie ;
 
 - avoir repris une activité professionnelle lui procurant des revenus inférieurs aux indemnités de fonction qu'il percevait
-au titre de sa dernière fonction élective.
+au titre de sa dernière fonction élective. 
 
 Le montant mensuel de l'allocation est au plus égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle
-que l'intéressé percevait pour l'exercice de ses fonctions, dans la limite des taux maximaux fixés à l'article L. 123-4, et
-l'ensemble des ressources qu'il perçoit à l'issue de son mandat.
+que l'intéressé percevait pour l'exercice de ses fonctions, dans les conditions fixées à l'article L. 123-4, et l'ensemble
+des ressources qu'il perçoit à l'issue de son mandat. 
 
-L'allocation est versée pendant une période de six mois au plus.
+L'allocation est versée pendant une période d'un an au plus. A compter du septième mois suivant le début du versement de
+l'allocation, le taux mentionné au quatrième alinéa est au plus égal à 40 %. 
 
-Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30.
+Le financement de cette allocation est assuré dans les conditions prévues à l'article L. 122-30. 
 
 Les modalités d'application du présent article sont fixées par décret.
-
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 15
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+
+_Cité par_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L122-30 (V)
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L122-30
-  - Code des communes de la Nouvelle-Calédonie - art. L123-4
+  - Code des communes de la Nouvelle-Calédonie - art. L123-4 (VD)
+  - Code du travail applicable à Mayotte. - art. L122-30
 
 
 ###### Article L122-30
@@ -3323,21 +3389,17 @@ _Cite_:
 
 ###### Article L123-2-2
 
-Les conseillers municipaux qui ne perçoivent pas d'indemnités de fonction peuvent bénéficier d'un remboursement par la
-commune, sur présentation d'un état de frais et après délibération du conseil municipal, des frais de garde d'enfants ou
-d'assistance aux personnes âgées, handicapées ou à celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont
-engagés en raison de leur participation aux réunions mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par
-heure, le montant horaire du salaire minimum garanti.
+Les membres du conseil municipal peuvent bénéficier d'un remboursement par la commune, sur présentation d'un état de frais et
+après délibération du conseil municipal, des frais de garde d'enfants ou d'assistance aux personnes âgées, handicapées ou à
+celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont engagés en raison de leur participation aux réunions
+mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par heure, le montant horaire du salaire minimum
+garanti.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 16 () JORF 7 mai 2005
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 _Cite_:
 
@@ -3379,9 +3441,13 @@ _Créé par_:
 
 ###### Article L123-4
 
-Les indemnités maximales pour l'exercice effectif des fonctions de maire et adjoint des communes, de président et membres des
-délégations spéciales faisant fonction d'adjoint, de membres de certains conseils municipaux, sont fixées par arrêté du haut-
-commissaire par référence aux indices des traitements de la fonction publique de la Nouvelle-Calédonie.
+Les indemnités allouées au titre de l'exercice des fonctions de maire et de président de délégation spéciale et les
+indemnités maximales pour l'exercice effectif des fonctions d'adjoint au maire des communes, de conseiller municipal des
+communes de 100 000 habitants et plus et de membre de délégations spéciales qui fait fonction d'adjoint sont fixées par
+arrêté du haut-commissaire par référence aux indices des traitements de la fonction publique de la Nouvelle-Calédonie. 
+
+Dans les communes de 1 000 habitants et plus, le conseil municipal peut, par délibération, fixer une indemnité de fonction
+inférieure au barème fixé par arrêté, à la demande du maire. 
 
 Les dispositions du présent article sont applicables de plein droit dans toutes les communes ; les indemnités ainsi prévues
 constituent pour celles-ci une dépense obligatoire.
@@ -3390,18 +3456,37 @@ constituent pour celles-ci une dépense obligatoire.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 _Cité par_:
 
   - Code des communes de la Nouvelle-Calédonie - art. D123-2 (V)
-  - Code des communes de la Nouvelle-Calédonie - art. L122-29 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L122-29 (VD)
   - Code des communes de la Nouvelle-Calédonie - art. L123-5 (VD)
   - Code des communes de la Nouvelle-Calédonie - art. L153-4 (V)
+
+
+###### Article L123-4-1
+
+Lorsque le conseil municipal est renouvelé, les indemnités de ses membres, à l'exception de l'indemnité du maire, sont fixées
+par délibération. Cette délibération intervient dans les trois mois suivant l'installation du conseil municipal.
+
+Sauf décision contraire de la délégation spéciale, ses membres qui font fonction d'adjoint perçoivent l'indemnité fixée par
+délibération du conseil municipal pour les adjoints.
+
+Toute délibération du conseil municipal concernant les indemnités de fonction d'un ou de plusieurs de ses membres, à
+l'exception du maire, est accompagnée d'un tableau annexe récapitulant l'ensemble des indemnités allouées aux autres membres
+du conseil municipal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 
 ###### Article L123-5
@@ -3415,14 +3500,14 @@ conseiller municipal, à condition que le montant total des indemnités maximale
 adjoints ne soit pas dépassé. Cette indemnité est, pour chaque strate considérée, au plus égale à 6 % du montant de
 l'indemnité maximale du maire telle qu'elle est fixée par l'arrêté mentionné au premier alinéa de l'article L. 123-4. 
 
-En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au
-maire de la commune en application de l'article L. 123-4.
+En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité             fixée à l'article L.
+123-4.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-970 du 3 août 2009 - art. 5 (V)
+  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
 
 _Cite_:
 
@@ -9176,13 +9261,16 @@ _Créé par_:
 
 Dans les communes de 3 500 habitants et plus, les documents relatifs à l'exploitation des services publics délégués, qui
 doivent être remis à la commune en application de conventions de délégation de service public, à l'exception de ceux
-mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
-l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, sont mis à la disposition du
-public sur place à la mairie et, le cas échéant, à la mairie annexe, dans les quinze jours qui suivent leur réception. Le
-public est avisé par le maire de cette réception par voie d'affiche apposée en mairie et aux lieux habituels d'affichage
-pendant au moins un mois.
+mentionnés aux articles L. 311-5 à L. 311-8 du code des relations entre le public et l'administration, sont mis à la
+disposition du public sur place à la mairie et, le cas échéant, à la mairie annexe, dans les quinze jours qui suivent leur
+réception. Le public est avisé par le maire de cette réception par voie d'affiche apposée en mairie et aux lieux habituels
+d'affichage pendant au moins un mois.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 _Cité par_:
 
@@ -9190,16 +9278,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie annexe
-  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
-
-_Codifié par_:
-
-  - Décret n°2001-579 2001-06-29
-
-_Créé par_:
-
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L321-2
@@ -11731,26 +11810,39 @@ _Cite_:
 
 ###### Article R121-17
 
-La durée du crédit d'heures pour un trimestre est égale :
+I.-La durée du crédit d'heures pour un trimestre est égale : 
 
-1° A cent dix-sept heures pour les maires des villes d'au moins 10 000 habitants et les adjoints au maire des communes d'au
-moins 30 000 habitants ;
+" 1° A cent cinquante-six heures pour les maires des communes d'au moins 10 000 habitants et les adjoints au maire des
+communes d'au moins 30 000 habitants ; 
 
-2° A cinquante-huit heures trente pour les maires des communes de moins de 10 000 habitants et pour les adjoints au maire des
-communes de 10 000 à 29 999 habitants ;
+" 2° A cent dix-sept heures pour les maires des communes de moins de 10 000 habitants et les adjoints au maire des communes
+de 10 000 à 29 999 habitants ; 
 
-3° A vingt-trois heures trente pour les conseillers municipaux des villes d'au moins 100 000 habitants et les adjoints au
-maire des villes de moins de 10 000 habitants.
+" 3° A cinquante-huit heures trente pour les conseillers municipaux des communes d'au moins 100 000 habitants et les adjoints
+au maire des communes de moins de 10 000 habitants ; 
+
+" 4° A trente-neuf heures pour les conseillers municipaux des communes de 30 000 à 99 999 habitants, à vingt-trois heures
+pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et à onze heures pour les conseillers municipaux
+des communes de 3 500 à 9 999 habitants ; 
+
+5° A sept heures trente pour les conseillers municipaux des communes de moins de 3 500 habitants. 
+
+" II.-La durée du crédit d'heures de l'adjoint ou du conseiller municipal qui supplée le maire dans les conditions prévues
+par l'article L. 122-13 est, pendant la durée de la suppléance, celle prévue par le I du présent article pour le maire de la
+commune. 
+
+" III.-La durée du crédit d'heures du conseiller municipal qui bénéficie d'une délégation de fonction du maire est celle
+prévue par le I du présent article pour un adjoint au maire de la commune. "
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Décret n°2015-1352 du 26 octobre 2015 - art. 4
 
 
 ###### Article R121-18
@@ -12358,9 +12450,93 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=169></a>
+##### Section 4 : Garanties accordées à l'issue du mandat<a id=169></a>
 
-##### Section 4 : Régime de retraite des maires et adjoints<a id=170></a>
+###### Article D122-11
+
+A l'issue de leur mandat, les personnes ayant exercé un des mandats électifs mentionnés à l'article L. 122-29 bénéficient de
+l'allocation différentielle de fin de mandat, sous réserve de remplir les conditions prévues à l'article précité. 
+
+Pour l'application des présentes dispositions, la condition de cessation de l'activité professionnelle s'apprécie à l'issue
+du mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-12
+
+La demande, accompagnée des pièces justificatives permettant de déterminer le montant de l'allocation susceptible d'être
+attribuée, doit être adressée à la Caisse des dépôts et consignations au plus tard cinq mois après l'issue du mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-13
+
+L'indemnité différentielle de fin de mandat est personnelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-14
+
+Pendant les six premiers mois, son montant est égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle,
+avant retenue à la source de l'imposition, que l'intéressé percevait pour l'exercice de ses fonctions électives, et
+l'ensemble des ressources perçues au titre des revenus du travail, des revenus de substitution ou des indemnités liées à
+d'autres mandats électifs. 
+
+A compter du septième mois suivant le début de versement de l'allocation, le montant de l'allocation différentielle de fin de
+mandat est égal à 40 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-15
+
+L'indemnité mensuelle est versée pour une durée maximale d'un an. 
+
+L'indemnité est versée chaque mois dès lors que son montant mensuel est supérieur à 12 000 francs CFP. Dans le cas où le
+montant de l'allocation est inférieur à cette somme, le paiement est effectué en deux fois au cours des six premiers mois, et
+à compter du septième mois, en deux fois également.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+###### Article D122-16
+
+Le bénéficiaire est tenu de faire connaître sans délai tout changement de situation au regard du montant des ressources qu'il
+perçoit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1400 du 3 novembre 2015 - art. 4
+
+
+#### Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales<a id=170></a>
+
+##### Section 4 : Régime de retraite des maires et adjoints<a id=171></a>
 
 ###### Article D123-1
 
@@ -12484,9 +12660,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=171></a>
+#### Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre<a id=172></a>
 
-##### Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux<a id=172></a>
+##### Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux<a id=173></a>
 
 ###### Article R124-1
 
@@ -12557,7 +12733,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L124-4 (V)
 
 
-##### Section 2 : Dispositions applicables aux maires et adjoints<a id=173></a>
+##### Section 2 : Dispositions applicables aux maires et adjoints<a id=174></a>
 
 ###### Article R124-4
 
@@ -12621,7 +12797,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L124-6 (V)
 
 
-#### Chapitre V : Participation des habitants à la vie locale<a id=174></a>
+#### Chapitre V : Participation des habitants à la vie locale<a id=175></a>
 
 ###### Article R125-1
 
@@ -12987,9 +13163,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE III : POLICE<a id=175></a>
+### TITRE III : POLICE<a id=176></a>
 
-#### Chapitre Ier : Dispositions générales<a id=176></a>
+#### Chapitre Ier : Dispositions générales<a id=177></a>
 
 ###### Article D131-1-1
 
@@ -13007,9 +13183,9 @@ _Modifié par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
-#### Chapitre II : Dispositions particulières<a id=177></a>
+#### Chapitre II : Dispositions particulières<a id=178></a>
 
-##### Section 1 : Police dans les campagnes<a id=178></a>
+##### Section 1 : Police dans les campagnes<a id=179></a>
 
 ###### Article R132-1
 
@@ -13026,9 +13202,9 @@ _Modifié par_:
   - Décret n°2013-1113 du 4 décembre 2013 - art. 4
 
 
-### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=179></a>
+### TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS<a id=180></a>
 
-#### Chapitre III : Communes associées<a id=180></a>
+#### Chapitre III : Communes associées<a id=181></a>
 
 ###### Article R153-1
 
@@ -13075,11 +13251,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L153-5 (V)
 
 
-### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=181></a>
+### TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES<a id=182></a>
 
-#### Chapitre III : Syndicat de communes<a id=182></a>
+#### Chapitre III : Syndicat de communes<a id=183></a>
 
-##### Section 1 : Création du syndicat<a id=183></a>
+##### Section 1 : Création du syndicat<a id=184></a>
 
 ###### Article R163-1
 
@@ -13100,11 +13276,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L163-2 (V)
 
 
-## LIVRE II : FINANCES COMMUNALES<a id=184></a>
+## LIVRE II : FINANCES COMMUNALES<a id=185></a>
 
-### TITRE Ier : BUDGET<a id=185></a>
+### TITRE Ier : BUDGET<a id=186></a>
 
-#### Chapitre Ier : Dispositions générales<a id=186></a>
+#### Chapitre Ier : Dispositions générales<a id=187></a>
 
 ###### Article D211-1
 
@@ -13538,7 +13714,7 @@ _Créé par_:
   - Décret n°2009-1602 du 18 décembre 2009 - art. 3
 
 
-#### Chapitre II : Vote et règlement<a id=187></a>
+#### Chapitre II : Vote et règlement<a id=188></a>
 
 ###### Article D212-2
 
@@ -13627,49 +13803,55 @@ _Créé par_:
 ###### Article R212-1
 
 Dans les communes de 3.500 habitants et plus, les données synthétiques sur la situation financière de la commune, prévues au
-1 du troisième alinéa de l'article L. 212-3, comprennent les ratios suivants :
+1 du troisième alinéa de l'article L. 212-3, comprennent les ratios suivants : 
 
-1° Dépenses réelles de fonctionnement/population ;
+1° Dépenses réelles de fonctionnement/ population ; 
 
-2° Recettes réelles de fonctionnement/population ;
+2° Recettes réelles de fonctionnement/ population ; 
 
-3° Dépenses d'équipement brut/population ;
+3° Dépenses d'équipement brut/ population ; 
 
-4° Encours réel de la dette/population ; l'encours réel de la dette correspondant au cumul des remboursements en capital des
+4° Encours réel de la dette/ population ; l'encours réel de la dette correspondant au cumul des remboursements en capital des
 emprunts non échus et des dettes à long et moyen terme, à l'exclusion des remboursements couverts par des recettes de
-transfert reçues sous forme de dotations ou de participations ;
+transfert reçues sous forme de dotations ou de participations ; 
 
-5° Dotation globale de fonctionnement/population ;
+Lorsqu'une collectivité, ou l'un de ses établissements publics, doit acquitter une indemnité de remboursement anticipé
+d'emprunt, et dans le cas où elle bénéficie d'une aide octroyée par le fonds de soutien créé par l'article 92 de la loi n°
+2013-1278 du 29 décembre 2013 de finances pour 2014, cette collectivité peut déduire de cet encours de dette le montant de la
+créance restant à percevoir du fonds de soutien. 
 
-6° Dotation du fonds intercommunal de péréquation (fonctionnement)/population.
+5° Dotation globale de fonctionnement/ population ; 
 
-Dans les communes de 10 000 habitants et plus, ces données comprennent en outre les ratios suivants :
+6° Dotation du fonds intercommunal de péréquation (fonctionnement)/ population. 
 
-7° Dépenses de personnel/dépenses réelles de fonctionnement ;
+Dans les communes de 10 000 habitants et plus, ces données comprennent en outre les ratios suivants : 
 
-8° Dépenses réelles de fonctionnement et remboursement annuel de la dette en capital/recettes réelles de fonctionnement ;
+7° Dépenses de personnel/ dépenses réelles de fonctionnement ; 
 
-9° Dépenses d'équipement brut/recettes réelles de fonctionnement ;
+8° Dépenses réelles de fonctionnement et remboursement annuel de la dette en capital/ recettes réelles de fonctionnement ; 
 
-10° Encours réel de la dette/recettes réelles de fonctionnement.
+9° Dépenses d'équipement brut/ recettes réelles de fonctionnement ; 
+
+10° Encours réel de la dette/ recettes réelles de fonctionnement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 92
+  - Code des communes de la Nouvelle-Calédonie - art. L212-3
+
+_Modifié par_:
+
+  - Décret n°2015-1893 du 29 décembre 2015 - art. 1
 
 _Cité par_:
 
   - Code des communes de la Nouvelle-Calédonie - art. D212-2 (VD)
-
-_Cite_:
-
-  - Code des communes de la Nouvelle-Calédonie - art. L212-3 (M)
 
 
 ###### Article R212-3
@@ -13757,7 +13939,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R212-5 (Ab)
 
 
-### TITRE II : DÉPENSES<a id=188></a>
+### TITRE II : DÉPENSES<a id=189></a>
 
 ###### Article D221-3
 
@@ -13993,9 +14175,9 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-### TITRE III : RECETTES<a id=189></a>
+### TITRE III : RECETTES<a id=190></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=190></a>
+#### Chapitre Ier : Dispositions générales.<a id=191></a>
 
 ###### Article D231-1
 
@@ -14043,11 +14225,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L231-5
 
 
-#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=191></a>
+#### Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts<a id=192></a>
 
-##### Section 2 : Taxe sur la publicité<a id=192></a>
+##### Section 2 : Taxe sur la publicité<a id=193></a>
 
-##### Sous-section 1 : Dispositions générales<a id=193></a>
+##### Sous-section 1 : Dispositions générales<a id=194></a>
 
 ###### Article D233-1
 
@@ -14089,7 +14271,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 2 : Assiette de la taxe et exonérations<a id=194></a>
+##### Sous-section 2 : Assiette de la taxe et exonérations<a id=195></a>
 
 ###### Article D233-4
 
@@ -14138,7 +14320,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L233-4 (V)
 
 
-##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=195></a>
+##### Sous-section 3 : Paiement et recouvrement de la taxe<a id=196></a>
 
 ###### Article D233-6
 
@@ -14343,7 +14525,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R233-7 (V)
 
 
-##### Sous-section 4 : Sanctions applicables<a id=196></a>
+##### Sous-section 4 : Sanctions applicables<a id=197></a>
 
 ###### Article D233-13
 
@@ -14408,11 +14590,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie L233-3, L233-4, L233-5, L233-7, R233-5 à D233-10
 
 
-#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=197></a>
+#### Chapitre IV : Dotation globale de fonctionnement et autres dotations<a id=198></a>
 
-##### Section 1 : Dotation globale de fonctionnement<a id=198></a>
+##### Section 1 : Dotation globale de fonctionnement<a id=199></a>
 
-##### Sous-section 1 : Dispositions générales<a id=199></a>
+##### Sous-section 1 : Dispositions générales<a id=200></a>
 
 ###### Article R234-1
 
@@ -14457,7 +14639,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-2 (M)
 
 
-##### Sous-section 2 : Dotation forfaitaire<a id=200></a>
+##### Sous-section 2 : Dotation forfaitaire<a id=201></a>
 
 ###### Article R234-3
 
@@ -14488,7 +14670,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. D114-6 (Ab)
 
 
-##### Sous-section 3 : Dotation d'aménagement<a id=201></a>
+##### Sous-section 3 : Dotation d'aménagement<a id=202></a>
 
 ###### Article R234-4
 
@@ -14525,7 +14707,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2334-13 (M)
 
 
-##### Section 2 : Dotation d'équipement des territoires ruraux<a id=202></a>
+##### Section 2 : Dotation d'équipement des territoires ruraux<a id=203></a>
 
 ###### Article R234-5
 
@@ -14701,7 +14883,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Dotation spéciale pour le logement des instituteurs<a id=203></a>
+##### Section 4 : Dotation spéciale pour le logement des instituteurs<a id=204></a>
 
 ###### Article R234-12
 
@@ -14793,7 +14975,7 @@ _Créé par_:
   - Décret n°2010-602 du 3 juin 2010 - art. 1
 
 
-#### Chapitre V : Subventions<a id=204></a>
+#### Chapitre V : Subventions<a id=205></a>
 
 ###### Article D235-1
 
@@ -14818,9 +15000,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L235-1 (V)
 
 
-#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=205></a>
+#### Chapitre VI : Avances, emprunts et garanties d'emprunts<a id=206></a>
 
-##### Section 1 : Avances<a id=206></a>
+##### Section 1 : Avances<a id=207></a>
 
 ###### Article R236-1
 
@@ -14982,7 +15164,7 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-##### Section 2 : Recours à l'emprunt<a id=207></a>
+##### Section 2 : Recours à l'emprunt<a id=208></a>
 
 ###### Article D236-9
 
@@ -15082,7 +15264,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R236-9-1
 
 
-##### Section 4 : Garanties d'emprunts<a id=208></a>
+##### Section 4 : Garanties d'emprunts<a id=209></a>
 
 ###### Article D236-11
 
@@ -15217,11 +15399,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R324-2 (V)
 
 
-### TITRE IV : COMPTABILITÉ<a id=209></a>
+### TITRE IV : COMPTABILITÉ<a id=210></a>
 
-#### Chapitre Ier : Comptabilité du maire et du comptable<a id=210></a>
+#### Chapitre Ier : Comptabilité du maire et du comptable<a id=211></a>
 
-##### Section 1 : Dispositions générales<a id=211></a>
+##### Section 1 : Dispositions générales<a id=212></a>
 
 ###### Article D241-2
 
@@ -15318,7 +15500,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 2 : Comptabilité du maire<a id=212></a>
+##### Section 2 : Comptabilité du maire<a id=213></a>
 
 ###### Article D241-5
 
@@ -15499,7 +15681,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 3 : Comptabilité du comptable<a id=213></a>
+##### Section 3 : Comptabilité du comptable<a id=214></a>
 
 ###### Article D241-15
 
@@ -15833,9 +16015,9 @@ _Modifié par_:
   - Décret n°2014-552 du 27 mai 2014 - art. 3
 
 
-### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=214></a>
+### TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX<a id=215></a>
 
-#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=215></a>
+#### Chapitre unique : Dispositions applicables au syndicat de communes<a id=216></a>
 
 ###### Article D251-2
 
@@ -15890,11 +16072,11 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=216></a>
+## LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX<a id=217></a>
 
-### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=217></a>
+### TITRE Ier : ADMINISTRATION DE LA COMMUNE<a id=218></a>
 
-#### Chapitre Ier : Biens communaux<a id=218></a>
+#### Chapitre Ier : Biens communaux<a id=219></a>
 
 ###### Article R311-1
 
@@ -15915,9 +16097,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre II : Dons et legs<a id=219></a>
+#### Chapitre II : Dons et legs<a id=220></a>
 
-##### Section 2 : Acceptation et refus de libéralités<a id=220></a>
+##### Section 2 : Acceptation et refus de libéralités<a id=221></a>
 
 ###### Article R312-1
 
@@ -15939,7 +16121,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L312-3 (V)
 
 
-##### Section 3 : Procédure applicable en matière de libéralités<a id=221></a>
+##### Section 3 : Procédure applicable en matière de libéralités<a id=222></a>
 
 ###### Article R312-2
 
@@ -15985,7 +16167,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=222></a>
+##### Section 4 : Contrôle de l'administration des biens légués ou donnés<a id=223></a>
 
 ###### Article R312-4
 
@@ -16071,7 +16253,7 @@ _Cité par_:
   - Code des marchés publics - art. 178 (T)
 
 
-#### Chapitre IV : Marchés et délégations de service public<a id=223></a>
+#### Chapitre IV : Marchés et délégations de service public<a id=224></a>
 
 ###### Article R314-1
 
@@ -16135,9 +16317,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VI : Actions judiciaires<a id=224></a>
+#### Chapitre VI : Actions judiciaires<a id=225></a>
 
-##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=225></a>
+##### Section 2 : Exercice, par un contribuable, des actions appartenant à la commune<a id=226></a>
 
 ###### Article R316-1
 
@@ -16217,7 +16399,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre VIII : Dispositions diverses<a id=226></a>
+#### Chapitre VIII : Dispositions diverses<a id=227></a>
 
 ###### Article D318-1
 
@@ -16253,11 +16435,11 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L318-3 (V)
 
 
-### TITRE II : SERVICES COMMUNAUX<a id=227></a>
+### TITRE II : SERVICES COMMUNAUX<a id=228></a>
 
-#### Chapitre III : Régies municipales<a id=228></a>
+#### Chapitre III : Régies municipales<a id=229></a>
 
-##### Section 1 : Dispositions générales<a id=229></a>
+##### Section 1 : Dispositions générales<a id=230></a>
 
 ###### Article R323-1
 
@@ -16377,7 +16559,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-6 (V)
 
 
-##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=230></a>
+##### Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière<a id=231></a>
 
 ###### Article R323-7
 
@@ -16399,7 +16581,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-8 (M)
 
 
-##### Sous-section 1 : Création de la régie<a id=231></a>
+##### Sous-section 1 : Création de la régie<a id=232></a>
 
 ###### Article R323-8
 
@@ -16443,9 +16625,9 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-8 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=232></a>
+##### Sous-section 2 : Organisation administrative<a id=233></a>
 
-##### Paragraphe 1er : Dispositions générales<a id=233></a>
+##### Paragraphe 1er : Dispositions générales<a id=234></a>
 
 ###### Article R323-10
 
@@ -16482,7 +16664,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Conseil d'administration<a id=234></a>
+##### Paragraphe 2 : Conseil d'administration<a id=235></a>
 
 ###### Article R323-12
 
@@ -16645,7 +16827,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Directeur<a id=235></a>
+##### Paragraphe 3 : Directeur<a id=236></a>
 
 ###### Article R323-20
 
@@ -16740,7 +16922,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable<a id=236></a>
+##### Paragraphe 4 : Agent comptable<a id=237></a>
 
 ###### Article R323-24
 
@@ -16832,9 +17014,9 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 6
 
 
-##### Sous-section 3 : Fonctionnement<a id=237></a>
+##### Sous-section 3 : Fonctionnement<a id=238></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=238></a>
+##### Paragraphe 1 : Dispositions générales<a id=239></a>
 
 ###### Article R323-28
 
@@ -16932,7 +17114,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 2 : Régime financier<a id=239></a>
+##### Paragraphe 2 : Régime financier<a id=240></a>
 
 ###### Article R323-33
 
@@ -17008,7 +17190,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 3 : Budget<a id=240></a>
+##### Paragraphe 3 : Budget<a id=241></a>
 
 ###### Article R323-38
 
@@ -17175,7 +17357,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Comptabilité<a id=241></a>
+##### Paragraphe 4 : Comptabilité<a id=242></a>
 
 ###### Article R323-45
 
@@ -17276,7 +17458,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=242></a>
+##### Sous-section 4 : Fin de la régie<a id=243></a>
 
 ###### Article R323-49
 
@@ -17365,7 +17547,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-51 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=243></a>
+##### Sous-section 5 : Régies intercommunales<a id=244></a>
 
 ###### Article R323-53
 
@@ -17389,7 +17571,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-3 (V)
 
 
-##### Section 3 : Régies dotées de la seule autonomie financière<a id=244></a>
+##### Section 3 : Régies dotées de la seule autonomie financière<a id=245></a>
 
 ###### Article R323-54
 
@@ -17411,7 +17593,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L323-12 (M)
 
 
-##### Sous-section 1 : Création<a id=245></a>
+##### Sous-section 1 : Création<a id=246></a>
 
 ###### Article R323-55
 
@@ -17434,9 +17616,9 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-92 (V)
 
 
-##### Sous-section 2 : Organisation administrative<a id=246></a>
+##### Sous-section 2 : Organisation administrative<a id=247></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=247></a>
+##### Paragraphe 1 : Dispositions générales<a id=248></a>
 
 ###### Article R323-56
 
@@ -17513,7 +17695,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-65 (V)
 
 
-##### Paragraphe 2 : Conseil d'exploitation<a id=248></a>
+##### Paragraphe 2 : Conseil d'exploitation<a id=249></a>
 
 ###### Article R323-59
 
@@ -17669,7 +17851,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-58 (V)
 
 
-##### Paragraphe 3 : Directeur<a id=249></a>
+##### Paragraphe 3 : Directeur<a id=250></a>
 
 ###### Article R323-66
 
@@ -17768,7 +17950,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Paragraphe 4 : Agent comptable et régisseur<a id=250></a>
+##### Paragraphe 4 : Agent comptable et régisseur<a id=251></a>
 
 ###### Article R323-71
 
@@ -17826,7 +18008,7 @@ _Modifié par_:
   - Décret n°2012-829 du 27 juin 2012 - art. 21
 
 
-##### Sous-section 3 : Régime financier<a id=251></a>
+##### Sous-section 3 : Régime financier<a id=252></a>
 
 ###### Article R323-73
 
@@ -18172,7 +18354,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-##### Sous-section 4 : Fin de la régie<a id=252></a>
+##### Sous-section 4 : Fin de la régie<a id=253></a>
 
 ###### Article R323-88
 
@@ -18261,7 +18443,7 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-90 (V)
 
 
-##### Sous-section 5 : Régies intercommunales<a id=253></a>
+##### Sous-section 5 : Régies intercommunales<a id=254></a>
 
 ###### Article R323-92
 
@@ -18402,7 +18584,7 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. R323-96 (V)
 
 
-##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=254></a>
+##### Section 4 : Régies ayant pour objet de combattre les prix excessifs des denrées alimentaires de première nécessité<a id=255></a>
 
 ###### Article R323-98
 
@@ -18421,7 +18603,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre IV : Concessions et affermages<a id=255></a>
+#### Chapitre IV : Concessions et affermages<a id=256></a>
 
 ###### Article R324-1
 
@@ -18548,9 +18730,9 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=256></a>
+### TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES<a id=257></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=257></a>
+#### Chapitre Ier : Dispositions générales.<a id=258></a>
 
 ###### Article D381-1
 
@@ -18607,7 +18789,7 @@ _Créé par_:
   - Décret n°2009-1602 du 18 décembre 2009 - art. 15
 
 
-#### Chapitre II : Aide aux entreprises<a id=258></a>
+#### Chapitre II : Aide aux entreprises<a id=259></a>
 
 ###### Article R382-1
 
@@ -18670,7 +18852,7 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-#### Chapitre III : Sociétés d'économie mixte locales<a id=259></a>
+#### Chapitre III : Sociétés d'économie mixte locales<a id=260></a>
 
 ###### Article R383-1
 
@@ -18799,13 +18981,13 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
-## LIVRE IV : PERSONNEL COMMUNAL<a id=260></a>
+## LIVRE IV : PERSONNEL COMMUNAL<a id=261></a>
 
-### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=261></a>
+### TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET<a id=262></a>
 
-#### Chapitre unique : Recrutement, formation et promotion sociale<a id=262></a>
+#### Chapitre unique : Recrutement, formation et promotion sociale<a id=263></a>
 
-##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=263></a>
+##### Section 2 : Dispositions applicables aux gardes champêtres et aux agents de la police municipale<a id=264></a>
 
 ###### Article R411-1
 
