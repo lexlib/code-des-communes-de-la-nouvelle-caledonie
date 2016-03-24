@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -1881,6 +1881,24 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R4135-19-2 (V)
   - Code général des collectivités territoriales - art. R7125-25-2 (V)
   - Code général des collectivités territoriales - art. R7227-25-2 (V)
+
+
+###### Article L121-37-2
+
+La demande de formation prévue à l'article L. 121-37-1 est instruite par la Caisse des dépôts et consignations, gestionnaire
+du fonds pour le financement du droit individuel à la formation des élus locaux institué à l'article L. 1621-3 du code
+général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-341 du 23 mars 2016 - art. 1
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L121-37-1
+  - Code général des collectivités territoriales - art. L1621-3
 
 
 ###### Article L121-38
