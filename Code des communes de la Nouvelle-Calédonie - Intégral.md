@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2016-04-11
+Version Consolidée au 2016-06-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -186,9 +186,9 @@ Version Consolidée au 2016-04-11
         - [Chapitre III : Syndicat de communes (art. R163-1)](#183)
           - [Section 1 : Création du syndicat (art. R163-1)](#184)
     - [LIVRE II : FINANCES COMMUNALES (art. D211-1 à R251-1)](#185)
-      - [TITRE Ier : BUDGET (art. D211-1 à R212-6)](#186)
+      - [TITRE Ier : BUDGET (art. D211-1 à R212-7)](#186)
         - [Chapitre Ier : Dispositions générales (art. D211-1 à D211-15)](#187)
-        - [Chapitre II : Vote et règlement (art. D212-2 à R212-6)](#188)
+        - [Chapitre II : Vote et règlement (art. D212-2 à R212-7)](#188)
       - [TITRE II : DÉPENSES (art. D221-3 à R221-2)](#189)
       - [TITRE III : RECETTES (art. D231-1 à R236-10)](#190)
         - [Chapitre Ier : Dispositions générales. (art. D231-1 à D231-3)](#191)
@@ -13955,6 +13955,33 @@ _Cite_:
 _Cité par_:
 
   - Code des communes de la Nouvelle-Calédonie - art. R212-5 (Ab)
+
+
+###### Article R212-7
+
+Les documents mentionnés à l'avant-dernier alinéa de l'article L. 212-3 sont mis en ligne sur le site internet de la commune,
+lorsqu'il existe, dans des conditions garantissant : 
+
+1° Leur accessibilité intégrale et sous un format non modifiable ; 
+
+2° La gratuité et la facilité de leur accès par le public, pour leur lecture comme pour leur téléchargement ; 
+
+3° Leur conformité aux documents soumis à l'organe délibérant de cette collectivité ; 
+
+4° Leur bonne conservation et leur intégrité. 
+
+Cette mise en ligne intervient dans un délai d'un mois à compter de l'adoption, par le conseil municipal, des délibérations
+auxquelles ces documents se rapportent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-834 du 23 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L212-3
 
 
 ### TITRE II : DÉPENSES<a id=189></a>
