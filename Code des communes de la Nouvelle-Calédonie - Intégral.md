@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2017-04-06
+Version Consolidée au 2017-09-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -25,7 +25,7 @@ Version Consolidée au 2017-04-06
           - [Section 8 : Régime juridique des actes pris par les autorités communales (art. L121-39-1 à L121-42)](#22)
         - [Chapitre II : Maires et adjoints (art. L122-1 à L122-30)](#23)
           - [Section 1 : Dispositions générales (art. L122-1 à L122-3)](#24)
-          - [Section 2 : Désignation et statut des maires et adjoints (art. L122-4 à L122-18)](#25)
+          - [Section 2 : Désignation et statut des maires et adjoints (art. L122-4 à L122-18-1)](#25)
           - [Section 3 : Attributions des maires et adjoints (art. L122-19 à L122-28)](#26)
           - [Section 4 : Garanties accordées à  l'issue du mandat (art. L122-29 à L122-30)](#27)
         - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. L123-1 à L123-13)](#28)
@@ -59,7 +59,7 @@ Version Consolidée au 2017-04-06
         - [Chapitre II : Biens et droits indivis entre plusieurs communes (art. L162-1 à L162-3)](#56)
         - [Chapitre III : Syndicat de communes (art. L163-1 à L163-18)](#57)
           - [Section 1 : Création du syndicat (art. L163-1 à L163-2)](#58)
-          - [Section 2 : Administration et fonctionnement du syndicat (art. L163-3 à L163-14-3)](#59)
+          - [Section 2 : Administration et fonctionnement du syndicat (art. L163-3 à L163-14-4)](#59)
           - [Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat (art. L163-15 à L163-17)](#60)
           - [Section 4 : Durée du syndicat (art. L163-18)](#61)
         - [Chapitre VI : Syndicats mixtes (art. L166-1 à L166-7)](#62)
@@ -2894,6 +2894,66 @@ _Modifié par_:
 _Cité par_:
 
   - Code des communes de la Nouvelle-Calédonie - art. R122-7 (V)
+
+
+###### Article L122-18-1
+
+I.-Il est interdit au maire de compter parmi les membres de son cabinet : 
+
+1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ; 
+
+2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ; 
+
+3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin. 
+
+La violation de cette interdiction emporte de plein droit la cessation du contrat. 
+
+Un décret en Conseil d'Etat détermine les modalités selon lesquelles le maire rembourse les sommes versées en violation de
+cette interdiction. 
+
+Aucune restitution des sommes versées ne peut être exigée du membre du cabinet. 
+
+Le fait, pour un maire, de compter l'une des personnes mentionnées aux 1° à 3° du présent I parmi les membres de son cabinet
+est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires
+relatives à la fonction publique territoriale. 
+
+II.-Lorsqu'il est concerné par l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique, le maire informe sans délai la Haute Autorité pour la transparence de la vie publique du fait qu'il compte parmi
+les membres de son cabinet : 
+
+1° Son frère ou sa sœur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de celui-ci ou celle-
+ci ; 
+
+2° L'enfant de son frère ou de sa sœur, ou le conjoint, partenaire lié par un pacte civil de solidarité ou concubin de cet
+enfant ; 
+
+3° Son ancien conjoint, la personne ayant été liée à lui par un pacte civil de solidarité ou son ancien concubin ; 
+
+4° L'enfant, le frère ou la sœur des personnes mentionnées au 3° du présent II ; 
+
+5° Le frère ou la sœur des personnes mentionnées au 1° du I. 
+
+[Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017.] 
+
+IV.-Les II [Dispositions déclarées non conformes à la Constitution par la décision n° 2017-752 DC du 8 septembre 2017.] du
+présent article s'appliquent sans préjudice des articles 432-10 à 432-13 et 432-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 110
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11
+  - Code pénal - art. 432-10 (V)
+  - Code pénal - art. 432-15
+
+_Créé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 16
+
+_Cité par_:
+
+  - Décret n°2017-1692 du 14 décembre 2017 - art. 1 (V)
 
 
 ##### Section 3 : Attributions des maires et adjoints<a id=26></a>
@@ -6057,6 +6117,38 @@ _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L163-1 (V)
   - Code des communes de la Nouvelle-Calédonie - art. L163-14-2 (V)
+
+
+###### Article L163-14-4
+
+Il est interdit au président d'un syndicat de communes de compter parmi les membres de son cabinet :
+
+1° Son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;
+
+2° Ses parents ou les parents de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin ;
+
+3° Ses enfants ou les enfants de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin.
+
+La violation de cette interdiction emporte de plein droit la cessation du contrat.
+
+Un décret en Conseil d'Etat détermine les modalités selon lesquelles le président d'un syndicat de communes rembourse les
+sommes versées en violation de cette interdiction.
+
+Aucune restitution des sommes versées ne peut être exigée du membre du cabinet.
+
+Le fait, pour un président d'un syndicat de communes, de compter l'une des personnes mentionnées aux 1° à 3° parmi les
+membres de son cabinet est puni de la peine prévue au II de l'article 110 de la loi n° 84-53 du 26 janvier 1984 portant
+dispositions statutaires relatives à la fonction publique territoriale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-53 du 26 janvier 1984 - art. 110
+
+_Créé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 16
 
 
 ##### Section 3 : Modification aux conditions initiales de composition et de fonctionnement du syndicat<a id=60></a>
