@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2018-07-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -5878,22 +5878,27 @@ _Créé par_:
 Le comité se réunit au moins une fois par trimestre, ou, lorsque le syndicat a été formé en vue d'une seule oeuvre ou d'un
 seul service d'intérêt communal, une fois par semestre. 
 
-Les règles relatives à l'élection et à la durée du mandat du président et des membres du bureau sont celles que fixent les
-articles L. 122-4 et L. 122-9 pour le maire et les adjoints.
+Les règles relatives à l'élection et à la durée du mandat du président et des membres du bureau sont celles prévues pour le
+maire et les adjoints : 
+
+1° Aux articles L. 122-4, L. 122-8-1 et L. 122-9, pour le président et les vice-présidents ; 
+
+2° Aux articles L. 122-4 et L. 122-9, pour les autres membres du bureau.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L122-4 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L122-8-1 (VD)
   - Code des communes de la Nouvelle-Calédonie - art. L122-9 (V)
 
 
