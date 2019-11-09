@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2018-07-15
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -10366,18 +10366,16 @@ ou des activités d'intérêt général dans les conditions prévues à l'articl
 Ces dispositions ne sont pas applicables aux acquisitions d'actions dont l'objet est de rendre les communes majoritaires dans
 le capital des sociétés d'économie mixte.
 
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+Par dérogation au premier alinéa du présent article, les communes et leurs groupements peuvent, par délibération de leurs
+organes délibérants, participer au capital d'une société anonyme ou d'une société par actions simplifiée dont l'objet social
+est la production d'énergies renouvelables par des installations situées sur leur territoire ou, pour une commune, sur le
+territoire d'une commune limitrophe ou, pour un groupement, sur le territoire d'un groupement limitrophe.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 41
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 56
 
 _Cite_:
 
