@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-12-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -11218,8 +11218,7 @@ commune ;
 résidence de la famille se trouve sur le territoire de la commune et qui ont leur résidence habituelle située dans une autre
 commune ;
 
-5. Les personnes sans domicile fixe rattachées, au sens de la loi du 3 janvier 1969 susvisée, à la commune et non recensées
-sur le territoire de la commune ;
+5. (Abrogé)
 
 6. Les personnes majeures âgées de moins de vingt-cinq ans dont la famille réside sur le territoire de la commune, qui
 résident ailleurs en France du fait de leurs études et qui ne relèvent pas des alinéas précédents.
@@ -11263,15 +11262,15 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°69-3 1969-01-03
+  - Loi n°69-3 du 3 janvier 1969
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-485 du 5 juin 2003 - art. 13 () JORF 8 juin 2003
+  - Décret n°2019-1302 du 5 décembre 2019 - art. 2
 
 
 ###### Article R114-2
