@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2018-07-15
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -2590,6 +2590,23 @@ _Modifié par_:
 _Cité par_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L122-10 (V)
+
+
+###### Article L122-8-1
+
+Les fonctions de maire, de maire délégué et d'adjoint au maire sont incompatibles avec celles de militaire en position
+d'activité.
+
+**Nota:**
+
+Conformément à l'article 64 XV A de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur le
+1er janvier 2020 ou lors du prochain renouvellement général des conseils municipaux s'il intervient avant cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-607 du 13 juillet 2018 - art. 64 (V)
 
 
 ###### Article L122-9
