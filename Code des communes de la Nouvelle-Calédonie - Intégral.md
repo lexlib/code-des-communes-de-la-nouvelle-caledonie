@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2020-02-08
+Version Consolidée au 2020-05-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -15114,8 +15114,9 @@ _Cite_:
 
 ###### Article R234-4
 
-Le montant de la quote-part de la dotation d'aménagement prévue aux troisième et quatrième alinéas de l'article L. 2334-13 du
-code général des collectivités territoriales est réparti entre les communes de la Nouvelle-Calédonie, à raison de :
+Le montant de la quote-part de l'enveloppe de la dotation d'aménagement des communes d'outre-mer mentionnée au 2° du II de
+l'article L. 2334-23-1 du code général des collectivités territoriales  destinée aux communes de Nouvelle-Calédonie est
+répartie entre celles-ci, à raison de :
 
 35 % proportionnellement à la population de chaque commune ;
 
@@ -15131,20 +15132,20 @@ revenu des valeurs mobilières et les droits d'enregistrement.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Décret n°2005-298 du 31 mars 2005 - art. 13 () JORF 1er avril 2005
+  - Décret n°2020-606 du 19 mai 2020 - art. 5
 
 _Cité par_:
 
-  - Code général des collectivités territoriales - art. R2334-9-3 (M)
+  - Code général des collectivités territoriales - art. R2334-9-3 (V)
   - Code général des collectivités territoriales - art. R2334-9-4 (T)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2334-13 (M)
+  - Code général des collectivités territoriales - art. L2334-13
 
 
 ##### Section 2 : Dotation d'équipement des territoires ruraux<a id=204></a>
