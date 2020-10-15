@@ -1,5 +1,5 @@
 # Code des communes de la Nouvelle-Calédonie  
-Version Consolidée au 2020-08-01
+Version Consolidée au 2020-10-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L411-2)](#1)
     - [LIVRE Ier : ORGANISATION COMMUNALE (art. L111-1 à L169-2)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 2020-08-01
             - [Sous-section 2 : Dispositions applicables aux fusions simples (art. L112-9 à L112-10)](#8)
             - [Sous-section 3 : Dispositions applicables aux fusions comportant création d'une ou plusieurs communes associées (art. L112-11 à L112-12)](#9)
           - [Section 3 : Modifications aux limites territoriales des communes (art. L112-13 à L112-14)](#10)
-      - [TITRE II : ORGANES DE LA COMMUNE (art. L121-1 à L127-3)](#11)
+      - [TITRE II : ORGANES DE LA COMMUNE (art. L121-1 à L127-4 )](#11)
         - [Chapitre Ier : Conseil municipal (art. L121-1 à L121-42)](#12)
           - [Section 1 : Formation (art. L121-2 à L121-7)](#13)
           - [Section 2 : Fonctionnement (art. L121-8 à L121-20-3)](#14)
@@ -26,12 +26,12 @@ Version Consolidée au 2020-08-01
         - [Chapitre II : Maires et adjoints (art. L122-1 à L122-30)](#23)
           - [Section 1 : Dispositions générales (art. L122-1 à L122-3)](#24)
           - [Section 2 : Désignation et statut des maires et adjoints (art. L122-4 à L122-18-1)](#25)
-          - [Section 3 : Attributions des maires et adjoints (art. L122-19 à L122-28)](#26)
+          - [Section 3 : Attributions des maires et adjoints (art. L122-19 à L122-28-1 )](#26)
           - [Section 4 : Garanties accordées à  l'issue du mandat (art. L122-29 à L122-30)](#27)
         - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales (art. L123-1 à L123-13)](#28)
           - [Section 1 : Dispositions générales (art. L123-1 à L123-1-1)](#29)
           - [Section 2 : Frais de mission et de représentation (art. L123-2 à L123-3)](#30)
-          - [Section 3 : Indemnités de fonctions (art. L123-4 à L123-8)](#31)
+          - [Section 3 : Indemnités de fonctions (art. L123-4 à L123-8-2)](#31)
           - [Section 4 : Régime de retraite des maires et adjoints (art. L123-9 à L123-13)](#32)
         - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre (art. L124-1 à L124-8)](#33)
           - [Section 1 : Dispositions applicables aux conseils et aux conseillers municipaux (art. L124-1 à L124-4)](#34)
@@ -41,11 +41,11 @@ Version Consolidée au 2020-08-01
           - [Section 2 : Quartiers et comités consultatifs (art. L125-10 à L125-11)](#38)
         - [Chapitre V bis : Médiation (art. L125-12)](#39)
         - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics. (art. L126-1 à L126-2)](#40)
-        - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-3)](#41)
+        - [Chapitre VII : Responsabilité et protection des élus (art. L127-1 à L127-4 )](#41)
       - [TITRE III : POLICE (art. L131-1 à L132-6)](#42)
         - [Chapitre Ier : Dispositions générales (art. L131-1 à L131-14)](#43)
           - [Section 1 : Pouvoirs généraux du maire en matière de police (art. L131-1 à L131-2-2)](#44)
-          - [Section 2 : Pouvoirs de police du maire portant sur des objets particuliers (art. L131-3 à L131-12)](#45)
+          - [Section 2 : Pouvoirs de police du maire portant sur des objets particuliers (art. L131-3 à L131-12-1)](#45)
           - [Section 3 : Pouvoirs du haut-commissaire en matière de police municipale (art. L131-13 à L131-14)](#46)
         - [Chapitre II : Dispositions particulières (art. L132-1 à L132-6)](#47)
           - [Section 1 : Police dans les campagnes (art. L132-1 à L132-1-1)](#48)
@@ -125,7 +125,7 @@ Version Consolidée au 2020-08-01
         - [Chapitre VIII : Dispositions diverses (art. L318-1 à L318-4)](#122)
       - [TITRE II : SERVICES COMMUNAUX (art. L321-1 à L324-5)](#123)
         - [Chapitre Ier : Dispositions générales applicables aux services communaux (art. L321-1 à L321-2)](#124)
-        - [Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages (art. L322-1 à L322-3)](#125)
+        - [Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages (art. L322-1 à L322-4 )](#125)
         - [Chapitre III : Régies municipales (art. L323-1 à L323-18)](#126)
           - [Section 1 : Dispositions générales (art. L323-1 à L323-7)](#127)
           - [Section 2 : Régies dotées de la personnalité morale et de l'autonomie financière (art. L323-8)](#128)
@@ -679,6 +679,30 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. R121-2 (M)
 
 
+###### Article L121-2-1 
+
+Par dérogation à l'article L. 121-2, dans les communes de moins de 500 habitants, le conseil municipal est réputé complet dès
+lors que le conseil municipal compte au moins neuf membres à l'issue du second tour du renouvellement général du conseil
+municipal ou d'une élection complémentaire.
+
+Lorsqu'il est fait application du premier alinéa du présent article et pour l'application de toutes les dispositions légales
+relatives à l'effectif du conseil municipal, cet effectif est égal au nombre de membres que compte le conseil municipal à
+l'issue de la dernière élection, qu'il s'agisse d'un renouvellement général ou d'une élection complémentaire.
+
+Toutefois, pour l'application de l'article L. 284 du code électoral, les conseils municipaux des communes mentionnées au
+premier alinéa du présent article élisent un délégué.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 23
+
+_Cite_:
+
+  - Code électoral - art. L284
+
+
 ###### Article L121-3
 
 Les conseils municipaux sont élus dans les conditions prévues au chapitre Ier du titre VI du livre V du code électoral
@@ -969,18 +993,14 @@ sauf disposition législative ou réglementaire prévoyant expressément ce mode
 Le conseil municipal peut décider, à l'unanimité, de ne pas procéder au scrutin secret aux nominations ou aux présentations,
 sauf disposition législative ou réglementaire prévoyant expressément ce mode de scrutin.
 
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+Tout conseiller municipal atteint d'infirmité certaine et le mettant dans l'impossibilité d'introduire son bulletin dans
+l'enveloppe est autorisé à se faire assister par une personne de son choix.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 4
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 24
 
 _Cité par_:
 
@@ -1064,15 +1084,20 @@ commune. Dans les communes de 3 500 habitants et plus, le règlement intérieur 
 présentation et d'examen de ces questions. A défaut de règlement intérieur, celles-ci sont fixées par une délibération du
 conseil municipal.
 
+A la demande d'un dixième au moins des membres du conseil municipal, un débat portant sur la politique générale de la commune
+est organisé lors de la réunion suivante du conseil municipal.
+
+L'application du deuxième alinéa ne peut donner lieu à l'organisation de plus d'un débat par an.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 25
 
 _Cité par_:
 
@@ -1496,23 +1521,23 @@ dès qu'il en a connaissance.
 
 L'employeur n'est pas tenu de payer comme temps de travail le temps passé par l'élu aux séances et réunions précitées.
 
-**Nota:**
+Au début de son mandat de conseiller municipal, le salarié bénéficie, à sa demande, d'un entretien individuel avec son
+employeur portant sur les modalités pratiques d'exercice de son mandat au regard de son emploi. Cet entretien ne se substitue
+pas à l'entretien professionnel prévu par la réglementation applicable localement.
 
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
+L'employeur et le salarié membre du conseil municipal peuvent s'accorder sur les mesures à mettre en œuvre pour faciliter la
+conciliation entre la vie professionnelle et les fonctions électives du salarié et, le cas échéant, sur les conditions de
+rémunération des temps d'absence consacrés à l'exercice de ces fonctions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1134 du 25 juillet 2007 - art. 50 () JORF 27 juillet 2007
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 50, v. init.
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 26
 
 _Cité par_:
 
@@ -1526,6 +1551,18 @@ _Cité par_:
   - Code des communes de la Nouvelle-Calédonie - art. L123-2-2 (V)
   - Code des communes de la Nouvelle-Calédonie - art. R121-12 (V)
   - Code des communes de la Nouvelle-Calédonie - art. R121-14 (VD)
+
+
+###### Article L121-28-1
+
+Sous réserve de la compatibilité de son poste de travail, le conseiller municipal est réputé relever de la catégorie de
+personnes qui disposent, le cas échéant, de l'accès le plus favorable au télétravail dans l'exercice de leur emploi.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 27
 
 
 ###### Article L121-29
@@ -1568,38 +1605,38 @@ _Cité par_:
 I.-Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 121-28, les
 maires, les adjoints et, dans les villes de 3 500 habitants au moins, les conseillers municipaux ont droit à un crédit
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
-la représentent et à la préparation des réunions des instances où ils siègent. 
+la représentent et à la préparation des réunions des instances où ils siègent.
 
-II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail. 
+II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence à la durée hebdomadaire légale du travail.
 
-Il est égal : 
+Il est égal :
 
 1° A l'équivalent de quatre fois la durée hebdomadaire légale du travail pour les maires des communes d'au moins 10 000
-habitants et les adjoints au maire des communes d'au moins 30 000 habitants ; 
+habitants et les adjoints au maire des communes d'au moins 30 000 habitants ;
 
-2° A l'équivalent de trois fois la durée hebdomadaire légale du travail pour les maires des communes de moins de 10 000
-habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ; 
+2° A l'équivalent de trois fois et demie la durée hebdomadaire légale du travail pour les maires des communes de moins de 10
+000 habitants et les adjoints au maire des communes de 10 000 habitants à 29 999 habitants ;
 
-3° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de
-100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ; 
+3° A l'équivalent de deux fois la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 100
+000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
 
 4° A l'équivalent d'une fois la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 30 000 à
 99 999 habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les
-conseillers municipaux des communes de 3 500 à 9 999 habitants ; 
+conseillers municipaux des communes de 3 500 à 9 999 habitants ;
 
-5° A l'équivalent de 20 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de moins de
-3 500 habitants. 
+5° A l'équivalent de 30 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de moins de
+3 500 habitants.
 
-Les heures non utilisées pendant un trimestre ne sont pas reportables. 
+Les heures non utilisées pendant un trimestre ne sont pas reportables.
 
 Lorsqu'un adjoint ou un conseiller supplée le maire dans les conditions fixées par l'article L. 122-13, il bénéficie, pendant
-la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article. 
+la durée de la suppléance, du crédit d'heures fixé au 1°, au 2° ou au 3° du présent article.
 
 Les conseillers municipaux qui bénéficient d'une délégation de fonction du maire ont droit au crédit d'heures prévu pour les
-adjoints au 1° ou au 2°. 
+adjoints au 1° ou au 2°.
 
 III.-En cas de travail à temps partiel, ce crédit d'heures est réduit proportionnellement à la réduction du temps de travail
-prévue pour l'emploi considéré. 
+prévue pour l'emploi considéré.
 
 L'employeur est tenu d'accorder aux élus concernés, sur demande de ceux-ci, l'autorisation d'utiliser le crédit d'heures
 prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
@@ -1612,7 +1649,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 28
 
 _Cite_:
 
@@ -1719,8 +1756,8 @@ _Cite_:
 
 ###### Article L121-33-1
 
-A l'issue de son mandat, tout maire ou, dans les communes de 10 000 habitants au moins, tout adjoint qui, pour l'exercice de
-son mandat, a cessé son activité professionnelle salariée, a droit sur sa demande à une formation professionnelle. 
+A l'issue de son mandat, tout maire ou tout adjoint qui, pour l'exercice de son mandat, a cessé son activité professionnelle
+salariée, a droit sur sa demande à une formation professionnelle.
 
 Lorsque l'intéressé demande à bénéficier du congé de formation prévu par la législation et la réglementation applicable en
 Nouvelle-Calédonie, le temps passé au titre du mandat local est assimilé aux durées d'activité exigées pour l'accès à ces
@@ -1734,7 +1771,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 29
 
 
 ##### Section 6 : Garanties accordées aux membres des conseils municipaux dans leur activité professionnelle<a id=20></a>
@@ -1797,15 +1834,14 @@ _Cite_:
 
 ###### Article L121-36
 
-Les maires des communes de 3 500 habitants au moins, les adjoints au maire des communes de 10 000 habitants au moins qui,
-pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, d'une
-suspension de leur contrat de travail jusqu'à l'expiration de leur mandat. 
+Les maires et les adjoints au maire qui, pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle
+bénéficient, s'ils sont salariés, d'une suspension de leur contrat de travail jusqu'à l'expiration de leur mandat.
 
 Le droit à réintégration est maintenu aux élus mentionnés au premier alinéa du présent article jusqu'à l'expiration de deux
-mandats consécutifs. 
+mandats consécutifs.
 
 A la fin de leur mandat, les élus bénéficient à leur demande d'un stage de remise à niveau organisé dans l'entreprise, compte
-tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées. 
+tenu notamment de l'évolution de leur poste de travail ou de celle des techniques utilisées.
 
 Les fonctionnaires sont placés, sur leur demande, en position de détachement pour exercer les mandats mentionnés au premier
 alinéa.
@@ -1821,16 +1857,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 30
 
 
 ##### Section 7 : Droit à la formation<a id=21></a>
 
 ###### Article L121-37
 
-Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions. Dans les communes de 3 500 habitants
-et plus, une formation est obligatoirement organisée au cours de la première année de mandat pour les élus ayant reçu une
-délégation. 
+Les membres d'un conseil municipal ont droit à une formation adaptée à leurs fonctions. Une formation est obligatoirement
+organisée au cours de la première année de mandat pour les élus ayant reçu une délégation.
 
 Dans les trois mois suivant son renouvellement, le conseil municipal délibère sur l'exercice du droit à la formation de ses
 membres. Il détermine les orientations et les crédits ouverts à ce titre.
@@ -1846,7 +1881,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 31
 
 
 ###### Article L121-37-1
@@ -2193,6 +2228,29 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L121-39-5 
+
+Avant d'adopter un acte susceptible d'être déféré au tribunal administratif, les communes ou leurs groupements ainsi que
+leurs établissements publics peuvent saisir le haut-commissaire de la République en Nouvelle-Calédonie d'une demande de prise
+de position formelle relative à la mise en œuvre d'une disposition législative ou réglementaire régissant l'exercice de leurs
+compétences ou les prérogatives dévolues à leur exécutif. La demande est écrite, précise et complète. Elle comporte la
+transmission de la question de droit sur laquelle la prise de position formelle est demandée ainsi que du projet d'acte.
+
+Le silence gardé par le haut-commissaire de la République en Nouvelle-Calédonie pendant trois mois vaut absence de prise de
+position formelle.
+
+Si l'acte est conforme à la prise de position formelle, le haut-commissaire de la République en Nouvelle-Calédonie ne peut
+pas, au titre de la question de droit soulevée et sauf changement de circonstances, le déférer au tribunal administratif.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 32
+
+
 ###### Article L121-40
 
 Si un citoyen croit être personnellement lésé par un acte du conseil municipal, il peut en demander l'annulation au tribunal
@@ -2426,28 +2484,22 @@ la plus élevée sont élus.
 
 En cas d'élection d'un seul adjoint, celui-ci est élu selon les règles prévues à l'article L. 122-4.
 
-**Nota:**
-
-Loi 2007-128 du 31 janvier 2007 art. 1 V : Le présent article entre en vigueur à compter du premier renouvellement général
-des conseils municipaux qui suit la publication de la présente loi. (Date indéterminée).
+Quand il y a lieu, en cas de vacance, de désigner un ou plusieurs adjoints, ceux-ci sont choisis parmi les conseillers de
+même sexe que ceux auxquels ils sont appelés à succéder.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Entrée en vigueur : date indéterminée
-
-_Créé par_:
-
-  - Loi n°2007-128 du 31 janvier 2007 - art. 1 () JORF 1er février 2007
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 33
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L122-4 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L122-4
 
 
 ###### Article L122-5
@@ -2701,22 +2753,21 @@ _Cite_:
 ###### Article L122-11
 
 Le maire est seul chargé de l'administration ; mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté
-une partie de ses fonctions à un ou plusieurs de ses adjoints, et, en l'absence ou en cas d'empêchement des adjoints ou dès
-lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal. 
+une partie de ses fonctions à un ou plusieurs de ses adjoints, et à des membres du conseil municipal.
 
 Le membre du conseil municipal ayant démissionné de la fonction de maire, en application des articles LO 141 du code
 électoral, L. 122-4-1 du présent code, ne peut recevoir des délégations jusqu'au terme de son mandat de conseiller municipal
-ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité. 
+ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
 
-Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature : 
+Le maire peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
 
-1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ; 
+1° Au secrétaire général et au secrétaire général adjoint de mairie dans les communes ;
 
-2° Au directeur général des services techniques et au directeur des services techniques des communes ; 
+2° Au directeur général des services techniques et au directeur des services techniques des communes ;
 
-3° Aux responsables de services communaux. 
+3° Aux responsables de services communaux.
 
-Ces délégations subsistent tant qu'elles ne sont pas rapportées. 
+Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
 Le maire procède à la désignation des membres du conseil municipal pour siéger au sein d'organismes extérieurs dans les cas
 et conditions prévus par les dispositions du présent code et des textes régissant ces organismes. La fixation par les
@@ -2724,18 +2775,11 @@ dispositions précitées de la durée des fonctions assignées à ces membres ne
 à tout moment, et pour le reste de cette durée, à leur remplacement par une nouvelle désignation opérée dans les mêmes
 formes.
 
-**Nota:**
-
-Ordonnance n° 2009-538 du 14 mai 2009 reprend les dispositions de l'ordonnance n° 2007-1134 du 25 juillet 2007 portant
-extension et adaptation à la Nouvelle-Calédonie de diverses dispositions relatives aux communes et aux sociétés d'économie
-mixte locales devenue caduque le 26 janvier 2009 faute de ratification dans les délais prévus par l'article 74-1 de la
-Constitution.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2009-538 du 14 mai 2009 - art. 11
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 34
 
 _Cite_:
 
@@ -3325,6 +3369,22 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L122-28-1 
+
+Après le renouvellement général des conseils municipaux, le haut-commissaire de la République en Nouvelle-Calédonie et le
+procureur de la République reçoivent les maires des communes de la Nouvelle-Calédonie afin de leur présenter les attributions
+que ces derniers exercent au nom de l'Etat et comme officiers de police judiciaire et de l'état civil.
+
+A compter de leur désignation, les maires et les adjoints sont destinataires d'une carte d'identité tricolore attestant de
+leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 35
+
+
 ##### Section 4 : Garanties accordées à  l'issue du mandat<a id=27></a>
 
 ###### Article L122-29
@@ -3439,8 +3499,8 @@ remboursement des frais que nécessite l'exécution des mandats spéciaux.
 Les frais ainsi exposés peuvent être remboursés forfaitairement dans la limite du montant des indemnités journalières
 allouées à cet effet aux fonctionnaires de la Nouvelle-Calédonie du groupe I.
 
-Les dépenses de transport effectuées dans l'accomplissement de ces missions sont remboursées sur présentation d'un état de
-frais.
+Les dépenses de transport effectuées dans l'accomplissement de ces missions sont remboursées selon des modalités fixées par
+délibération du conseil municipal.
 
 Les autres dépenses liées à l'exercice d'un mandat spécial peuvent être remboursées par la commune sur présentation d'un état
 de frais et après délibération du conseil municipal. S'agissant des frais de garde d'enfants ou d'assistance aux personnes
@@ -3451,11 +3511,11 @@ heure, le montant horaire du salaire minimum garanti.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
 _Modifié par_:
 
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 15 () JORF 7 mai 2005
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 36
 
 
 ###### Article L123-2-1
@@ -3498,21 +3558,25 @@ _Cite_:
 
 ###### Article L123-2-2
 
-Les membres du conseil municipal peuvent bénéficier d'un remboursement par la commune, sur présentation d'un état de frais et
-après délibération du conseil municipal, des frais de garde d'enfants ou d'assistance aux personnes âgées, handicapées ou à
-celles qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont engagés en raison de leur participation aux réunions
+Les membres du conseil municipal bénéficient d'un remboursement par la commune, sur présentation d'un état de frais et après
+délibération du conseil municipal, des frais de garde d'enfants ou d'assistance aux personnes âgées, handicapées ou à celles
+qui ont besoin d'une aide personnelle à leur domicile, qu'ils ont engagés en raison de leur participation aux réunions
 mentionnées à l'article L. 121-28. Ce remboursement ne peut excéder, par heure, le montant horaire du salaire minimum
-garanti.
+garanti. Les modalités de remboursement sont fixées par délibération du conseil municipal.
+
+Dans les communes de moins de 3 500 habitants, le remboursement auquel a procédé la commune est compensé par l'Etat.
+
+Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-366 du 31 mars 2015 - art. 19 (V)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 37
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L121-28 (V)
+  - Code des communes de la Nouvelle-Calédonie - art. L121-28
 
 
 ###### Article L123-2-3
@@ -3685,6 +3749,34 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2013-403 du 17 mai 2013 - art. 36
+
+
+###### Article L123-8-1
+
+Chaque année, les communes établissent un état présentant l'ensemble des indemnités de toute nature dont bénéficient les élus
+siégeant au conseil municipal, au titre de tout mandat et de toutes fonctions exercés en leur sein et au sein de tout
+syndicat mixte ou de toute société d'économie mixte locale ou société publique locale, ou filiale d'une de ces sociétés. Cet
+état est communiqué chaque année aux conseillers municipaux avant l'examen du budget de la commune.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 38
+
+
+###### Article L123-8-2
+
+Dans des conditions fixées par leur règlement intérieur, le montant des indemnités de fonction que le conseil municipal des
+communes de 50 000 habitants et plus alloue à ses membres peut être modulé en fonction de leur participation effective aux
+séances plénières et aux réunions des commissions dont ils sont membres. La réduction éventuelle de ce montant ne peut
+dépasser, pour chacun des membres, la moitié de l'indemnité pouvant lui être allouée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 38
 
 
 ##### Section 4 : Régime de retraite des maires et adjoints<a id=32></a>
@@ -4510,6 +4602,22 @@ _Cite_:
   - Code des communes de la Nouvelle-Calédonie - art. L127-1 (V)
 
 
+###### Article L127-4 
+
+La commune est tenue de souscrire, dans un contrat d'assurance, une garantie visant à couvrir le conseil juridique,
+l'assistance psychologique et les coûts qui résultent de l'obligation de protection à l'égard du maire et des élus mentionnés
+au deuxième alinéa de l'article L. 127-1 et au deuxième alinéa de l'article L. 127-2.
+
+Dans les communes de moins de 3 500 habitants, le montant payé par la commune au titre de cette souscription fait l'objet
+d'une compensation par l'Etat en fonction d'un barème fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 39
+
+
 ### TITRE III : POLICE<a id=42></a>
 
 #### Chapitre Ier : Dispositions générales<a id=43></a>
@@ -4561,6 +4669,19 @@ _Créé par_:
 _Cite_:
 
   - Code des communes de la Nouvelle-Calédonie - art. L122-11 (M)
+
+
+###### Article L131-1-2 
+
+A la demande du maire, le haut-commissaire de la République en Nouvelle-Calédonie ou son représentant présente, une fois par
+an, devant le conseil municipal, l'action de l'Etat en matière de sécurité et de prévention de la délinquance pour la commune
+concernée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 40
 
 
 ###### Article L131-2
@@ -4680,18 +4801,88 @@ _Créé par_:
 
 ###### Article L131-3
 
-Le maire a la police de la circulation sur les routes territoriales, les routes provinciales et les voies de communication à
-l'intérieur des agglomérations.
+Le maire a la police de la circulation sur les routes territoriales, les routes provinciales et l'ensemble des voies
+publiques ou privées ouvertes à la circulation publique à l'intérieur des agglomérations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 41
+
+
+###### Article L131-3-1
+
+Dans l'hypothèse où, après mise en demeure sans résultat, le maire procéderait à l'exécution forcée des travaux d'élagage
+destinés à mettre fin à l'avance des plantations privées sur l'emprise des voies sur lesquelles il exerce la police de la
+circulation en application de l'article L. 131-3 afin de garantir la sûreté et la commodité du passage, les frais afférents
+aux opérations sont mis à la charge des propriétaires négligents.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 42
+
+
+###### Article L131-3-2
+
+I. - Dans les conditions prévues au II, peut donner lieu à une amende administrative d'un montant maximal de 60 000 francs
+CFP tout manquement à un arrêté du maire présentant un risque pour la sécurité des personnes et ayant un caractère répétitif
+ou continu :
+
+1° En matière d'élagage et d'entretien des arbres et des haies donnant sur la voie ou le domaine public ;
+
+2° Ayant pour effet de bloquer ou d'entraver la voie ou le domaine public, en y installant ou en y laissant sans nécessité ou
+sans autorisation tout matériel ou objet, ou en y déversant toute substance ;
+
+3° Consistant, au moyen d'un bien mobilier, à occuper à des fins commerciales la voie ou le domaine public soit sans droit ni
+titre, lorsque celui-ci est requis en application de l'article L. 2122-1 du code général de la propriété des personnes
+publiques, soit de façon non conforme au titre délivré en application du même article L. 2122-1, lorsque cette occupation
+constitue un usage privatif de ce domaine public excédant le droit d'usage appartenant à tous.
+
+II. - Le manquement mentionné au I du présent article est constaté par procès-verbal d'un officier de police judiciaire, d'un
+agent de police judiciaire ou d'un agent de police judiciaire adjoint.
+
+Le maire notifie par écrit à la personne intéressée les faits qui lui sont reprochés, les mesures nécessaires pour faire
+cesser le manquement ainsi que les sanctions encourues. Cette notification mentionne la possibilité de présenter des
+observations, écrites ou orales, dans un délai de dix jours, le cas échéant assisté par un conseil ou représenté par un
+mandataire de son choix.
+
+A l'expiration de ce délai de dix jours, si la personne n'a pas pris les mesures nécessaires pour faire cesser le manquement,
+le maire la met en demeure de se conformer à la réglementation dans un nouveau délai de dix jours.
+
+A l'issue de ce second délai et à défaut d'exécution des mesures prescrites, le maire peut, par une décision motivée qui
+indique les voies et délais de recours, prononcer l'amende administrative prévue au premier alinéa du I. Le montant de
+l'amende est fixé en fonction de la gravité des faits reprochés.
+
+La décision du maire prononçant l'amende est notifiée par écrit à la personne intéressée. Elle mentionne les modalités et le
+délai de paiement de l'amende. Cette décision est soumise aux dispositions de l'article L. 121-39-1.
+
+Le recours formé contre la décision prononçant l'amende est un recours de pleine juridiction.
+
+L'amende administrative est recouvrée au bénéfice de la commune dans les conditions prévues par les dispositions relatives
+aux produits communaux.
+
+Le délai de prescription de l'action du maire pour la sanction d'un manquement mentionné au premier alinéa du I est d'un an
+révolu à compter du jour où le premier manquement a été commis.
+
+Ne peut faire l'objet de l'amende administrative prévue au premier alinéa du I le fait pour toute personne d'avoir installé
+sur la voie ou le domaine public les objets nécessaires à la satisfaction de ses besoins élémentaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 42
+
+_Cite_:
+
+  - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
 ###### Article L131-4
@@ -4873,6 +5064,19 @@ _Créé par_:
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
 
 
+###### Article L131-12-1
+
+Les délibérations du conseil municipal ou les arrêtés du maire tendant à transférer ou à supprimer des lieux
+traditionnellement ouverts à l'installation de cirques ou de fêtes foraines sont pris après une consultation menée auprès des
+professionnels concernés selon des modalités définies par la commune.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 43
+
+
 ##### Section 3 : Pouvoirs du haut-commissaire en matière de police municipale<a id=46></a>
 
 ###### Article L131-13
@@ -5007,15 +5211,16 @@ _Cite_:
 
 ###### Article L132-1-1
 
-Toute commune peut avoir un ou plusieurs gardes champêtres. Plusieurs communes peuvent avoir un ou plusieurs gardes
-champêtres en commun. 
+I. - Toute commune peut avoir un ou plusieurs gardes champêtres.
 
-Un groupement de communes peut recruter un ou plusieurs gardes champêtres compétents dans chacune des communes concernées.
-Leur nomination est prononcée conjointement par le maire de chacune des communes membres et le président du groupement de
-communes. 
+II. - Plusieurs communes peuvent avoir un ou plusieurs gardes champêtres en commun. Chaque garde champêtre est de plein droit
+mis à la disposition des autres communes par la commune qui l'emploie, dans des conditions prévues par une convention
+transmise au haut-commissaire de la République en Nouvelle-Calédonie. Cette convention, conclue entre l'ensemble des communes
+concernées, précise les modalités d'organisation et de financement de la mise en commun des gardes champêtres et de leurs
+équipements.
 
-Les gardes champêtres ainsi recrutés exercent les compétences mentionnées à l'article L. 132-2 sans préjudice des compétences
-qui leur sont dévolues par le code de procédure pénale et par des lois spéciales. 
+III. - Les gardes champêtres ainsi recrutés exercent les compétences mentionnées à l'article L. 132-2 sans préjudice des
+compétences qui leur sont dévolues par le code de procédure pénale et par des lois spéciales.
 
 Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ils sont placés sous l'autorité du maire de cette
 commune.
@@ -5024,19 +5229,15 @@ commune.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 20 () JORF 7 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de la sécurité intérieure - art. L546-4 (VD)
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 44
 
 _Cite_:
 
-  - Code des communes de la Nouvelle-Calédonie - art. L132-2 (Ab)
+  - Code des communes de la Nouvelle-Calédonie - art. L132-2
 
 
 ##### Section 2 : Pouvoirs de police dans les communes où est instituée une police d'Etat<a id=49></a>
@@ -5661,8 +5862,9 @@ _Créé par_:
 
 ###### Article L161-2
 
-Les questions d'intérêt commun sont débattues dans des conférences où chaque conseil municipal est représenté par une
-commission spéciale nommée à cet effet et composée de trois membres désignés au scrutin secret.
+Les questions d'intérêt commun sont débattues dans des conférences dont la composition est définie par convention entre les
+communes. A défaut, chaque conseil municipal est représenté par une commission spéciale nommée à cet effet et composée de
+trois membres désignés au scrutin secret.
 
 Le haut-commissaire et les commissaires délégués peuvent assister à ces conférences si les communes intéressées le demandent.
 
@@ -5673,11 +5875,11 @@ et sous les réserves énoncées aux titres Ier, II et III du livre II.
 
 _Codifié par_:
 
-  - Décret n°2001-579 2001-06-29
+  - Décret n°2001-579 du 29 juin 2001
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 45
 
 
 #### Chapitre II : Biens et droits indivis entre plusieurs communes<a id=57></a>
@@ -5948,6 +6150,31 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2001-579 2001-06-29 annexe jorf 5 juillet 2001
+
+
+###### Article L163-9-1 
+
+Les conseillers municipaux des communes membres d'un syndicat de communes qui ne sont pas membres de son organe délibérant
+sont informés des affaires du syndicat faisant l'objet d'une délibération.
+
+Ils sont destinataires d'une copie de la convocation adressée aux membres du comité syndical avant chaque réunion du comité
+syndical accompagnée, le cas échéant, de la note explicative de synthèse mentionnée au III de l'article L. 121-10. Leur sont
+également communiqués les rapports mentionnés au II de l'article L. 212-1 ainsi que, dans un délai d'un mois, le compte rendu
+des réunions de l'organe délibérant du syndicat de communes.
+
+Les documents mentionnés au deuxième alinéa du présent article sont transmis ou mis à disposition de manière dématérialisée
+par le syndicat de communes.
+
+Ces documents sont consultables en mairie par les conseillers municipaux, à leur demande.
+
+Le présent article s'applique aux membres des organes délibérants d'un syndicat de communes ou d'une commune membre d'un
+syndicat mixte qui ne sont pas membres de son comité syndical.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 46
 
 
 ###### Article L163-10
@@ -8458,17 +8685,20 @@ _Cité par_:
 
 ###### Article L236-7-2
 
-L'article L. 1611-3-2 du code général des collectivités territoriales est applicable aux communes et à leurs groupements.
+L'article L. 1611-3-2 du code général des collectivités territoriales est applicable aux communes et à leurs groupements dans
+sa rédaction issue de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de
+l'action publique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 8
-
 _Cite_:
 
+  - Loi n°2019-1461 du 27 décembre 2019
   - Code général des collectivités territoriales - art. L1611-3-2
+
+_Modifié par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 47
 
 
 ##### Section 3 : Garanties d'emprunt<a id=102></a>
@@ -9578,6 +9808,32 @@ Constitution.
 _Modifié par_:
 
   - Ordonnance n°2009-538 du 14 mai 2009 - art. 37
+
+
+###### Article L322-4 
+
+Les services publics d'eau et d'assainissement sont autorisés à mettre en œuvre des mesures sociales visant à rendre effectif
+le droit d'accéder à l'eau potable et à l'assainissement dans des conditions économiquement acceptables par tous. Ces mesures
+peuvent inclure la définition de tarifs tenant compte de la composition ou des revenus du foyer, l'attribution d'une aide au
+paiement des factures d'eau, une aide à l'accès à l'eau ou un accompagnement et des mesures favorisant les économies d'eau.
+Ces mesures peuvent également inclure la définition de tarifs incitatifs définis en fonction de la quantité d'eau consommée.
+La part incitative s'ajoute à une part fixe déterminée selon les modalités de tarification classique.
+
+Par dérogation au premier alinéa de l'article L. 322-2 du présent code, les communes et leurs groupements mettant en œuvre
+ces mesures peuvent contribuer à leur financement en prenant en charge dans leur budget propre tout ou partie du montant des
+dépenses prévues à cet effet par les services publics d'eau et d'assainissement, dans la limite de 2 % des montants hors
+taxes des redevances d'eau ou d'assainissement perçues.
+
+Dans le cadre de la définition de tarifs ou de l'attribution d'une aide au paiement des factures d'eau tenant compte des
+difficultés particulières du foyer, si le bénéficiaire des mesures sociales en faveur de l'accès à l'eau ne reçoit pas
+directement de facture d'eau à son nom, les bailleurs et syndicats de copropriété établissent une convention pour définir les
+modalités de perception de l'aide.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2020-1256 du 14 octobre 2020 - art. 48
 
 
 #### Chapitre III : Régies municipales<a id=126></a>
